@@ -15,7 +15,7 @@
 | 9 | Les Reseaux Identitaires | Les Consciences Proches | La Resonance Mutuelle | Les Liens Invisibles | Les Familles Multiversielles | Les Civilisations de Resonance |
 | 10 | L'Ocean des Possibles | Le Champ Fondamental | Les Structures Vibratoires | La Realite comme Reseau | La Grande Synchronisation | L'Ocean des Possibles |
 
-## Livre Actif: Fondation 1, Livre 3
+## Livre Actif: Fondation 1, Livre 4
 
 ### Livre 1: Le Multivers Infini
 
@@ -54,9 +54,9 @@
 
 | Chapitre | Titre | Objectif | Statut |
 | --- | --- | --- | --- |
-| 01 | L'objection du possible | Poser la difference entre "aurait pu exister" et "existe quelque part" | A preparer |
-| 02 | Le possible coherent | Definir les conditions minimales d'existence multiversielle | A preparer |
-| 03 | De la logique a la realite | Montrer pourquoi la coherence peut tendre vers une forme d'existence | A preparer |
+| 01 | L'objection du possible | Poser la difference entre "aurait pu exister" et "existe quelque part" | Redige |
+| 02 | Le possible coherent | Definir les conditions minimales d'existence multiversielle | Redige |
+| 03 | De la logique a la realite | Montrer pourquoi la coherence peut tendre vers une forme d'existence | Redige |
 | 04 | Les mondes sans observateur local | Examiner les branches sans ancrage conscient apparent | A preparer |
 | 05 | Le reel comme totalite non locale | Etendre la notion de reel au-dela de l'experience presente | A preparer |
 | 06 | Pourquoi quelque part suffit | Conclure sur l'existence non locale et preparer les limites du possible | A preparer |

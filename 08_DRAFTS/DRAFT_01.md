@@ -9,9 +9,10 @@ Le Draft 01 est en cours sous forme de fichiers separes dans `06_CHAPTERS`.
 | 1 | `06_CHAPTERS/FONDATION_01_LIVRE_01_LE_MULTIVERS_INFINI.md` | Premiere passe complete |
 | 2 | `06_CHAPTERS/FONDATION_01_LIVRE_02_LA_CARTOGRAPHIE_DES_REALITES.md` | Premiere passe complete |
 | 3 | `06_CHAPTERS/FONDATION_01_LIVRE_03_LES_BRANCHES_DE_L_EXISTENCE.md` | Premiere passe complete |
+| 4 | `06_CHAPTERS/FONDATION_01_LIVRE_04_POURQUOI_TOUT_EXISTE_QUELQUE_PART.md` | En cours, chapitres 1-3 rediges |
 
 ## Total
-25275 mots au 2026-06-23.
+30284 mots au 2026-06-23.
 
 ## Prochaine Etape
-Preparer le Livre 4: "Pourquoi Tout Existe Quelque Part".
+Continuer le Livre 4, chapitre 4: "Les mondes sans observateur local".

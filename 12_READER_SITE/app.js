@@ -14,7 +14,7 @@ const themeToggle = document.querySelector("#themeToggle");
 const focusToggle = document.querySelector("#focusToggle");
 const menuButton = document.querySelector("#menuButton");
 const sidebar = document.querySelector("#sidebar");
-const BUILD_VERSION = "20260623-398eb85";
+const BUILD_VERSION = "20260623-livre4-c1";
 
 const books = [
   {
@@ -40,6 +40,14 @@ const books = [
     sourcePath: "../06_CHAPTERS/FONDATION_01_LIVRE_03_LES_BRANCHES_DE_L_EXISTENCE.md",
     description:
       "Une exploration de la naissance des branches: differences initiales, bifurcations, coherence interne, trajectoires personnelles et collectives.",
+  },
+  {
+    id: "livre-4",
+    label: "Livre 4",
+    title: "Pourquoi Tout Existe Quelque Part",
+    sourcePath: "../06_CHAPTERS/FONDATION_01_LIVRE_04_POURQUOI_TOUT_EXISTE_QUELQUE_PART.md",
+    description:
+      "L'argument central de la Fondation 1: pourquoi le possible coherent ne doit pas etre reduit a une simple fiction mentale.",
   },
 ];
 
