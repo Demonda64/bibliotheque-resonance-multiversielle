@@ -9,6 +9,13 @@ Lecteurs curieux de multivers, conscience, reves, meditation et cosmologie specu
 ## Phase
 Concept
 
+## Site de lecture
+Le lecteur public GitHub Pages est prevu ici:
+
+https://demonda64.github.io/bibliotheque-resonance-multiversielle/
+
+Le fichier `index.html` redirige vers `12_READER_SITE/`, qui charge les livres depuis le dossier `06_CHAPTERS`.
+
 ## Dossiers
 - `00_HOME`: tableau de bord, journal, prochaine action
 - `01_CONCEPT`: premise, promesse, public
