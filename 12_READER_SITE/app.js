@@ -14,6 +14,7 @@ const themeToggle = document.querySelector("#themeToggle");
 const focusToggle = document.querySelector("#focusToggle");
 const menuButton = document.querySelector("#menuButton");
 const sidebar = document.querySelector("#sidebar");
+const BUILD_VERSION = "20260623-398eb85";
 
 const books = [
   {
@@ -43,6 +44,10 @@ const books = [
 ];
 
 let activeBook = books[0];
+
+function versionedPath(path) {
+  return `${path}?v=${encodeURIComponent(BUILD_VERSION)}`;
+}
 
 function escapeHtml(value) {
   return value
@@ -106,7 +111,7 @@ function buildToc() {
 
   tocEl.innerHTML = headings
     .map((heading, index) => {
-      const label = heading.textContent.replace(" - ", " · ");
+      const label = heading.textContent;
       return `<a href="#${heading.id}" data-index="${index}">${escapeHtml(label)}</a>`;
     })
     .join("");
@@ -149,13 +154,13 @@ async function loadManuscript() {
   manuscriptEl.innerHTML = '<p class="loading">Chargement du manuscrit...</p>';
   bookTitle.textContent = activeBook.title;
   bookDescription.textContent = activeBook.description;
-  sourceLink.href = activeBook.sourcePath;
+  sourceLink.href = versionedPath(activeBook.sourcePath);
   activeBookRail.textContent = activeBook.label;
   currentChapter.textContent = "Ouverture";
   renderBookList();
 
   try {
-    const response = await fetch(activeBook.sourcePath);
+    const response = await fetch(versionedPath(activeBook.sourcePath), { cache: "no-store" });
     if (!response.ok) {
       throw new Error(`HTTP ${response.status}`);
     }
