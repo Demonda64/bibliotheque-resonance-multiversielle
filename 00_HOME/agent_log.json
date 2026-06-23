@@ -1,3 +1,9 @@
 {
-  "agent_runs": []
+  "agent_runs": [
+    {
+      "date": "2026-06-23",
+      "summary": "Updated annex documents after GitHub publication: dashboard, next action, session log, chapter map, synopsis, continuity, revision plan, export checklist, reader README, state JSON files and project README.",
+      "next_action": "Write Livre 3 chapter 3: Choix, accidents et bifurcations."
+    }
+  ]
 }

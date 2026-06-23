@@ -1,10 +1,10 @@
 {
-  "current_phase": "01 Concept",
+  "current_phase": "04 Draft 01",
   "phases": [
     {
       "id": "01",
       "name": "01 Concept",
-      "status": "todo",
+      "status": "done",
       "required_files": [
         "01_CONCEPT/CONCEPT.md",
         "00_HOME/PROJECT_DASHBOARD.md"
@@ -13,7 +13,7 @@
     {
       "id": "02",
       "name": "02 Story Bible",
-      "status": "todo",
+      "status": "in_progress",
       "required_files": [
         "02_STORY_BIBLE/CONTINUITY.md",
         "02_STORY_BIBLE/STYLE_GUIDE.md",
@@ -24,7 +24,7 @@
     {
       "id": "03",
       "name": "03 Outline",
-      "status": "todo",
+      "status": "in_progress",
       "required_files": [
         "05_OUTLINE/SYNOPSIS.md",
         "05_OUTLINE/CHAPTER_MAP.md"
@@ -33,7 +33,7 @@
     {
       "id": "04",
       "name": "04 Draft 01",
-      "status": "todo",
+      "status": "in_progress",
       "required_files": [
         "06_CHAPTERS/CHAPTER_01.md",
         "08_DRAFTS/DRAFT_01.md",

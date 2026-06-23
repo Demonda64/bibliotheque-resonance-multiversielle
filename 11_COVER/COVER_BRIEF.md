@@ -63,3 +63,6 @@ Pas de portail fantasy generique, pas de visage en gros plan, pas de surcharge d
 - Image source:
 - Couverture finale:
 - Mockup:
+
+## Statut
+Brief pret pour une premiere generation visuelle. Attendre idealement la stabilisation du sous-titre ou du positionnement editorial avant couverture finale.

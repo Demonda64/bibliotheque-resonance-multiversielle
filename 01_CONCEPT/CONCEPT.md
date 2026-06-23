@@ -35,3 +35,10 @@ Et si la vie que nous appelons "reelle" n'etait qu'une position locale dans un o
 
 ## Pourquoi Ce Livre
 Parce que la theorie a deja une architecture puissante. L'enjeu maintenant est de la rendre lisible, transmissible et habitable: transformer une intuition de multivers en bibliotheque coherente, avec des definitions stables, des images fortes et un parcours progressif pour le lecteur.
+
+## Etat Actuel
+- Fondation 1, Livre 1: premiere passe complete.
+- Fondation 1, Livre 2: premiere passe complete.
+- Fondation 1, Livre 3: chapitres 1 et 2 rediges.
+- Lecteur web statique: cree et pousse sur GitHub.
+- Publication publique: branche `gh-pages` prete; activation Pages manuelle requise.

@@ -4,15 +4,29 @@
       "id": "T001",
       "phase": "01 Concept",
       "title": "Fill the core concept",
-      "status": "todo",
+      "status": "done",
       "file": "01_CONCEPT/CONCEPT.md"
     },
     {
       "id": "T002",
       "phase": "01 Concept",
       "title": "Define the next action",
-      "status": "todo",
+      "status": "done",
       "file": "00_HOME/NEXT_ACTION.md"
+    },
+    {
+      "id": "T003",
+      "phase": "04 Draft 01",
+      "title": "Write Livre 3 chapter 3",
+      "status": "next",
+      "file": "06_CHAPTERS/FONDATION_01_LIVRE_03_LES_BRANCHES_DE_L_EXISTENCE.md"
+    },
+    {
+      "id": "T004",
+      "phase": "08 Export",
+      "title": "Activate GitHub Pages from gh-pages branch",
+      "status": "waiting_user",
+      "file": "README.md"
     }
   ]
 }

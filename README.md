@@ -7,7 +7,7 @@ Essai speculatif / metaphysique de fiction
 Lecteurs curieux de multivers, conscience, reves, meditation et cosmologie speculative
 
 ## Phase
-Concept
+Redaction Fondation 1
 
 ## Site de lecture
 Le lecteur public GitHub Pages est prevu ici:
@@ -22,6 +22,15 @@ Pour activer le site dans GitHub:
 2. Dans `Build and deployment`, choisir `Deploy from a branch`.
 3. Selectionner la branche `gh-pages` et le dossier `/ (root)`.
 4. Enregistrer.
+
+## Progression actuelle
+| Livre | Titre | Statut | Mots |
+| --- | --- | --- | ---: |
+| Fondation 1 - Livre 1 | Le Multivers Infini | Premiere passe complete | 7515 |
+| Fondation 1 - Livre 2 | La Cartographie des Realites | Premiere passe complete | 7829 |
+| Fondation 1 - Livre 3 | Les Branches de l'Existence | Chapitres 1-2 rediges | 2433 |
+
+Total manuscrit actuel: 17777 mots.
 
 ## Dossiers
 - `00_HOME`: tableau de bord, journal, prochaine action

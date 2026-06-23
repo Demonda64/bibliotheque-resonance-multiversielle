@@ -15,7 +15,9 @@
 | 9 | Les Reseaux Identitaires | Les Consciences Proches | La Resonance Mutuelle | Les Liens Invisibles | Les Familles Multiversielles | Les Civilisations de Resonance |
 | 10 | L'Ocean des Possibles | Le Champ Fondamental | Les Structures Vibratoires | La Realite comme Reseau | La Grande Synchronisation | L'Ocean des Possibles |
 
-## Livre Actif: Fondation 1, Livre 1
+## Livre Actif: Fondation 1, Livre 3
+
+### Livre 1: Le Multivers Infini
 
 | Chapitre | Titre | Objectif | Statut |
 | --- | --- | --- | --- |
@@ -25,3 +27,25 @@
 | 04 | La simultaneite des versions | Introduire les variantes de soi et des evenements | Redige |
 | 05 | Pourquoi notre branche semble unique | Decrire les filtres perceptifs, l'ancrage local et la stabilite necessaire | Redige |
 | 06 | Le vertige et la methode | Introduire divergence, branches-ponts, premieres metriques et convergence progressive sans quitter la Fondation 1 | Redige |
+
+### Livre 2: La Cartographie des Realites
+
+| Chapitre | Titre | Objectif | Statut |
+| --- | --- | --- | --- |
+| 01 | Pourquoi cartographier l'infini | Montrer pourquoi une carte est necessaire sans reduire le reel a la carte | Redige |
+| 02 | Les branches proches | Definir les realites presque voisines et leur importance pratique | Redige |
+| 03 | Les branches divergentes | Explorer les ecarts durables, les distances et les seuils | Redige |
+| 04 | Les realites instables | Decrire les branches fragiles, incoherentes ou mal stabilisees | Redige |
+| 05 | Les zones oniriques et temporelles | Relier reve, temps local et perception de branches atypiques | Redige |
+| 06 | Lire une carte sans confondre la carte et le reel | Poser la prudence methodologique de la cartographie | Redige |
+
+### Livre 3: Les Branches de l'Existence
+
+| Chapitre | Titre | Objectif | Statut |
+| --- | --- | --- | --- |
+| 01 | La naissance d'une branche | Expliquer qu'une branche nait lorsqu'une trajectoire devient coherente | Redige |
+| 02 | Conditions initiales et ecarts minuscules | Montrer comment de petites differences orientent des destins divergents | Redige |
+| 03 | Choix, accidents et bifurcations | Distinguer decision, hasard apparent et separation durable | A ecrire |
+| 04 | La coherence interne d'une branche | Montrer pourquoi une branche doit tenir ensemble | A ecrire |
+| 05 | Branches collectives et branches personnelles | Distinguer trajectoires individuelles et realites partagees | A ecrire |
+| 06 | Ce qui se separe continue | Conclure sur la persistance des branches non vecues localement | A ecrire |
