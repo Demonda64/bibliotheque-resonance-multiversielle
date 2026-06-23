@@ -15,6 +15,9 @@ Tout ce qui est vrai dans le livre.
 | Exister quelque part | Exister quelque part signifie appartenir a la totalite structuree du possible coherent, sans etre necessairement observable ou habitable depuis notre branche locale. | Livre 4, chapitre 1 | Distinguer existence locale, existence logique et existence multiversielle. |
 | Possible coherent | Un possible coherent est une configuration non auto-annulee, continue, compatible avec elle-meme et capable de produire des consequences. | Livre 4, chapitre 2 | Filtre entre image, fantasme, possible instable et branche digne d'etre cartographiee. |
 | Existence multiversielle | Une configuration existe multiversiellement lorsqu'elle depasse la simple definition logique et forme une continuation coherente dans l'architecture totale des possibles. | Livre 4, chapitre 3 | Distinguer existence locale, logique et multiversielle. |
+| Observateur local | L'observation donne un acces a une branche; l'ancrage la rend vecue; l'existence multiversielle depend d'abord de la coherence de continuation. | Livre 4, chapitre 4 | Eviter les deux exces: "sans observateur rien n'existe" et "l'observateur ne compte pas". |
+| Totalite non locale | Le reel est la totalite non locale des branches coherentes; notre branche locale en est une region dense et vecue. | Livre 4, chapitre 5 | La totalite n'annule pas la valeur du local; elle le situe. |
+| Quelque part | "Quelque part" designe la position d'une branche ou configuration coherente dans la totalite non locale du reel, pas necessairement une adresse spatiale ordinaire. | Livre 4, chapitre 6 | Prepare le Livre 5: poser les limites du possible. |
 | Resonance | La conscience peut recevoir des echos de branches proches sous forme d'intuitions, imagination, reves ou alignements. | THEORIE_CANON.md | A developper surtout en Fondation 3. |
 | Noyau identitaire | Une personnalite locale n'est pas le noyau; elle est une configuration temporaire d'un noyau plus profond. | FRACTURES_DU_SOI.md | Toujours distinguer speculation cosmologique et explication medicale. |
 | Convergence progressive | Une branche lointaine doit etre approchée par branches-ponts et familiarisation quotidienne. | METHODE_CONVERGENCE_PROGRESSIVE.md | Methode pratique interne, pas loi cosmologique absolue. |
@@ -26,7 +29,7 @@ Tout ce qui est vrai dans le livre.
 | Fondation 1 - Livre 1 | Le lecteur accepte l'hypothese du multivers comme architecture des possibles. | L1 C1-C6 | Premiere passe complete. |
 | Fondation 1 - Livre 2 | Le lecteur apprend a classer les realites par proximite, divergence et stabilite. | L2 C1-C6 | Premiere passe complete. |
 | Fondation 1 - Livre 3 | Le lecteur etudie la naissance, la separation, la coherence et la persistance des branches. | L3 C1-C6 | Premiere passe complete. |
-| Fondation 1 - Livre 4 | Le lecteur affronte l'objection centrale: pourquoi dire que le possible coherent existe quelque part. | L4 C1 | En cours. |
+| Fondation 1 - Livre 4 | Le lecteur affronte l'objection centrale: pourquoi dire que le possible coherent existe quelque part. | L4 C1-C6 | Premiere passe complete. |
 
 ## Questions Ouvertes
 

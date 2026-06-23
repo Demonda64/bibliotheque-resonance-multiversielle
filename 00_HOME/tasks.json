@@ -74,8 +74,29 @@
       "id": "T011",
       "phase": "04 Draft 01",
       "title": "Write Livre 4 chapter 4",
-      "status": "next",
+      "status": "done",
       "file": "06_CHAPTERS/FONDATION_01_LIVRE_04_POURQUOI_TOUT_EXISTE_QUELQUE_PART.md"
+    },
+    {
+      "id": "T012",
+      "phase": "04 Draft 01",
+      "title": "Write Livre 4 chapter 5",
+      "status": "done",
+      "file": "06_CHAPTERS/FONDATION_01_LIVRE_04_POURQUOI_TOUT_EXISTE_QUELQUE_PART.md"
+    },
+    {
+      "id": "T013",
+      "phase": "04 Draft 01",
+      "title": "Write Livre 4 chapter 6",
+      "status": "done",
+      "file": "06_CHAPTERS/FONDATION_01_LIVRE_04_POURQUOI_TOUT_EXISTE_QUELQUE_PART.md"
+    },
+    {
+      "id": "T014",
+      "phase": "04 Draft 01",
+      "title": "Prepare Livre 5 outline and file",
+      "status": "next",
+      "file": "05_OUTLINE/FONDATION_01_PLAN.md"
     }
   ]
 }

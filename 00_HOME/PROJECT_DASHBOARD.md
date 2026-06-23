@@ -17,7 +17,7 @@ Donner au lecteur une carte claire, progressive et vertigineuse du reel possible
 Poursuivre la Fondation 1 en terminant le Livre 3, "Les Branches de l'Existence", puis synchroniser le lecteur GitHub Pages.
 
 ## Prochaine Action
-Continuer `06_CHAPTERS/FONDATION_01_LIVRE_04_POURQUOI_TOUT_EXISTE_QUELQUE_PART.md` avec le chapitre 4: "Les mondes sans observateur local".
+Preparer le Livre 5, "Les Limites du Possible".
 
 ## Site Public
 URL prevue:
@@ -44,4 +44,4 @@ Publication: branche `gh-pages`, dossier `/ (root)`.
 | Fondation 1 - Livre 1 | Le Multivers Infini | 7515 | Premiere passe complete |
 | Fondation 1 - Livre 2 | La Cartographie des Realites | 7829 | Premiere passe complete |
 | Fondation 1 - Livre 3 | Les Branches de l'Existence | 9931 | Premiere passe complete |
-| Fondation 1 - Livre 4 | Pourquoi Tout Existe Quelque Part | 5009 | Chapitres 1-3 rediges |
+| Fondation 1 - Livre 4 | Pourquoi Tout Existe Quelque Part | 9878 | Premiere passe complete |

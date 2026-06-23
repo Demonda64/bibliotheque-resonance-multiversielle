@@ -29,9 +29,9 @@ Pour activer le site dans GitHub:
 | Fondation 1 - Livre 1 | Le Multivers Infini | Premiere passe complete | 7515 |
 | Fondation 1 - Livre 2 | La Cartographie des Realites | Premiere passe complete | 7829 |
 | Fondation 1 - Livre 3 | Les Branches de l'Existence | Premiere passe complete | 9931 |
-| Fondation 1 - Livre 4 | Pourquoi Tout Existe Quelque Part | Chapitres 1-3 rediges | 5009 |
+| Fondation 1 - Livre 4 | Pourquoi Tout Existe Quelque Part | Premiere passe complete | 9878 |
 
-Total manuscrit actuel: 30284 mots.
+Total manuscrit actuel: 35153 mots.
 
 ## Dossiers
 - `00_HOME`: tableau de bord, journal, prochaine action
