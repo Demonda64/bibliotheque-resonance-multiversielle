@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Lecteur web de la Bibliotheque de la Resonance Multiversielle." />
+    <title>Bibliotheque de la Resonance Multiversielle - Lecteur</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="mobile-bar">
+        <a class="brand-link" href="#top" aria-label="Retour au debut">BRM</a>
+        <button class="menu-button" id="menuButton" type="button" aria-expanded="false" aria-controls="sidebar">
+          <span></span>
+          <span></span>
+        </button>
+      </header>
+
+      <aside class="sidebar" id="sidebar" aria-label="Sommaire du livre">
+        <div class="brand-block">
+          <a class="brand-mark" href="#top">BRM</a>
+          <div>
+            <h1>Bibliotheque de la Resonance Multiversielle</h1>
+            <p>Fondation 1 - Le Multivers</p>
+          </div>
+        </div>
+
+        <div class="book-list" id="bookList" aria-label="Livres"></div>
+
+        <nav class="toc" id="toc" aria-label="Chapitres"></nav>
+
+        <div class="sidebar-actions">
+          <button id="themeToggle" type="button">Theme sombre</button>
+          <button id="focusToggle" type="button">Mode focus</button>
+        </div>
+      </aside>
+
+      <main class="reader" id="top">
+        <section class="reader-hero" aria-labelledby="bookTitle">
+          <div class="hero-copy">
+            <p class="series-name">L'Architecture des Possibles</p>
+            <h2 id="bookTitle">Le Multivers Infini</h2>
+            <p id="bookDescription">
+              Une entree dans la theorie de la resonance multiversielle:
+              le reel comme architecture des possibles, la branche comme
+              trajectoire, et la conscience comme point d'ancrage.
+            </p>
+          </div>
+          <div class="hero-map" aria-hidden="true">
+            <span class="node main"></span>
+            <span class="node n1"></span>
+            <span class="node n2"></span>
+            <span class="node n3"></span>
+            <span class="node n4"></span>
+            <span class="line l1"></span>
+            <span class="line l2"></span>
+            <span class="line l3"></span>
+            <span class="line l4"></span>
+          </div>
+        </section>
+
+        <section class="reader-tools" aria-label="Outils de lecture">
+          <div>
+            <span>Progression</span>
+            <strong id="progressLabel">0%</strong>
+          </div>
+          <label>
+            Taille
+            <input id="fontRange" type="range" min="17" max="24" value="20" />
+          </label>
+          <div>
+            <span>Mots</span>
+            <strong id="wordCount">-</strong>
+          </div>
+        </section>
+
+        <article class="manuscript" id="manuscript" aria-live="polite"></article>
+
+        <footer class="reader-footer">
+          <a id="sourceLink" href="../06_CHAPTERS/FONDATION_01_LIVRE_01_LE_MULTIVERS_INFINI.md">Manuscrit source</a>
+          <a href="#top">Retour au debut</a>
+        </footer>
+      </main>
+
+      <aside class="reading-rail" aria-label="Suivi de lecture">
+        <div class="rail-card">
+          <span>Livre actif</span>
+          <strong id="activeBookRail">Livre 1</strong>
+        </div>
+        <div class="rail-card">
+          <span>Chapitre courant</span>
+          <strong id="currentChapter">Ouverture</strong>
+        </div>
+        <div class="progress-track" aria-hidden="true">
+          <span id="progressBar"></span>
+        </div>
+      </aside>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
