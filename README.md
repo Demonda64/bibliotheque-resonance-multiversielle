@@ -16,6 +16,13 @@ https://demonda64.github.io/bibliotheque-resonance-multiversielle/
 
 Le fichier `index.html` redirige vers `12_READER_SITE/`, qui charge les livres depuis le dossier `06_CHAPTERS`.
 
+Pour activer le site dans GitHub:
+
+1. Ouvrir `Settings` > `Pages`.
+2. Dans `Build and deployment`, choisir `Deploy from a branch`.
+3. Selectionner la branche `gh-pages` et le dossier `/ (root)`.
+4. Enregistrer.
+
 ## Dossiers
 - `00_HOME`: tableau de bord, journal, prochaine action
 - `01_CONCEPT`: premise, promesse, public
