@@ -1,6 +1,6 @@
 # Notes Source - PDF du 23/06/2026
 
-Fichier source lu: `C:\Users\HP\Downloads\Théorie de la Résonance Multiversielle.pdf`
+Fichier source lu: `C:\Users\HP\Downloads\Theorie de la Resonance Multiversielle.pdf`
 
 ## Titre Interne
 Theorie de la Resonance Multiversielle - Version Consolidee

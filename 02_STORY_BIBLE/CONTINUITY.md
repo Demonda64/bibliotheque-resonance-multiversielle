@@ -18,9 +18,15 @@ Tout ce qui est vrai dans le livre.
 | Observateur local | L'observation donne un acces a une branche; l'ancrage la rend vecue; l'existence multiversielle depend d'abord de la coherence de continuation. | Livre 4, chapitre 4 | Eviter les deux exces: "sans observateur rien n'existe" et "l'observateur ne compte pas". |
 | Totalite non locale | Le reel est la totalite non locale des branches coherentes; notre branche locale en est une region dense et vecue. | Livre 4, chapitre 5 | La totalite n'annule pas la valeur du local; elle le situe. |
 | Quelque part | "Quelque part" designe la position d'une branche ou configuration coherente dans la totalite non locale du reel, pas necessairement une adresse spatiale ordinaire. | Livre 4, chapitre 6 | Prepare le Livre 5: poser les limites du possible. |
+| Limites du possible | Tout ne peut pas devenir branche: il faut coherence, stabilite, densite, habitabilite relative et responsabilite locale. | Livre 5, chapitre 1 | Le Livre 5 sert de garde-fou contre le "n'importe quoi" metaphysique. |
+| Contradiction sterile | Une contradiction sterile est une forme qui ne peut pas devenir branche parce qu'elle detruit ses propres conditions de continuation. | Livre 5, chapitre 2 | Distinguer du paradoxe fertile, qui oblige a raffiner les niveaux au lieu d'annuler la coherence. |
+| Seuils de coherence | Une forme peut passer de l'image au possible instable, puis a la branche faible et a la branche forte selon sa capacite de continuation. | Livre 5, chapitre 3 | Ne pas confondre intensite psychologique et force ontologique. |
+| Habitabilite | Une branche peut etre coherente sans etre habitable par une conscience locale si sa divergence, sa masse, son corps ou ses conditions depassent l'ancrage actuel. | Livre 5, chapitre 4 | Distinguer existence, accessibilite et habitabilite. |
+| Contraintes du reel total | Le reel total est infini mais non arbitraire: toute branche forte implique coherence, liaison, conservation relative, compatibilite d'echelles, couts et responsabilite locale. | Livre 5, chapitre 5 | Les contraintes ne ferment pas le possible; elles lui permettent de prendre forme. |
+| Infini structure | L'infini n'est pas le n'importe quoi: il est une immensite de structures possibles, chacune devant posseder une maniere de tenir. | Livre 5, chapitre 6 | Conclusion de la Fondation 1 et transition vers la Fondation 2 sur le noyau identitaire. |
 | Resonance | La conscience peut recevoir des echos de branches proches sous forme d'intuitions, imagination, reves ou alignements. | THEORIE_CANON.md | A developper surtout en Fondation 3. |
 | Noyau identitaire | Une personnalite locale n'est pas le noyau; elle est une configuration temporaire d'un noyau plus profond. | FRACTURES_DU_SOI.md | Toujours distinguer speculation cosmologique et explication medicale. |
-| Convergence progressive | Une branche lointaine doit etre approchée par branches-ponts et familiarisation quotidienne. | METHODE_CONVERGENCE_PROGRESSIVE.md | Methode pratique interne, pas loi cosmologique absolue. |
+| Convergence progressive | Une branche lointaine doit etre approchee par branches-ponts et familiarisation quotidienne. | METHODE_CONVERGENCE_PROGRESSIVE.md | Methode pratique interne, pas loi cosmologique absolue. |
 
 ## Chronologie
 
@@ -30,6 +36,7 @@ Tout ce qui est vrai dans le livre.
 | Fondation 1 - Livre 2 | Le lecteur apprend a classer les realites par proximite, divergence et stabilite. | L2 C1-C6 | Premiere passe complete. |
 | Fondation 1 - Livre 3 | Le lecteur etudie la naissance, la separation, la coherence et la persistance des branches. | L3 C1-C6 | Premiere passe complete. |
 | Fondation 1 - Livre 4 | Le lecteur affronte l'objection centrale: pourquoi dire que le possible coherent existe quelque part. | L4 C1-C6 | Premiere passe complete. |
+| Fondation 1 - Livre 5 | Le lecteur apprend que l'infini possede des limites internes: coherence, seuils, habitabilite, couts et structure. | L5 C1-C6 | Premiere passe complete. |
 
 ## Questions Ouvertes
 
@@ -37,4 +44,4 @@ Tout ce qui est vrai dans le livre.
 | --- | --- | --- |
 | Quelle place exacte donner aux metriques H, D, R, C dans la Fondation 1 ? | Les garder comme outils d'orientation et reserver leur formalisation complete a Fondation 3. | Moyenne |
 | Faut-il conserver "Les Fractures du Soi" comme Livre 5 de Fondation 2 ? | Decision actuelle: oui, remplace "L'Illusion de l'Individu". | Faible |
-| Le site doit-il afficher les notes de canon en plus des livres ? | Decider apres la fin du Livre 3. | Faible |
+| Le site doit-il afficher les notes de canon en plus des livres ? | Decider apres la relecture Draft 2 de la Fondation 1. | Faible |

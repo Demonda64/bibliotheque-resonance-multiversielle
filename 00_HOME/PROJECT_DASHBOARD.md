@@ -4,7 +4,7 @@
 - Titre: Bibliotheque de la Resonance Multiversielle
 - Genre: Essai speculatif / metaphysique de fiction
 - Public: Lecteurs curieux de multivers, conscience, reves, meditation et cosmologie speculative
-- Phase: Redaction Fondation 1
+- Phase: Fondation 1 complete en premiere passe
 - Draft: 01
 
 ## Pitch Court
@@ -14,10 +14,10 @@ Une cosmologie speculative en 10 fondations qui propose que toutes les realites 
 Donner au lecteur une carte claire, progressive et vertigineuse du reel possible: d'abord comprendre le multivers, puis le soi, puis les mecanismes de resonance, jusqu'a une cosmologie finale ou conscience et realite forment un reseau vivant.
 
 ## Objectif De La Semaine
-Poursuivre la Fondation 1 en terminant le Livre 3, "Les Branches de l'Existence", puis synchroniser le lecteur GitHub Pages.
+Relire et synchroniser la Fondation 1 complete, puis preparer la Fondation 2, "La Science du Soi".
 
 ## Prochaine Action
-Preparer le Livre 5, "Les Limites du Possible".
+Preparer la Fondation 2, Livre 1: "Le Noyau".
 
 ## Site Public
 URL prevue:
@@ -32,7 +32,7 @@ Publication: branche `gh-pages`, dossier `/ (root)`.
 | 01 Concept | Fait | Concept initial pose et bibliotheque definie |
 | 02 Story Bible | En cours | Canon theorique enrichi: metriques, convergence progressive, fractures du soi |
 | 03 Outline | En cours | Architecture des 10 fondations creee; Fondation 1 planifiee |
-| 04 Draft 01 | En cours | Livres 1 et 2 rediges; Livre 3 commence |
+| 04 Draft 01 | En cours | Fondation 1 complete en premiere passe |
 | 05 Developmental Revision | A faire |  |
 | 06 Draft 02 | A faire |  |
 | 07 Line Edit and Continuity | A faire |  |
@@ -45,3 +45,4 @@ Publication: branche `gh-pages`, dossier `/ (root)`.
 | Fondation 1 - Livre 2 | La Cartographie des Realites | 7829 | Premiere passe complete |
 | Fondation 1 - Livre 3 | Les Branches de l'Existence | 9931 | Premiere passe complete |
 | Fondation 1 - Livre 4 | Pourquoi Tout Existe Quelque Part | 9878 | Premiere passe complete |
+| Fondation 1 - Livre 5 | Les Limites du Possible | 10077 | Premiere passe complete |

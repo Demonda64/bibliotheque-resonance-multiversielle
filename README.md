@@ -7,7 +7,7 @@ Essai speculatif / metaphysique de fiction
 Lecteurs curieux de multivers, conscience, reves, meditation et cosmologie speculative
 
 ## Phase
-Redaction Fondation 1
+Fondation 1 complete en premiere passe
 
 ## Site de lecture
 Le lecteur public GitHub Pages est prevu ici:
@@ -30,8 +30,9 @@ Pour activer le site dans GitHub:
 | Fondation 1 - Livre 2 | La Cartographie des Realites | Premiere passe complete | 7829 |
 | Fondation 1 - Livre 3 | Les Branches de l'Existence | Premiere passe complete | 9931 |
 | Fondation 1 - Livre 4 | Pourquoi Tout Existe Quelque Part | Premiere passe complete | 9878 |
+| Fondation 1 - Livre 5 | Les Limites du Possible | Premiere passe complete | 10077 |
 
-Total manuscrit actuel: 35153 mots.
+Total manuscrit actuel: 45230 mots.
 
 ## Dossiers
 - `00_HOME`: tableau de bord, journal, prochaine action
@@ -52,4 +53,4 @@ Total manuscrit actuel: 35153 mots.
 Construire une bibliotheque de 10 fondations et 50 livres courts autour d'une hypothese centrale: la conscience ne cree pas seulement des images interieures, elle entre en resonance avec des versions du reel deja presentes dans l'ocean des possibles.
 
 ## Premiere Priorite
-Developper la Fondation 1, cycle "L'Architecture des Possibles", en commencant par le Livre 1: "Le Multivers Infini".
+Preparer la Fondation 2, cycle "La Science du Soi", en commencant par le Livre 1: "Le Noyau".

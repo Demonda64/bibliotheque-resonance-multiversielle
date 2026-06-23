@@ -95,8 +95,57 @@
       "id": "T014",
       "phase": "04 Draft 01",
       "title": "Prepare Livre 5 outline and file",
-      "status": "next",
+      "status": "done",
       "file": "05_OUTLINE/FONDATION_01_PLAN.md"
+    },
+    {
+      "id": "T015",
+      "phase": "04 Draft 01",
+      "title": "Write Livre 5 chapter 2",
+      "status": "done",
+      "file": "06_CHAPTERS/FONDATION_01_LIVRE_05_LES_LIMITES_DU_POSSIBLE.md"
+    },
+    {
+      "id": "T016",
+      "phase": "04 Draft 01",
+      "title": "Write Livre 5 chapter 3",
+      "status": "done",
+      "file": "06_CHAPTERS/FONDATION_01_LIVRE_05_LES_LIMITES_DU_POSSIBLE.md"
+    },
+    {
+      "id": "T017",
+      "phase": "04 Draft 01",
+      "title": "Write Livre 5 chapter 4",
+      "status": "done",
+      "file": "06_CHAPTERS/FONDATION_01_LIVRE_05_LES_LIMITES_DU_POSSIBLE.md"
+    },
+    {
+      "id": "T018",
+      "phase": "04 Draft 01",
+      "title": "Write Livre 5 chapter 5",
+      "status": "done",
+      "file": "06_CHAPTERS/FONDATION_01_LIVRE_05_LES_LIMITES_DU_POSSIBLE.md"
+    },
+    {
+      "id": "T019",
+      "phase": "04 Draft 01",
+      "title": "Write Livre 5 chapter 6",
+      "status": "done",
+      "file": "06_CHAPTERS/FONDATION_01_LIVRE_05_LES_LIMITES_DU_POSSIBLE.md"
+    },
+    {
+      "id": "T020",
+      "phase": "04 Draft 01",
+      "title": "Prepare Fondation 2 Livre 1",
+      "status": "next",
+      "file": "05_OUTLINE/CHAPTER_MAP.md"
+    },
+    {
+      "id": "T021",
+      "phase": "05 Developmental Revision",
+      "title": "Update Fondation 1 annex documents",
+      "status": "done",
+      "file": "00_HOME/PROJECT_DASHBOARD.md"
     }
   ]
 }

@@ -297,7 +297,7 @@ Mais alors, pourquoi ne sentons-nous pas ces autres versions?
 
 Parfois, peut-etre, nous les sentons.
 
-Un choix ancien revient sans raison. Une impression de vie parallele accompagne certaines periodes. Un reve montre une maison que nous ne connaissons pas mais qui nous semble nôtre. Une tristesse arrive sans objet local. Une competence apparait comme si elle avait deja ete pratiquee ailleurs. Une peur semble venir d'une histoire qui n'est pas la notre.
+Un choix ancien revient sans raison. Une impression de vie parallele accompagne certaines periodes. Un reve montre une maison que nous ne connaissons pas mais qui nous semble notre. Une tristesse arrive sans objet local. Une competence apparait comme si elle avait deja ete pratiquee ailleurs. Une peur semble venir d'une histoire qui n'est pas la notre.
 
 La prudence est necessaire. Ces phenomenes peuvent avoir des explications psychologiques ordinaires. La theorie ne doit pas tout capturer avec avidite. Mais elle propose une autre lecture possible: certaines impressions pourraient etre des resonances faibles avec des variantes proches.
 
@@ -467,7 +467,7 @@ Et tout point de depart, s'il est compris correctement, contient deja la possibi
 
 Une theorie du multivers peut facilement devenir un vertige sans usage.
 
-Elle ouvre trop de portes. Elle agrandit trop vite le monde. Elle nous dit que d'autres versions existent, que les futurs ne sont pas simplement absents, que l'imagination peut etre une perception, que les branches voisines frôlent parfois notre conscience locale. Puis elle nous laisse devant cette immensite avec une question tres simple: que faire de tout cela?
+Elle ouvre trop de portes. Elle agrandit trop vite le monde. Elle nous dit que d'autres versions existent, que les futurs ne sont pas simplement absents, que l'imagination peut etre une perception, que les branches voisines frolent parfois notre conscience locale. Puis elle nous laisse devant cette immensite avec une question tres simple: que faire de tout cela?
 
 La premiere reponse doit etre modeste.
 

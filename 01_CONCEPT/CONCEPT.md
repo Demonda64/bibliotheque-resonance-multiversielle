@@ -37,8 +37,17 @@ Et si la vie que nous appelons "reelle" n'etait qu'une position locale dans un o
 Parce que la theorie a deja une architecture puissante. L'enjeu maintenant est de la rendre lisible, transmissible et habitable: transformer une intuition de multivers en bibliotheque coherente, avec des definitions stables, des images fortes et un parcours progressif pour le lecteur.
 
 ## Etat Actuel
-- Fondation 1, Livre 1: premiere passe complete.
-- Fondation 1, Livre 2: premiere passe complete.
-- Fondation 1, Livre 3: chapitres 1 et 2 rediges.
+- Fondation 1: premiere passe complete, 5 livres et 30 chapitres.
+- Total manuscrit Fondation 1: 45230 mots.
 - Lecteur web statique: cree et pousse sur GitHub.
 - Publication publique: branche `gh-pages` prete; activation Pages manuelle requise.
+
+## Acquis De La Fondation 1
+- Le multivers est presente comme architecture des possibles coherents.
+- Le reel local est compris comme branche.
+- La cartographie distingue proximite, divergence, stabilite, seuils et zones instables.
+- L'existence "quelque part" est definie comme position de coherence dans la totalite non locale.
+- Les limites du possible empechent la theorie de glisser vers le n'importe quoi.
+
+## Prochaine Fondation
+Fondation 2: "La Science du Soi". Elle devra definir le noyau identitaire, les variantes de l'etre, la famille multiversielle, la mort et les autres versions, puis les fractures du soi.

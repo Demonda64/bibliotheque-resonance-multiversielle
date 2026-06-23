@@ -14,7 +14,7 @@ const themeToggle = document.querySelector("#themeToggle");
 const focusToggle = document.querySelector("#focusToggle");
 const menuButton = document.querySelector("#menuButton");
 const sidebar = document.querySelector("#sidebar");
-const BUILD_VERSION = "20260623-livre4-c1";
+const BUILD_VERSION = "20260623-f1-complete";
 
 const books = [
   {
@@ -48,6 +48,14 @@ const books = [
     sourcePath: "../06_CHAPTERS/FONDATION_01_LIVRE_04_POURQUOI_TOUT_EXISTE_QUELQUE_PART.md",
     description:
       "L'argument central de la Fondation 1: pourquoi le possible coherent ne doit pas etre reduit a une simple fiction mentale.",
+  },
+  {
+    id: "livre-5",
+    label: "Livre 5",
+    title: "Les Limites du Possible",
+    sourcePath: "../06_CHAPTERS/FONDATION_01_LIVRE_05_LES_LIMITES_DU_POSSIBLE.md",
+    description:
+      "La conclusion de la Fondation 1: pourquoi l'infini du multivers n'est pas une permission du n'importe quoi.",
   },
 ];
 

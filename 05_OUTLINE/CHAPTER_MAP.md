@@ -15,7 +15,7 @@
 | 9 | Les Reseaux Identitaires | Les Consciences Proches | La Resonance Mutuelle | Les Liens Invisibles | Les Familles Multiversielles | Les Civilisations de Resonance |
 | 10 | L'Ocean des Possibles | Le Champ Fondamental | Les Structures Vibratoires | La Realite comme Reseau | La Grande Synchronisation | L'Ocean des Possibles |
 
-## Livre Actif: Fondation 1, Livre 4
+## Livre Actif: Fondation 1, Livre 5
 
 ### Livre 1: Le Multivers Infini
 
@@ -65,9 +65,9 @@
 
 | Chapitre | Titre | Objectif | Statut |
 | --- | --- | --- | --- |
-| 01 | Tout ne peut pas etre branche | Poser la necessite de limites dans une cosmologie de l'infini | A preparer |
-| 02 | Les contradictions steriles | Distinguer paradoxe fertile et contradiction qui s'annule | A preparer |
-| 03 | Les seuils de coherence | Definir les seuils qui separent image, possible instable et branche | A preparer |
-| 04 | Les branches impossibles a habiter | Examiner les branches coherentes mais non habitables pour certaines consciences | A preparer |
-| 05 | Les contraintes du reel total | Montrer que le multivers a des lois, des couts et des resistances | A preparer |
-| 06 | L'infini n'est pas le n'importe quoi | Conclure la Fondation 1 en articulant immensite et structure | A preparer |
+| 01 | Tout ne peut pas etre branche | Poser la necessite de limites dans une cosmologie de l'infini | Redige |
+| 02 | Les contradictions steriles | Distinguer paradoxe fertile et contradiction qui s'annule | Redige |
+| 03 | Les seuils de coherence | Definir les seuils qui separent image, possible instable et branche | Redige |
+| 04 | Les branches impossibles a habiter | Examiner les branches coherentes mais non habitables pour certaines consciences | Redige |
+| 05 | Les contraintes du reel total | Montrer que le multivers a des lois, des couts et des resistances | Redige |
+| 06 | L'infini n'est pas le n'importe quoi | Conclure la Fondation 1 en articulant immensite et structure | Redige |
