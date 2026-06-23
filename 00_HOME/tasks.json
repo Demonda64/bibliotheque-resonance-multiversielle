@@ -18,7 +18,7 @@
       "id": "T003",
       "phase": "04 Draft 01",
       "title": "Write Livre 3 chapter 3",
-      "status": "next",
+      "status": "done",
       "file": "06_CHAPTERS/FONDATION_01_LIVRE_03_LES_BRANCHES_DE_L_EXISTENCE.md"
     },
     {
@@ -27,6 +27,34 @@
       "title": "Activate GitHub Pages from gh-pages branch",
       "status": "waiting_user",
       "file": "README.md"
+    },
+    {
+      "id": "T005",
+      "phase": "04 Draft 01",
+      "title": "Write Livre 3 chapter 4",
+      "status": "done",
+      "file": "06_CHAPTERS/FONDATION_01_LIVRE_03_LES_BRANCHES_DE_L_EXISTENCE.md"
+    },
+    {
+      "id": "T006",
+      "phase": "04 Draft 01",
+      "title": "Write Livre 3 chapter 5",
+      "status": "done",
+      "file": "06_CHAPTERS/FONDATION_01_LIVRE_03_LES_BRANCHES_DE_L_EXISTENCE.md"
+    },
+    {
+      "id": "T007",
+      "phase": "04 Draft 01",
+      "title": "Write Livre 3 chapter 6",
+      "status": "done",
+      "file": "06_CHAPTERS/FONDATION_01_LIVRE_03_LES_BRANCHES_DE_L_EXISTENCE.md"
+    },
+    {
+      "id": "T008",
+      "phase": "04 Draft 01",
+      "title": "Prepare Livre 4 outline and file",
+      "status": "next",
+      "file": "05_OUTLINE/FONDATION_01_PLAN.md"
     }
   ]
 }

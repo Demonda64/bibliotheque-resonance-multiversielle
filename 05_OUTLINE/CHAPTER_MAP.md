@@ -45,7 +45,18 @@
 | --- | --- | --- | --- |
 | 01 | La naissance d'une branche | Expliquer qu'une branche nait lorsqu'une trajectoire devient coherente | Redige |
 | 02 | Conditions initiales et ecarts minuscules | Montrer comment de petites differences orientent des destins divergents | Redige |
-| 03 | Choix, accidents et bifurcations | Distinguer decision, hasard apparent et separation durable | A ecrire |
-| 04 | La coherence interne d'une branche | Montrer pourquoi une branche doit tenir ensemble | A ecrire |
-| 05 | Branches collectives et branches personnelles | Distinguer trajectoires individuelles et realites partagees | A ecrire |
-| 06 | Ce qui se separe continue | Conclure sur la persistance des branches non vecues localement | A ecrire |
+| 03 | Choix, accidents et bifurcations | Distinguer decision, hasard apparent et separation durable | Redige |
+| 04 | La coherence interne d'une branche | Montrer pourquoi une branche doit tenir ensemble | Redige |
+| 05 | Branches collectives et branches personnelles | Distinguer trajectoires individuelles et realites partagees | Redige |
+| 06 | Ce qui se separe continue | Conclure sur la persistance des branches non vecues localement | Redige |
+
+### Livre 4: Pourquoi Tout Existe Quelque Part
+
+| Chapitre | Titre | Objectif | Statut |
+| --- | --- | --- | --- |
+| 01 | L'objection du possible | Poser la difference entre "aurait pu exister" et "existe quelque part" | A preparer |
+| 02 | Le possible coherent | Definir les conditions minimales d'existence multiversielle | A preparer |
+| 03 | De la logique a la realite | Montrer pourquoi la coherence peut tendre vers une forme d'existence | A preparer |
+| 04 | Les mondes sans observateur local | Examiner les branches sans ancrage conscient apparent | A preparer |
+| 05 | Le reel comme totalite non locale | Etendre la notion de reel au-dela de l'experience presente | A preparer |
+| 06 | Pourquoi quelque part suffit | Conclure sur l'existence non locale et preparer les limites du possible | A preparer |

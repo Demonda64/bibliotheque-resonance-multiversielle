@@ -17,7 +17,7 @@ Donner au lecteur une carte claire, progressive et vertigineuse du reel possible
 Poursuivre la Fondation 1 en terminant le Livre 3, "Les Branches de l'Existence", puis synchroniser le lecteur GitHub Pages.
 
 ## Prochaine Action
-Continuer `06_CHAPTERS/FONDATION_01_LIVRE_03_LES_BRANCHES_DE_L_EXISTENCE.md` avec le chapitre 3: "Choix, accidents et bifurcations".
+Relire rapidement les Livres 1 a 3, puis creer `06_CHAPTERS/FONDATION_01_LIVRE_04_POURQUOI_TOUT_EXISTE_QUELQUE_PART.md`.
 
 ## Site Public
 URL prevue:
@@ -43,4 +43,4 @@ Publication: branche `gh-pages`, dossier `/ (root)`.
 | --- | --- | ---: | --- |
 | Fondation 1 - Livre 1 | Le Multivers Infini | 7515 | Premiere passe complete |
 | Fondation 1 - Livre 2 | La Cartographie des Realites | 7829 | Premiere passe complete |
-| Fondation 1 - Livre 3 | Les Branches de l'Existence | 2433 | Chapitres 1-2 rediges |
+| Fondation 1 - Livre 3 | Les Branches de l'Existence | 9931 | Premiere passe complete |

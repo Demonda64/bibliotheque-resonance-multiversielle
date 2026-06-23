@@ -28,9 +28,9 @@ Pour activer le site dans GitHub:
 | --- | --- | --- | ---: |
 | Fondation 1 - Livre 1 | Le Multivers Infini | Premiere passe complete | 7515 |
 | Fondation 1 - Livre 2 | La Cartographie des Realites | Premiere passe complete | 7829 |
-| Fondation 1 - Livre 3 | Les Branches de l'Existence | Chapitres 1-2 rediges | 2433 |
+| Fondation 1 - Livre 3 | Les Branches de l'Existence | Premiere passe complete | 9931 |
 
-Total manuscrit actuel: 17777 mots.
+Total manuscrit actuel: 25275 mots.
 
 ## Dossiers
 - `00_HOME`: tableau de bord, journal, prochaine action
