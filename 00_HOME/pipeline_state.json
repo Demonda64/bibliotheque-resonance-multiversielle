@@ -1,5 +1,5 @@
 {
-  "current_phase": "04 Draft 01",
+  "current_phase": "06 Draft 02",
   "phases": [
     {
       "id": "01",
@@ -13,7 +13,7 @@
     {
       "id": "02",
       "name": "02 Story Bible",
-      "status": "in_progress",
+      "status": "done",
       "required_files": [
         "02_STORY_BIBLE/CONTINUITY.md",
         "02_STORY_BIBLE/STYLE_GUIDE.md",
@@ -24,7 +24,7 @@
     {
       "id": "03",
       "name": "03 Outline",
-      "status": "in_progress",
+      "status": "done",
       "required_files": [
         "05_OUTLINE/SYNOPSIS.md",
         "05_OUTLINE/CHAPTER_MAP.md"
@@ -33,7 +33,7 @@
     {
       "id": "04",
       "name": "04 Draft 01",
-      "status": "in_progress",
+      "status": "done",
       "required_files": [
         "06_CHAPTERS/CHAPTER_01.md",
         "08_DRAFTS/DRAFT_01.md",
@@ -43,7 +43,7 @@
     {
       "id": "05",
       "name": "05 Developmental Revision",
-      "status": "todo",
+      "status": "in_progress",
       "required_files": [
         "09_REVISION/REVISION_PLAN.md",
         "05_OUTLINE/CHAPTER_MAP.md",
@@ -53,7 +53,7 @@
     {
       "id": "06",
       "name": "06 Draft 02",
-      "status": "todo",
+      "status": "in_progress",
       "required_files": [
         "08_DRAFTS/DRAFT_02.md",
         "09_REVISION/REVISION_PLAN.md"

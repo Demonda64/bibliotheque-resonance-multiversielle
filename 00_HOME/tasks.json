@@ -146,6 +146,104 @@
       "title": "Update Fondation 1 annex documents",
       "status": "done",
       "file": "00_HOME/PROJECT_DASHBOARD.md"
+    },
+    {
+      "id": "T022",
+      "phase": "04 Draft 01",
+      "title": "Write Fondation 1 preface summary and table of contents",
+      "status": "done",
+      "file": "06_CHAPTERS/FONDATION_01_PREFACE_RESUME_TABLE_DES_MATIERES.md"
+    },
+    {
+      "id": "T023",
+      "phase": "08 Export",
+      "title": "Generate Fondation 1 ebook PDF",
+      "status": "done",
+      "file": "10_EXPORTS/pdf/fondation_01_le_multivers_ebook.pdf"
+    },
+    {
+      "id": "T024",
+      "phase": "08 Export",
+      "title": "Create TheBookEdition publication plan",
+      "status": "done",
+      "file": "10_EXPORTS/THEBOOKEDITION_PUBLICATION_PLAN.md"
+    },
+    {
+      "id": "T025",
+      "phase": "05 Developmental Revision",
+      "title": "Create Fondation 1 glossary",
+      "status": "done",
+      "file": "02_STORY_BIBLE/GLOSSAIRE_FONDATION_01.md"
+    },
+    {
+      "id": "T026",
+      "phase": "05 Developmental Revision",
+      "title": "Create Fondation 1 freeze checklist",
+      "status": "next",
+      "file": "09_REVISION/FONDATION_01_FREEZE_CHECKLIST.md"
+    },
+    {
+      "id": "T027",
+      "phase": "07 Line Edit and Continuity",
+      "title": "Add public article style charter",
+      "status": "done",
+      "file": "02_STORY_BIBLE/CHARTE_ARTICLES_PUBLICS.md"
+    },
+    {
+      "id": "T028",
+      "phase": "07 Line Edit and Continuity",
+      "title": "Archive public article A001",
+      "status": "done",
+      "file": "13_ARTICLES_PUBLICS/A001_POURQUOI_UNE_SEULE_REALITE.md"
+    },
+    {
+      "id": "T029",
+      "phase": "07 Line Edit and Continuity",
+      "title": "Archive public article A002",
+      "status": "done",
+      "file": "13_ARTICLES_PUBLICS/A002_CE_N_EST_PAS_LA_REALITE_QUI_CHANGE.md"
+    },
+    {
+      "id": "T030",
+      "phase": "05 Developmental Revision",
+      "title": "Integrate official canon and glossary PDFs",
+      "status": "done",
+      "file": "02_STORY_BIBLE/CANON_OFFICIEL_40_PRINCIPES.md"
+    },
+    {
+      "id": "T031",
+      "phase": "05 Developmental Revision",
+      "title": "Check Fondation 1 against the 40 official principles",
+      "status": "next",
+      "file": "09_REVISION/REVISION_PLAN.md"
+    },
+    {
+      "id": "T032",
+      "phase": "07 Line Edit and Continuity",
+      "title": "Create 50-article public editorial pipeline",
+      "status": "done",
+      "file": "13_ARTICLES_PUBLICS/ARTICLE_PIPELINE_50_IDEES.md"
+    },
+    {
+      "id": "T033",
+      "phase": "07 Line Edit and Continuity",
+      "title": "Write public article A003",
+      "status": "paused",
+      "file": "13_ARTICLES_PUBLICS/A003_LES_VIES_NON_VECUES.md"
+    },
+    {
+      "id": "T034",
+      "phase": "06 Draft 02",
+      "title": "Start Fondation 1 Draft 02",
+      "status": "done",
+      "file": "08_DRAFTS/DRAFT_02.md"
+    },
+    {
+      "id": "T035",
+      "phase": "06 Draft 02",
+      "title": "Revise Livre 1 chapter 2",
+      "status": "next",
+      "file": "08_DRAFTS/DRAFT_02.md"
     }
   ]
 }

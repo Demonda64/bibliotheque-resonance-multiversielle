@@ -1,11 +1,12 @@
 # DRAFT 01
 
 ## Etat
-Le Draft 01 est en cours sous forme de fichiers separes dans `06_CHAPTERS`.
+Le Draft 01 est complet sous forme de fichiers separes dans `06_CHAPTERS`.
 
 ## Assemblage Actuel
 | Ordre | Fichier | Statut |
 | --- | --- | --- |
+| 0 | `06_CHAPTERS/FONDATION_01_PREFACE_RESUME_TABLE_DES_MATIERES.md` | Preface, resume et table des matieres |
 | 1 | `06_CHAPTERS/FONDATION_01_LIVRE_01_LE_MULTIVERS_INFINI.md` | Premiere passe complete |
 | 2 | `06_CHAPTERS/FONDATION_01_LIVRE_02_LA_CARTOGRAPHIE_DES_REALITES.md` | Premiere passe complete |
 | 3 | `06_CHAPTERS/FONDATION_01_LIVRE_03_LES_BRANCHES_DE_L_EXISTENCE.md` | Premiere passe complete |
@@ -13,7 +14,7 @@ Le Draft 01 est en cours sous forme de fichiers separes dans `06_CHAPTERS`.
 | 5 | `06_CHAPTERS/FONDATION_01_LIVRE_05_LES_LIMITES_DU_POSSIBLE.md` | Premiere passe complete |
 
 ## Total
-45230 mots au 2026-06-23.
+46340 mots au 2026-06-23.
 
 ## Bilan Draft 01 - Fondation 1
 La Fondation 1 est complete en premiere passe. Elle contient cinq livres:
@@ -33,4 +34,4 @@ Cette premiere passe etablit l'architecture du multivers avant d'entrer dans le 
 - Renforcer la conclusion du Livre 5 si elle doit servir de seuil vers la Fondation 2.
 
 ## Prochaine Etape
-Preparer la Fondation 2, Livre 1: "Le Noyau".
+Continuer le Draft 02 dans `08_DRAFTS/DRAFT_02.md` avant gel du manuscrit Fondation 1.

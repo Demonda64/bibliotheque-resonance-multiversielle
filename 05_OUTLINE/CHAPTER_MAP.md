@@ -15,14 +15,14 @@
 | 9 | Les Reseaux Identitaires | Les Consciences Proches | La Resonance Mutuelle | Les Liens Invisibles | Les Familles Multiversielles | Les Civilisations de Resonance |
 | 10 | L'Ocean des Possibles | Le Champ Fondamental | Les Structures Vibratoires | La Realite comme Reseau | La Grande Synchronisation | L'Ocean des Possibles |
 
-## Livre Actif: Fondation 1, Livre 5
+## Livre Actif: Fondation 1, Draft 02
 
 ### Livre 1: Le Multivers Infini
 
 | Chapitre | Titre | Objectif | Statut |
 | --- | --- | --- | --- |
-| 01 | Le scandale du possible | Poser l'hypothese: le possible n'attend pas d'etre choisi pour exister | Redige |
-| 02 | Ce que veut dire "exister quelque part" | Distinguer existence locale, existence logique et existence multiversielle | Redige |
+| 01 | Le scandale du possible | Poser l'hypothese: le possible n'attend pas d'etre choisi pour exister | Revise Draft 02 |
+| 02 | Ce que veut dire "exister quelque part" | Distinguer existence locale, existence logique et existence multiversielle | Prochain Draft 02 |
 | 03 | Le monde comme branche | Expliquer la realite vecue comme trajectoire parmi d'autres | Redige |
 | 04 | La simultaneite des versions | Introduire les variantes de soi et des evenements | Redige |
 | 05 | Pourquoi notre branche semble unique | Decrire les filtres perceptifs, l'ancrage local et la stabilite necessaire | Redige |

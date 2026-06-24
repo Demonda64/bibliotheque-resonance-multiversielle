@@ -1,25 +1,27 @@
 # NEXT ACTION
 
 ## A Faire Maintenant
-Preparer la Fondation 2, Livre 1: "Le Noyau".
+Continuer le Draft 02 de la Fondation 1.
 
 ## Fichier A Ouvrir
-`05_OUTLINE/CHAPTER_MAP.md`
+`08_DRAFTS/DRAFT_02.md`
 
 ## Objectif En 30 Minutes
-Definir le plan du Livre 1 de la Fondation 2 et creer le fichier de chapitre correspondant dans `06_CHAPTERS`.
+Reviser le Livre 1, chapitre 2: "Ce que veut dire exister quelque part".
 
 ## Ne Pas Oublier
-- Garder la Fondation 1 centree sur la structure du multivers, sans developper trop tot la pratique de resonance.
-- Utiliser les notions de divergence, branche proche et branche-pont seulement comme outils de clarification.
-- Maintenir le ton: essai metaphysique lisible, prudent, non medical et non dogmatique.
 - La Fondation 1 est complete en premiere passe.
-- La Fondation 2 doit passer de l'architecture du multivers a la question: qui voyage dans cette architecture?
-- Garder la distinction canonique: noyau identitaire, configurations identitaires, personnalites locales.
-- Toujours distinguer speculation cosmologique et explication medicale lorsqu'on parlera des fractures du soi.
+- La priorite publication passe avant la Fondation 2.
+- Phase 1: geler le manuscrit avant toute mise en page definitive.
+- Le glossaire Fondation 1 est cree dans `02_STORY_BIBLE/GLOSSAIRE_FONDATION_01.md`.
+- Verifier les repetitions et les concepts avant export print.
+- Le PDF actuel est un ebook de travail, pas encore l'interieur final TheBookEdition.
 - Le site public est prepare sur la branche `gh-pages`; GitHub Pages doit etre active manuellement dans `Settings > Pages`.
+- Le canon officiel du 24/06/2026 fixe 40 principes dans `02_STORY_BIBLE/CANON_OFFICIEL_40_PRINCIPES.md`.
+- Le glossaire officiel du 24/06/2026 est range dans `02_STORY_BIBLE/GLOSSAIRE_OFFICIEL.md`.
+- Le pipeline editorial de 50 idees est range dans `13_ARTICLES_PUBLICS/ARTICLE_PIPELINE_50_IDEES.md`.
+- Le Draft 02 a commence dans `08_DRAFTS/DRAFT_02.md`.
 
 ## A Noter Apres La Session
-- Nombre de mots ajoutes.
-- Chapitre termine ou a poursuivre.
-- Changements de canon eventuels.
+- Chapitre revise ajoute au Draft 02.
+- Concepts reserves ou clarifies.

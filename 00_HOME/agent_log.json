@@ -89,6 +89,56 @@
       "date": "2026-06-23",
       "summary": "Updated Fondation 1 annex documents and removed blank or obsolete working notes.",
       "next_action": "Commit/push the Fondation 1 complete state or prepare Fondation 2 Livre 1: Le Noyau."
+    },
+    {
+      "date": "2026-06-23",
+      "summary": "Wrote the Fondation 1 preface, summary and table of contents, and added it as the reader opening.",
+      "next_action": "Commit/push the Fondation 1 front matter or prepare Fondation 2 Livre 1: Le Noyau."
+    },
+    {
+      "date": "2026-06-24",
+      "summary": "Generated the complete Fondation 1 ebook PDF from an HTML print layout.",
+      "next_action": "Review the PDF locally, then commit/push the export if approved."
+    },
+    {
+      "date": "2026-06-24",
+      "summary": "Added a seven-phase TheBookEdition publication plan and shifted the next action to freezing Fondation 1.",
+      "next_action": "Create Fondation 1 glossary and manuscript freeze checklist."
+    },
+    {
+      "date": "2026-06-24",
+      "summary": "Created the Fondation 1 glossary for editorial freeze and TheBookEdition preparation.",
+      "next_action": "Create Fondation 1 freeze checklist."
+    },
+    {
+      "date": "2026-06-24",
+      "summary": "Added the public article style charter for Patreon, Substack, blog and launch texts.",
+      "next_action": "Create Fondation 1 freeze checklist."
+    },
+    {
+      "date": "2026-06-24",
+      "summary": "Filed public article A001 in the new public articles folder and added an article index.",
+      "next_action": "Review A001 for publication or create Fondation 1 freeze checklist."
+    },
+    {
+      "date": "2026-06-24",
+      "summary": "Filed public article A002 and adjusted wording to keep the scientific/philosophical distinction clear.",
+      "next_action": "Review A002 for publication or create Fondation 1 freeze checklist."
+    },
+    {
+      "date": "2026-06-24",
+      "summary": "Integrated the official canon and glossary PDFs by extracting readable text, creating a 40-principle canon reference, and adding an official glossary reference.",
+      "next_action": "Check Fondation 1 against the 40 official principles before freezing the manuscript."
+    },
+    {
+      "date": "2026-06-24",
+      "summary": "Created a 50-idea public article pipeline, organized by publication order, category, angle and status.",
+      "next_action": "Write A003: Les vies que nous n'avons jamais vecues existent-elles quelque part ?"
+    },
+    {
+      "date": "2026-06-24",
+      "summary": "Started Fondation 1 Draft 02 in 08_DRAFTS/DRAFT_02.md, with a revised working preface and Livre 1 chapter 1.",
+      "next_action": "Revise Livre 1 chapter 2: Ce que veut dire exister quelque part."
     }
   ]
 }

@@ -140,3 +140,21 @@ Les notions de permeabilite identitaire, saturation de resonance, fractures du s
 32. Realite reseau: la vie est une synchronisation permanente entre conscience locale, variantes, collectif et champ fondamental.
 33. Permeabilite identitaire: dans certains cas limites, plusieurs configurations du meme noyau peuvent devenir simultanement plus accessibles.
 34. Saturation de resonance: une ouverture excessive vers des branches proches peut fragiliser la stabilite de l'expression identitaire locale.
+
+## Canon Officiel 40 Principes
+Reference detaillee: `CANON_OFFICIEL_40_PRINCIPES.md`.
+
+Le PDF `Canon Officiel de la Theorie de la Resonance Multiversielle`, transmis le 24/06/2026, fixe une table canonique de 40 principes. Cette table devient la reference de coherence superieure pour la suite du projet.
+
+Les ajouts ou renforcements majeurs par rapport a la version de travail precedente sont:
+
+- Champ Fondamental comme matrice commune des realites.
+- Reseau Vivant comme synthese dynamique du multivers.
+- Attracteur Identitaire comme reformulation du destin.
+- Inertie de Branche et Compensation comme limites structurelles de la convergence.
+- Proximite Narrative comme condition d'accessibilite.
+- Cartographe comme fonction distincte du Navigateur.
+- Memoire Residuelle comme trace possible de branches voisines.
+- Canonisation de l'Incarnation et de la Methode de Convergence Progressive.
+
+Principe editorial: ces notions doivent etre introduites progressivement. Fondation 1 peut poser le territoire general; les principes techniques, identitaires et pratiques seront deployes dans les fondations suivantes.

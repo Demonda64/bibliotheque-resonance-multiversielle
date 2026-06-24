@@ -51,3 +51,14 @@ Parce que la theorie a deja une architecture puissante. L'enjeu maintenant est d
 
 ## Prochaine Fondation
 Fondation 2: "La Science du Soi". Elle devra definir le noyau identitaire, les variantes de l'etre, la famille multiversielle, la mort et les autres versions, puis les fractures du soi.
+
+## Auteur Public
+Nom d'auteur a utiliser pour les articles et signatures:
+
+Oscar Jonathan DEMONDA
+
+Signature longue:
+
+Oscar Jonathan DEMONDA
+
+Auteur de la Bibliotheque de la Resonance Multiversielle

@@ -41,6 +41,7 @@ https://demonda64.github.io/bibliotheque-resonance-multiversielle/
 Le lecteur charge directement les manuscrits:
 
 ```text
+../06_CHAPTERS/FONDATION_01_PREFACE_RESUME_TABLE_DES_MATIERES.md
 ../06_CHAPTERS/FONDATION_01_LIVRE_01_LE_MULTIVERS_INFINI.md
 ../06_CHAPTERS/FONDATION_01_LIVRE_02_LA_CARTOGRAPHIE_DES_REALITES.md
 ../06_CHAPTERS/FONDATION_01_LIVRE_03_LES_BRANCHES_DE_L_EXISTENCE.md
@@ -48,7 +49,9 @@ Le lecteur charge directement les manuscrits:
 ../06_CHAPTERS/FONDATION_01_LIVRE_05_LES_LIMITES_DU_POSSIBLE.md
 ```
 
-La Fondation 1 est complete en premiere passe. Les futurs livres de la Fondation 2 devront etre ajoutes dans `12_READER_SITE/app.js`, puis publies sur `main` et `gh-pages`.
+La Fondation 1 est complete en premiere passe et dispose maintenant d'une ouverture de lecture: preface, resume et table des matieres.
+
+Note editoriale: le Draft 02 est en cours dans `08_DRAFTS/DRAFT_02.md`. Le lecteur web continue de servir la version publique de travail depuis `06_CHAPTERS` jusqu'a reintegration complete du Draft 02. Les futurs livres de la Fondation 2 devront etre ajoutes dans `12_READER_SITE/app.js`, puis publies sur `main` et `gh-pages`.
 
 ## Reference visuelle
 

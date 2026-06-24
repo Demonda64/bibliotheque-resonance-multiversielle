@@ -14,9 +14,17 @@ const themeToggle = document.querySelector("#themeToggle");
 const focusToggle = document.querySelector("#focusToggle");
 const menuButton = document.querySelector("#menuButton");
 const sidebar = document.querySelector("#sidebar");
-const BUILD_VERSION = "20260623-f1-complete";
+const BUILD_VERSION = "20260623-f1-frontmatter";
 
 const books = [
+  {
+    id: "fondation-1-ouverture",
+    label: "Ouverture",
+    title: "Preface, resume et table des matieres",
+    sourcePath: "../06_CHAPTERS/FONDATION_01_PREFACE_RESUME_TABLE_DES_MATIERES.md",
+    description:
+      "L'entree de la Fondation 1: preface, resume du cycle Le Multivers et table des matieres complete des cinq livres.",
+  },
   {
     id: "livre-1",
     label: "Livre 1",
@@ -121,9 +129,12 @@ function renderMarkdown(markdown) {
 }
 
 function buildToc() {
-  const headings = [...manuscriptEl.querySelectorAll("h2")].filter((heading) =>
+  let headings = [...manuscriptEl.querySelectorAll("h2")].filter((heading) =>
     heading.textContent.startsWith("Chapitre")
   );
+  if (!headings.length) {
+    headings = [...manuscriptEl.querySelectorAll("h2")];
+  }
 
   tocEl.innerHTML = headings
     .map((heading, index) => {

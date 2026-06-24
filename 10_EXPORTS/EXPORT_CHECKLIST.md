@@ -21,6 +21,7 @@
 - [x] Markdown
 - [ ] DOCX
 - [ ] PDF
+- [x] PDF ebook Fondation 1
 - [ ] EPUB
 - [ ] Cover ebook
 - [ ] Cover print
@@ -30,14 +31,46 @@
 ## Fondation 1
 | Livre | Statut export |
 | --- | --- |
-| Le Multivers Infini | Pret pour relecture Draft 2 |
+| Le Multivers Infini | Draft 02 en cours: chapitre 1 revise |
 | La Cartographie des Realites | Pret pour relecture Draft 2 |
 | Les Branches de l'Existence | Pret pour relecture Draft 2 |
 | Pourquoi Tout Existe Quelque Part | Pret pour relecture Draft 2 |
 | Les Limites du Possible | Pret pour relecture Draft 2 |
 
 ## Blocages Restants
+- Terminer le Draft 02 avant generation de l'interieur print final.
 - Activer ou verifier GitHub Pages depuis `Settings > Pages`.
-- Produire une version assemblee du manuscrit si export PDF, DOCX ou EPUB.
+- Produire une version assemblee print A5 pour TheBookEdition.
 - Generer et valider une couverture finale.
 - Faire une passe de correction orthographique et typographique avant diffusion large.
+- Glossaire Fondation 1 cree; bibliographie encore a creer avant publication.
+- Commander un exemplaire test avant lancement public.
+
+## TheBookEdition
+| Phase | Objectif | Statut |
+| --- | --- | --- |
+| 1 | Geler le manuscrit | En attente Draft 02 |
+| 2 | Preparer pages liminaires, glossaire, bibliographie | En cours |
+| 3 | Mise en page A5 print | A faire |
+| 4 | Couverture sobre | A faire |
+| 5 | Publication TheBookEdition | A faire |
+| 6 | Exemplaire test | A faire |
+| 7 | Lancement | A faire |
+
+## Export PDF Fondation 1
+Fichier final:
+
+`10_EXPORTS/pdf/fondation_01_le_multivers_ebook.pdf`
+
+Source imprimable:
+
+`10_EXPORTS/pdf/fondation_01_le_multivers.html`
+
+Generation:
+
+`node 10_EXPORTS/build_fondation_01_html_pdf.js`
+
+Notes de controle:
+- PDF genere par Chrome headless depuis HTML imprime.
+- Apercu HTML verifie visuellement via `fondation_01_html_preview.png`.
+- Rendu direct du PDF en PNG indisponible dans cet environnement: Chrome headless affiche le viewer PDF en noir; Poppler/Ghostscript/MuPDF ne sont pas installes.

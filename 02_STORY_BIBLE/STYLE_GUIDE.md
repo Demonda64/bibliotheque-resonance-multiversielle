@@ -47,3 +47,10 @@ La Fondation 1 doit rester architecturale. Elle explique le multivers, les branc
 
 ## Transition Fondation 2
 La Fondation 2 pourra etre plus intime, car elle entrera dans la question du soi. Le style devra rester prudent: distinguer noyau identitaire, configuration identitaire et personnalite locale, sans donner d'explication medicale aux troubles psychiques.
+
+## Articles Publics
+Pour Patreon, Substack, blog personnel et textes de lancement, suivre aussi:
+
+`02_STORY_BIBLE/CHARTE_ARTICLES_PUBLICS.md`
+
+Les articles doivent etre plus accessibles que les livres de fondation, mais garder la meme prudence: la Resonance Multiversielle est une cosmologie philosophique speculative, pas une theorie scientifique demontree.
