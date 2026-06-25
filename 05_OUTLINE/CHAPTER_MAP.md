@@ -22,17 +22,17 @@
 | Chapitre | Titre | Objectif | Statut |
 | --- | --- | --- | --- |
 | 01 | Le scandale du possible | Poser l'hypothese: le possible n'attend pas d'etre choisi pour exister | Revise Draft 02 |
-| 02 | Ce que veut dire "exister quelque part" | Distinguer existence locale, existence logique et existence multiversielle | Prochain Draft 02 |
-| 03 | Le monde comme branche | Expliquer la realite vecue comme trajectoire parmi d'autres | Redige |
-| 04 | La simultaneite des versions | Introduire les variantes de soi et des evenements | Redige |
-| 05 | Pourquoi notre branche semble unique | Decrire les filtres perceptifs, l'ancrage local et la stabilite necessaire | Redige |
-| 06 | Le vertige et la methode | Introduire divergence, branches-ponts, premieres metriques et convergence progressive sans quitter la Fondation 1 | Redige |
+| 02 | Ce que veut dire "exister quelque part" | Distinguer existence locale, existence logique et existence multiversielle | Revise Draft 02 |
+| 03 | Le monde comme branche | Expliquer la realite vecue comme trajectoire parmi d'autres | Revise Draft 02 |
+| 04 | La simultaneite des versions | Introduire les variantes de soi et des evenements | Revise Draft 02 |
+| 05 | Pourquoi notre branche semble unique | Decrire les filtres perceptifs, l'ancrage local et la stabilite necessaire | Revise Draft 02 |
+| 06 | Le vertige et la methode | Conclure par une discipline du vertige et preparer la cartographie des realites | Revise Draft 02 |
 
 ### Livre 2: La Cartographie des Realites
 
 | Chapitre | Titre | Objectif | Statut |
 | --- | --- | --- | --- |
-| 01 | Pourquoi cartographier l'infini | Montrer pourquoi une carte est necessaire sans reduire le reel a la carte | Redige |
+| 01 | Pourquoi cartographier l'infini | Montrer pourquoi une carte est necessaire sans reduire le reel a la carte | Prochain Draft 02 |
 | 02 | Les branches proches | Definir les realites presque voisines et leur importance pratique | Redige |
 | 03 | Les branches divergentes | Explorer les ecarts durables, les distances et les seuils | Redige |
 | 04 | Les realites instables | Decrire les branches fragiles, incoherentes ou mal stabilisees | Redige |

@@ -1,14 +1,16 @@
-# Canon Officiel - 40 Principes
+# Canon Officiel - 41 Principes
 
 ## Statut
 Document de reference issu du PDF `Canon Officiel de la Theorie de la Resonance Multiversielle`, transmis le 24/06/2026.
 
 Ce fichier sert de table canonique courte. Le texte extrait du PDF est conserve dans `10_EXPORTS/pdf_sources/canon_officiel_extracted.txt`.
 
+Mise a jour du 25/06/2026: ajout du Principe XLI comme principe emergent derive de la Convergence, de la Divergence, de l'Attracteur Identitaire, de la Proximite Narrative et de la Persistance du Noyau.
+
 ## Prudence Editoriale
 La Resonance Multiversielle doit rester presentee comme une cosmologie philosophique et speculative. Les principes ci-dessous constituent le langage interne du modele. Ils ne doivent pas etre presentes comme des lois scientifiques demontrees.
 
-## Les 40 Principes
+## Les 41 Principes
 
 1. **Le Champ Fondamental**  
    Structure profonde dont emergent les realites, les consciences, les temporalites et les branches.
@@ -129,6 +131,27 @@ La Resonance Multiversielle doit rester presentee comme une cosmologie philosoph
 
 40. **Le Principe du Reseau Vivant**  
     Le multivers est un systeme dynamique de relations, de resonances, de convergences et d'equilibres.
+
+41. **Le Principe de Continuite Identitaire**  
+    Lorsqu'une branche devient brutalement incompatible avec la poursuite de l'experience consciente, le Noyau Identitaire peut maintenir sa continuite a travers une variante voisine suffisamment compatible.
+
+    Statut: principe emergent.
+
+    Fondations concernees: Fondation II - Le Noyau; Fondation V - Les Temporalites Fragmentees; Fondation IX - Les Reseaux Identitaires.
+
+    Ce principe complete la Convergence sans affirmer une immortalite absolue. Il repond a la question de ce qui peut se maintenir lorsqu'une branche devient soudainement non viable.
+
+    Conditions necessaires: proximite narrative forte, compatibilite identitaire, divergence limitee.
+
+    Point de Rupture Identitaire: moment ou la poursuite de l'experience dans une branche devient impossible ou extremement instable, ouvrant la possibilite d'une continuite dans une branche voisine.
+
+    Ce principe n'affirme pas que personne ne meurt, que la conscience est immortelle, ni que toute mort provoque une relocalisation. Il affirme uniquement que certaines continuites peuvent se maintenir lorsque des conditions de compatibilite suffisantes existent.
+
+    Concepts lies: Convergence, Proximite Narrative, Persistance du Noyau, Attracteurs Identitaires, Reseaux Identitaires.
+
+    Exemple theorique: si la branche A s'interrompt brutalement, le Noyau pourrait maintenir sa continuite a travers une branche B ou C proche, a condition que ces branches restent suffisamment compatibles.
+
+    Implication philosophique: la question "Suis-je immortel ?" est remplacee par "Qu'est-ce qui continue reellement ?". Dans la Resonance Multiversielle, ce qui persiste n'est ni la branche, ni le corps, ni la personnalite locale, mais la continuite du Noyau a travers le reseau des possibles.
 
 ## Definition Canonique Courte
 La Theorie de la Resonance Multiversielle affirme que l'ensemble des realites possibles emerge d'un Champ Fondamental multidimensionnel. Chaque individu existe sous une infinite de variantes partageant un meme Noyau Identitaire. Ces variantes sont reliees par un reseau de resonances dont l'intensite depend notamment de la proximite identitaire, de la divergence des branches et de l'attention portee par la conscience.

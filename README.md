@@ -27,8 +27,8 @@ Pour activer le site dans GitHub:
 | Livre | Titre | Statut | Mots |
 | --- | --- | --- | ---: |
 | Fondation 1 - Ouverture | Preface, resume et table des matieres | Redige | 1110 |
-| Fondation 1 - Livre 1 | Le Multivers Infini | Draft 02 commence: ouverture + chapitre 1 revises | 7515 |
-| Fondation 1 - Livre 2 | La Cartographie des Realites | Premiere passe complete | 7829 |
+| Fondation 1 - Livre 1 | Le Multivers Infini | Livre 1 complet et mini-relu en Draft 02 | 7515 |
+| Fondation 1 - Livre 2 | La Cartographie des Realites | Prochain Draft 02 | 7829 |
 | Fondation 1 - Livre 3 | Les Branches de l'Existence | Premiere passe complete | 9931 |
 | Fondation 1 - Livre 4 | Pourquoi Tout Existe Quelque Part | Premiere passe complete | 9878 |
 | Fondation 1 - Livre 5 | Les Limites du Possible | Premiere passe complete | 10077 |
@@ -54,4 +54,4 @@ Total manuscrit actuel: 46340 mots.
 Construire une bibliotheque de 10 fondations et 50 livres courts autour d'une hypothese centrale: la conscience ne cree pas seulement des images interieures, elle entre en resonance avec des versions du reel deja presentes dans l'ocean des possibles.
 
 ## Premiere Priorite
-Continuer le Draft 02 de la Fondation 1 dans `08_DRAFTS/DRAFT_02.md`, en revisant ensuite le Livre 1, chapitre 2: "Ce que veut dire exister quelque part".
+Continuer le Draft 02 de la Fondation 1 dans `08_DRAFTS/DRAFT_02.md`, en revisant le Livre 2, chapitre 1: "Pourquoi cartographier l'infini".

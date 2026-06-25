@@ -7,7 +7,7 @@ Continuer le Draft 02 de la Fondation 1.
 `08_DRAFTS/DRAFT_02.md`
 
 ## Objectif En 30 Minutes
-Reviser le Livre 1, chapitre 2: "Ce que veut dire exister quelque part".
+Reviser le Livre 2, chapitre 1: "Pourquoi cartographier l'infini".
 
 ## Ne Pas Oublier
 - La Fondation 1 est complete en premiere passe.
@@ -17,10 +17,10 @@ Reviser le Livre 1, chapitre 2: "Ce que veut dire exister quelque part".
 - Verifier les repetitions et les concepts avant export print.
 - Le PDF actuel est un ebook de travail, pas encore l'interieur final TheBookEdition.
 - Le site public est prepare sur la branche `gh-pages`; GitHub Pages doit etre active manuellement dans `Settings > Pages`.
-- Le canon officiel du 24/06/2026 fixe 40 principes dans `02_STORY_BIBLE/CANON_OFFICIEL_40_PRINCIPES.md`.
+- Le canon officiel compte maintenant 41 principes; le principe XLI ajoute la Continuite Identitaire comme principe emergent.
 - Le glossaire officiel du 24/06/2026 est range dans `02_STORY_BIBLE/GLOSSAIRE_OFFICIEL.md`.
 - Le pipeline editorial de 50 idees est range dans `13_ARTICLES_PUBLICS/ARTICLE_PIPELINE_50_IDEES.md`.
-- Le Draft 02 a commence dans `08_DRAFTS/DRAFT_02.md`.
+- Le Draft 02 a commence dans `08_DRAFTS/DRAFT_02.md`; le Livre 1 est complet et mini-relu en Draft 02.
 
 ## A Noter Apres La Session
 - Chapitre revise ajoute au Draft 02.

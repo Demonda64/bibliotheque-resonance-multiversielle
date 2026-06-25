@@ -54,6 +54,16 @@ Documents de reference crees:
 - `02_STORY_BIBLE/CANON_OFFICIEL_40_PRINCIPES.md`
 - `02_STORY_BIBLE/GLOSSAIRE_OFFICIEL.md`
 
-Decision: le canon officiel compte desormais 40 principes. Les anciennes notes restent utiles comme historique editorial, mais la table des 40 principes devient la reference de coherence pour les articles publics, les prochaines fondations et la revision finale de Fondation 1.
+Decision: le canon officiel issu du PDF compte 40 principes. Les anciennes notes restent utiles comme historique editorial, mais la table canonique devient la reference de coherence pour les articles publics, les prochaines fondations et la revision finale de Fondation 1.
+
+## Mise A Jour - Principe Emergent XLI du 25/06/2026
+Ajout du Principe de Continuite Identitaire dans `02_STORY_BIBLE/CANON_OFFICIEL_40_PRINCIPES.md`.
+
+Decision: le canon de travail compte desormais 41 principes. Le principe XLI est classe comme principe emergent, derive de la Convergence, de la Divergence, de l'Attracteur Identitaire, de la Proximite Narrative et de la Persistance du Noyau.
+
+Le glossaire officiel ajoute aussi:
+
+- Continuite Identitaire
+- Point de Rupture Identitaire
 
 Attention: l'extraction PDF a produit quelques accents deteriories par l'encodage du fichier source. Les documents Markdown crees reprennent uniquement les titres, notions et definitions suffisamment fiables.

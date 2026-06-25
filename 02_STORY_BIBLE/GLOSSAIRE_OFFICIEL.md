@@ -49,6 +49,9 @@ Reequilibrage produit par le reseau lorsqu'une convergence importante se produit
 ### Conscience
 Point d'experience localise a l'interieur du reseau.
 
+### Continuite Identitaire
+Maintien de la coherence experientielle du Noyau a travers plusieurs variantes compatibles.
+
 ### Convergence
 Deplacement progressif de l'alignement d'une conscience vers une branche.
 
@@ -105,6 +108,9 @@ Structure facilitant les transitions entre realites.
 
 ### Persistance du Noyau
 Capacite du Noyau a demeurer stable malgre les divergences.
+
+### Point de Rupture Identitaire
+Evenement provoquant l'interruption ou l'instabilite d'une branche et permettant une eventuelle continuite a travers une variante voisine.
 
 ### Proximite identitaire
 Force de connexion entre variantes partageant un meme Noyau.

@@ -31,8 +31,8 @@
 ## Fondation 1
 | Livre | Statut export |
 | --- | --- |
-| Le Multivers Infini | Draft 02 en cours: chapitre 1 revise |
-| La Cartographie des Realites | Pret pour relecture Draft 2 |
+| Le Multivers Infini | Livre 1 complet et mini-relu en Draft 02 |
+| La Cartographie des Realites | Prochain Draft 02 |
 | Les Branches de l'Existence | Pret pour relecture Draft 2 |
 | Pourquoi Tout Existe Quelque Part | Pret pour relecture Draft 2 |
 | Les Limites du Possible | Pret pour relecture Draft 2 |
