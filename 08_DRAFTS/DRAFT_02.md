@@ -50,6 +50,7 @@ Le Draft 02 n'est pas une reecriture totale. C'est une passe de clarification:
 | 2026-06-25 | Livre 1 complet | Mini-relecture de coherence; retrait de formulations trop orientees navigation, passage et mecanismes avances. |
 | 2026-06-26 | Livre 2, chapitre 1 | Ouverture de la cartographie des realites: distinguer les familles de branches sans transformer la carte en promesse d'acces. |
 | 2026-06-26 | Livre 2, chapitre 2 | Revision des branches proches comme variations discretes, accessibles a la pensee sans devenir des promesses de controle. |
+| 2026-06-26 | Livre 2, chapitre 3 | Revision des branches divergentes comme realites plus eloignees demandant temps, coherence et reorganisation de continuite. |
 
 ---
 
@@ -1065,3 +1066,181 @@ Mais parce qu'ils montrent ou le possible touche deja la branche locale.
 - Les signes retenus restent prudents: intuition simple, familiarite, faible resistance et familiarite corporelle.
 - La branche proche est presentee comme hypothese de voisinage, non comme promesse ou preuve.
 - Le chapitre maintient l'ancrage local: une branche proche devient pertinente lorsqu'elle peut etre observee ou testee par un geste concret.
+
+## Chapitre 3 - Les branches divergentes
+
+Les branches divergentes ne modifient pas seulement un detail.
+
+Elles demandent une autre trajectoire.
+
+Une branche proche peut tenir dans un geste: une page ecrite, une conversation acceptee, une habitude legerement deplacee. Une branche divergente touche davantage de couches. Elle ne change pas seulement ce qui arrive. Elle change ce qui devient normal.
+
+Changer de metier.
+
+Changer de pays.
+
+Changer de cercle humain.
+
+Changer de rythme.
+
+Changer de discipline interieure.
+
+Changer la maniere dont une vie se raconte a elle-meme.
+
+Ces branches ne sont pas necessairement impossibles. Elles ne doivent pas etre rejetees simplement parce qu'elles resistent. Mais elles ne sont pas voisines au sens immediat. Elles demandent plus qu'une variation locale. Elles exigent une reorganisation de la continuite.
+
+C'est cela, d'abord, la divergence.
+
+Un ecart de continuite.
+
+Plus une branche demande de modifier les habitudes, les relations, la memoire pratique, les competences, les attentes du corps et la place dans le monde partage, plus elle est divergente. Elle n'est pas moins reelle pour autant. Elle est plus eloignee de la branche actuelle.
+
+La premiere erreur serait de confondre distance et impossibilite.
+
+Une branche divergente peut etre pensable, coherente, peut-etre meme desirable. Elle resiste parce qu'elle implique un reseau de consequences. Elle ne peut pas etre atteinte par une simple image, ni par une phrase volontaire, ni par une emotion intense isolee. Elle demande que plusieurs dimensions de la vie deviennent compatibles avec elle.
+
+La resistance devient alors une information.
+
+Elle ne dit pas forcement non.
+
+Elle dit parfois: plus loin.
+
+Elle dit: cette realite demande une duree.
+
+Elle dit: cette branche suppose une autre organisation de la vie locale.
+
+La cartographie ne transforme donc pas la resistance en echec. Elle la lit comme un indice de distance. Ce qui resiste peut signaler que la branche visee est trop eloignee pour etre comprise comme une branche proche. Il faut alors cesser de la traiter comme un simple choix du jour et commencer a l'observer comme une trajectoire.
+
+Le premier signe d'une branche divergente est le temps long.
+
+Une branche proche peut parfois etre testee dans la journee. Une branche divergente exige une sequence. Elle se construit par retours, repetitions, apprentissages, deplacements de rythme. Elle ne devient pas locale parce qu'elle a ete imaginee fortement une fois. Elle devient plus lisible lorsqu'elle commence a produire une familiarite durable.
+
+Le temps long est l'un des grands correctifs de la pensee magique.
+
+Ce qui est lointain ne devient pas proche par intensite seule.
+
+Il devient moins etranger lorsqu'il entre dans la duree.
+
+Le deuxieme signe est le changement de routine.
+
+Une branche proche peut parfois s'ajouter a la vie actuelle. Une branche divergente demande souvent de remplacer certaines formes de vie par d'autres. Elle ne peut pas entrer si tout le reste demeure identique. Une branche d'ecriture ne s'installe pas durablement dans une vie qui ne laisse jamais de temps a l'ecriture. Une branche de sante ne se stabilise pas dans une routine qui epuise constamment le corps. Une branche de liberte ne grandit pas dans des gestes qui reconduisent chaque jour l'enfermement.
+
+La divergence se voit donc dans le prix ordinaire.
+
+Non pas le prix spectaculaire.
+
+Le prix quotidien.
+
+Qu'est-ce qui doit cesser?
+
+Qu'est-ce qui doit commencer?
+
+Qu'est-ce qui doit etre repete assez longtemps pour devenir normal?
+
+Ces questions sont plus utiles que les images de resultat. Elles montrent si une branche est seulement admiree ou si elle peut devenir progressivement habitable.
+
+Le troisieme signe est l'exigence de coherence.
+
+Dans une branche divergente, les contradictions internes deviennent plus visibles. Penser dans une direction, agir dans une autre, ressentir dans une troisieme produit une dispersion. La conscience ne sait plus quelle realite elle confirme. Elle veut une branche, mais elle continue parfois de nourrir les conditions d'une autre.
+
+La coherence ne demande pas la perfection.
+
+Elle demande une orientation suffisante.
+
+Un etre humain peut hesiter, avoir peur, revenir en arriere, recommencer. Mais lorsqu'une pensee revient, qu'une emotion la soutient, que des gestes la confirment et que la vie locale commence a lui faire une place, la branche divergente devient moins abstraite. Elle cesse peu a peu d'etre seulement une image.
+
+Le quatrieme signe est la perte partielle de l'ancien monde.
+
+Toute branche divergente implique une forme de deuil. Non pas forcement un drame. Mais une perte de priorite. Si une trajectoire devient plus centrale, d'autres deviennent moins influentes. Une nouvelle discipline affaiblit certaines anciennes habitudes. Une nouvelle forme de vie rend certains anciens conforts moins disponibles. Une nouvelle direction peut modifier des relations, des loyautes, des identites locales.
+
+C'est l'une des raisons pour lesquelles ces branches peuvent faire peur.
+
+La conscience locale n'a pas seulement peur de l'inconnu.
+
+Elle a parfois peur de trahir ce qu'elle connait.
+
+Elle sent que changer de trajectoire ne signifie pas seulement gagner un possible. Cela signifie aussi laisser d'autres possibles perdre de leur force.
+
+La cartographie doit respecter cette peur. Elle ne doit pas la ridiculiser. Une peur peut etre une resistance ancienne, mais elle peut aussi signaler une vraie question de coherence. Certaines branches sont desirees par une partie de la conscience et refusees par une autre. Certaines transformations paraissent lumineuses de loin, mais demandent des pertes que la conscience n'a pas encore acceptees.
+
+Le cartographe interroge donc la divergence.
+
+Il demande:
+
+Quelle partie de la vie devrait changer?
+
+Quelle partie resterait reconnaissable?
+
+Quelle routine rendrait cette branche plus stable?
+
+Quelle peur parle d'un danger reel, et quelle peur protege seulement l'ancien alignement?
+
+Quelle version de soi serait renforcee?
+
+Quelle version de soi deviendrait moins centrale?
+
+Ces questions ne sont pas un protocole. Elles sont une maniere de lire la distance.
+
+Une branche divergente utile n'est pas seulement une image impressionnante. Elle peut etre traduite, au moins en partie, en conditions. Elle appelle des apprentissages, des habitudes, des relations, des lieux, des rythmes, des renoncements. Elle reste peut-etre loin, mais elle possede une pente.
+
+Un fantasme inaccessible, lui, refuse la pente.
+
+Il veut le sommet sans chemin.
+
+Il donne une image forte, puis laisse la vie locale intacte. Il excite l'imagination, mais ne produit aucune continuite. Il peut avoir une valeur symbolique, artistique ou affective. Mais il ne doit pas etre confondu trop vite avec une branche praticable.
+
+La distinction est essentielle.
+
+La branche divergente resiste parce qu'elle demande une reorganisation.
+
+Le fantasme inaccessible resiste parce qu'il n'offre aucune structure.
+
+Dans le premier cas, la distance peut etre lue.
+
+Dans le second, elle reste floue.
+
+La cartographie sert a ne pas confondre ces deux formes de lointain.
+
+Elle rappelle aussi que toutes les branches ne sont pas egalement proches de toutes les consciences. Une realite peut etre coherente en elle-meme, mais trop distante pour une trajectoire donnee a un moment donne. Une autre peut sembler moins spectaculaire, mais s'inscrire plus naturellement dans la continuite actuelle. La carte ne dit pas ce qu'il faut choisir. Elle montre seulement que le choix ne se fait jamais dans un espace plat.
+
+Le multivers, dans cette perspective, n'est pas seulement une immensite de possibles.
+
+C'est une immensite de distances.
+
+Chaque branche possede sa place relative. Chaque transformation a une profondeur. Chaque desir rencontre une architecture. Une vie ne passe pas d'une configuration a une autre comme si aucune coherence n'etait necessaire.
+
+Cela peut sembler restrictif.
+
+C'est au contraire ce qui rend le modele habitable.
+
+Si tout etait immediatement accessible, plus rien n'aurait de structure. Si tout dependait seulement de l'intensite d'une pensee, la realite deviendrait arbitraire. Les branches divergentes enseignent une chose plus sobre: le possible existe peut-etre largement, mais l'acces a ce possible depend de la distance, du temps, de la coherence et de l'habitabilite.
+
+La divergence n'est donc pas un mur.
+
+C'est une mesure du chemin.
+
+Elle dit que certaines realites demandent plus de transformation que d'autres. Elle oblige a respecter le temps. Elle oblige a ne pas confondre une vision avec une trajectoire. Elle oblige aussi a reconnaitre que l'ancrage local a un poids.
+
+Une branche divergente peut inspirer.
+
+Elle peut orienter.
+
+Elle peut donner une direction.
+
+Mais elle ne doit pas etre utilisee pour mepriser la branche actuelle. C'est depuis cette branche-ci que toute lecture commence. C'est ici que les gestes se forment. C'est ici que les pertes se ressentent. C'est ici que les nouvelles coherences doivent prendre racine.
+
+La branche proche nous apprend que le possible touche parfois le seuil.
+
+La branche divergente nous apprend que le possible a parfois besoin d'une route.
+
+Dans les deux cas, la carte ne remplace pas le reel.
+
+Elle nous aide seulement a voir si nous regardons une variation voisine, une trajectoire lointaine, ou une image sans chemin.
+
+## Notes De Revision - Livre 2, Chapitre 3
+
+- Le chapitre definit les branches divergentes comme ecarts de continuite plutot que comme simples mondes eloignes.
+- La revision garde les axes temps long, routine, coherence et perte partielle de l'ancien monde.
+- Les notions techniques de Harmons, branches-ponts, navigation et mesure avancee restent reservees.
+- La divergence est presentee comme mesure du chemin, non comme mur ni promesse d'acces.
+- Le chapitre distingue branche divergente praticable et fantasme inaccessible sans transformer cette distinction en protocole.
