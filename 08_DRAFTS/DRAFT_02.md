@@ -52,6 +52,7 @@ Le Draft 02 n'est pas une reecriture totale. C'est une passe de clarification:
 | 2026-06-26 | Livre 2, chapitre 2 | Revision des branches proches comme variations discretes, accessibles a la pensee sans devenir des promesses de controle. |
 | 2026-06-26 | Livre 2, chapitre 3 | Revision des branches divergentes comme realites plus eloignees demandant temps, coherence et reorganisation de continuite. |
 | 2026-06-26 | Livre 2, chapitre 4 | Clarification des realites instables: fragments, brouillards et configurations composites sans statut de branche stable. |
+| 2026-06-26 | Livre 2, chapitre 5 | Revision des zones oniriques et temporelles comme regions d'acces assoupli, sans preuve automatique ni protocole. |
 
 ---
 
@@ -1411,3 +1412,171 @@ Elle apprend a attendre ce qui demeure lorsque la lumiere change.
 - Les signes retenus sont: contradiction interne, melange de signaux, manque d'ancrage et intensite sans suite.
 - La prudence est renforcee: l'instable doit etre note, observe et interroge, pas transforme en preuve.
 - Les notions techniques de cout energetique, Navigateurs, passages et mecanismes de stabilisation restent reservees.
+
+## Chapitre 5 - Les zones oniriques et temporelles
+
+Certaines realites ne se presentent pas comme des lieux.
+
+Elles se presentent comme des etats.
+
+Le reve, l'intuition temporelle, le souvenir impossible, l'impression d'avoir deja vecu un futur, la sensation qu'un evenement approche sans etre encore visible: ces phenomenes ne se laissent pas toujours classer comme des branches ordinaires. Ils traversent la conscience par des voies plus souples. Ils semblent moins attaches a l'espace qu'au rythme, moins attaches a la matiere qu'a l'acces.
+
+La cartographie doit donc distinguer deux familles particulieres:
+
+les zones oniriques;
+
+et les zones temporelles.
+
+Les zones oniriques apparaissent lorsque l'ancrage au monde local diminue. Pendant le sommeil, le corps demeure dans la branche locale, mais la conscience ne recoit plus le meme flux de confirmations sensorielles. La memoire se recompose. Les images se rapprochent. Les filtres ordinaires se relachent. Certaines resonances faibles deviennent plus perceptibles.
+
+Le reve est une ouverture naturelle.
+
+Mais ce n'est pas une ouverture simple.
+
+Un reve ordinaire n'est pas necessairement une branche visitee. Il peut etre un melange de residus de la journee, de tensions affectives, de memoires anciennes, de signaux corporels, d'images symboliques, d'intuitions et peut-etre de fragments venus de branches proches. Il faut donc eviter deux erreurs opposees: reduire tous les reves a des decharges internes, ou transformer tous les reves en voyages entre realites.
+
+Le reve ordinaire est souvent une zone de composition.
+
+Il ne montre pas toujours un monde.
+
+Il montre parfois un montage.
+
+C'est pourquoi il peut etre vrai sans etre litteral. Une maison revee peut ne correspondre a aucune branche stable, mais porter une information sur l'ancrage, la peur, le desir ou la memoire. Une personne vue en reve peut etre elle-meme, une autre, un symbole, une variante possible ou une condensation de plusieurs figures. Le reve travaille souvent par superposition.
+
+Le cartographe doit donc demander:
+
+quelle partie du reve tient?
+
+Est-ce le lieu?
+
+L'emotion?
+
+La phrase?
+
+La presence?
+
+Le mouvement?
+
+La repetition?
+
+Ce qui revient dans plusieurs reves merite plus d'attention que ce qui apparait une seule fois avec violence. La repetition ne prouve pas. Mais elle donne une densite. Elle indique qu'un motif insiste assez pour etre observe dans la duree.
+
+Le reve lucide occupe une place particuliere, mais ce livre ne l'etudie pas encore comme technique.
+
+Il suffit ici de dire qu'il modifie la relation au reve. Dans un reve ordinaire, la conscience traverse l'image sans toujours savoir qu'elle reve. Dans un reve lucide, elle commence a observer la scene en sachant qu'elle se trouve dans un etat different. Cette lucidite peut rendre la zone plus lisible, mais elle ne transforme pas automatiquement le reve en preuve cosmologique.
+
+Une zone onirique lucide peut etre stable.
+
+Elle peut aussi se dissoudre.
+
+Elle peut donner une impression de continuite.
+
+Elle peut aussi rester un melange.
+
+La lucidite augmente l'observation; elle ne garantit pas la verite de ce qui est observe.
+
+Il existe aussi, dans les reves et les imaginaires, des formes de transition: portes, fenetres, couloirs, escaliers, tunnels, seuils. Elles reviennent souvent parce qu'elles expriment une fonction narrative et perceptive. Elles signalent parfois un changement d'etat, de lieu, de rythme ou de niveau d'attention.
+
+Dans cette Fondation 1, il ne faut pas encore en faire des protocoles.
+
+Une porte revee peut etre un symbole.
+
+Elle peut etre une articulation de memoire.
+
+Elle peut etre une forme de passage entre deux scenes.
+
+Elle peut aussi, dans certains cas, accompagner une modification plus profonde de l'etat de conscience.
+
+La cartographie note la forme.
+
+Elle ne conclut pas trop vite.
+
+Les zones temporelles posent une autre difficulte.
+
+Dans la Resonance Multiversielle, le temps n'est pas universel. Chaque branche possede son present local. Ce que nous appelons futur peut etre deja present ailleurs. Ce que nous appelons passe peut rester ouvert dans une autre configuration. Il n'existe pas un seul present cosmique qui contiendrait tout. Il existe une pluralite de presents locaux.
+
+Cette idee modifie la carte.
+
+Une branche ne se distingue pas seulement par son contenu. Elle se distingue aussi par son rythme.
+
+Deux branches peuvent etre proches par les lieux et les personnes, mais decalees dans leur temporalite. L'une peut contenir un evenement qui, pour nous, n'a pas encore eu lieu. Une autre peut conserver une configuration que notre branche a deja depassee. Une autre encore peut avancer selon un rythme si different que nos mots "avant" et "apres" deviennent insuffisants.
+
+Les intuitions dites premonitoires trouvent ici une place theorique, mais une place prudente.
+
+Une intuition du futur n'est pas forcement une prediction magique. Elle peut etre un calcul inconscient, une lecture subtile de signes, une anticipation probable du corps et de la memoire. La cartographie ne doit jamais remplacer ces explications ordinaires.
+
+Mais dans le langage interne de la BRM, certaines intuitions peuvent aussi etre interpretees comme des resonances faibles avec une branche ou l'evenement est deja local. La conscience ne cree pas le futur. Elle ne commande pas l'evenement. Elle pourrait simplement percevoir, de maniere incomplete, une configuration temporellement decalee par rapport a notre branche.
+
+Le souvenir du futur est encore plus troublant.
+
+Il ne se presente pas comme une prediction, mais comme une familiarite sans evenement local. La personne a l'impression de reconnaitre un moment qui n'a pas encore eu lieu ici. Ce souvenir peut etre flou, affectif, sensoriel. Il ne donne pas toujours des details. Il donne une tonalite.
+
+Dans la carte, ce phenomene peut signaler une relation avec une branche temporellement decalee.
+
+Mais il peut aussi venir de la memoire, du desir, de la peur ou d'une reconstruction interieure.
+
+La prudence reste donc la premiere regle.
+
+Les zones temporelles incluent aussi les passes inacheves.
+
+Un passe inacheve n'est pas simplement un souvenir douloureux. C'est l'idee qu'une situation close dans notre branche pourrait rester ouverte ailleurs. Une relation terminee ici continue peut-etre dans une autre branche. Une decision irreversible ici n'a peut-etre pas encore ete prise ailleurs. Une perte locale n'est pas necessairement une perte dans toutes les configurations du reel total.
+
+Cette idee peut apaiser.
+
+Elle peut aussi pieger.
+
+Elle apaise parce qu'elle retire a notre branche le pouvoir de contenir toutes les fins.
+
+Elle piege si elle nous empeche de vivre les consequences de cette branche-ci.
+
+Le cartographe doit donc accepter une double exigence: d'autres temporalites peuvent etre pensables, mais elles n'annulent pas la responsabilite locale. Notre branche garde ses deuils, ses choix, ses limites, ses liens, ses reparations possibles. Les autres presents n'effacent pas celui-ci.
+
+Les zones oniriques et temporelles ont un point commun: elles diminuent la rigidite de la branche locale.
+
+Dans le reve, la rigidite sensorielle diminue.
+
+Dans l'intuition temporelle, la rigidite chronologique diminue.
+
+Dans les deux cas, la conscience recoit des signaux plus souples, mais aussi plus difficiles a classer.
+
+C'est pourquoi ces zones demandent des traces.
+
+Noter les reves.
+
+Noter les intuitions.
+
+Noter les repetitions.
+
+Noter les images qui reviennent.
+
+Noter ce qui se confirme, ce qui se dissout, ce qui reste seulement intense, ce qui devient coherent.
+
+Le journal est ici un instrument de cartographie. Il evite que la memoire reconstruise tout apres coup. Il permet de distinguer l'impression forte du motif persistant. Il donne a l'exploration une memoire externe, donc une forme de stabilite.
+
+Sans journal, la conscience risque de transformer chaque experience en legende personnelle.
+
+Avec un journal, elle peut comparer.
+
+Comparer ne tue pas le mystere.
+
+Comparer l'affine.
+
+Les zones oniriques et temporelles seront developpees plus tard dans leurs fondations propres. Ici, nous les placons seulement sur la carte. Elles ne sont ni de simples illusions, ni des preuves automatiques. Elles sont des regions d'acces assoupli, ou la conscience locale peut percevoir des fragments de realites, de symboles ou de temporalites que l'etat ordinaire maintient a distance.
+
+Le reve est une mer de nuit.
+
+Le temps est un archipel de presents locaux.
+
+Entre les deux, la conscience apprend que la realite n'est pas seulement ce qui arrive devant elle, mais aussi ce qui peut l'atteindre par des chemins obliques.
+
+Le cartographe ne doit pas craindre ces chemins.
+
+Il doit seulement apprendre a les nommer.
+
+## Notes De Revision - Livre 2, Chapitre 5
+
+- Le chapitre distingue les zones oniriques et temporelles comme etats d'acces assoupli, non comme preuves automatiques.
+- Le reve ordinaire est traite comme zone de composition: il peut contenir des fragments, mais ne doit pas etre confondu trop vite avec une branche visitee.
+- Le reve lucide, les portes, les seuils et les passages sont mentionnes comme formes a cartographier, sans protocole ni technique.
+- Les intuitions temporelles et souvenirs du futur restent prudents: possibles resonances faibles, mais aussi lectures ordinaires, reconstructions ou anticipations.
+- Le journal est presente comme outil de cartographie et de comparaison, pas comme instrument de certitude.

@@ -32,7 +32,7 @@
 | Livre | Statut export |
 | --- | --- |
 | Le Multivers Infini | Livre 1 complet et mini-relu en Draft 02 |
-| La Cartographie des Realites | Chapitres 1 a 4 ajoutes en Draft 02 |
+| La Cartographie des Realites | Chapitres 1 a 5 ajoutes en Draft 02 |
 | Les Branches de l'Existence | Pret pour relecture Draft 2 |
 | Pourquoi Tout Existe Quelque Part | Pret pour relecture Draft 2 |
 | Les Limites du Possible | Pret pour relecture Draft 2 |
