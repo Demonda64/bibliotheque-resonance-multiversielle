@@ -53,6 +53,7 @@ Le Draft 02 n'est pas une reecriture totale. C'est une passe de clarification:
 | 2026-06-26 | Livre 2, chapitre 3 | Revision des branches divergentes comme realites plus eloignees demandant temps, coherence et reorganisation de continuite. |
 | 2026-06-26 | Livre 2, chapitre 4 | Clarification des realites instables: fragments, brouillards et configurations composites sans statut de branche stable. |
 | 2026-06-26 | Livre 2, chapitre 5 | Revision des zones oniriques et temporelles comme regions d'acces assoupli, sans preuve automatique ni protocole. |
+| 2026-06-26 | Livre 2, chapitre 6 | Conclusion du Livre 2 par une ethique de la carte: situer les experiences sans les absolutiser. |
 
 ---
 
@@ -1580,3 +1581,169 @@ Il doit seulement apprendre a les nommer.
 - Le reve lucide, les portes, les seuils et les passages sont mentionnes comme formes a cartographier, sans protocole ni technique.
 - Les intuitions temporelles et souvenirs du futur restent prudents: possibles resonances faibles, mais aussi lectures ordinaires, reconstructions ou anticipations.
 - Le journal est presente comme outil de cartographie et de comparaison, pas comme instrument de certitude.
+
+## Chapitre 6 - Lire une carte sans confondre la carte et le reel
+
+Une carte peut sauver une pensee.
+
+Elle peut aussi l'emprisonner.
+
+Depuis le debut de ce deuxieme livre, nous avons appris a nommer plusieurs familles de realites: les branches proches, les branches divergentes, les realites instables, les zones oniriques et les zones temporelles. Ces mots aident. Ils donnent une forme a ce qui, autrement, resterait confus. Ils permettent de distinguer un ecart faible d'une trajectoire lointaine, une image instable d'une branche coherente, un reve composite d'une experience plus structuree.
+
+Mais les mots peuvent seduire.
+
+La tentation du cartographe est de croire que nommer suffit. Une intuition apparait, et il la classe trop vite comme branche proche. Un reve trouble, et il le transforme en message. Une resistance interieure, et il la declare divergence. Une coincidence, et il y voit immediatement une convergence. La carte cesse alors d'eclairer le reel. Elle le remplace.
+
+Elle devient une machine a conclure.
+
+Ce n'est plus une methode.
+
+C'est une nouvelle forme de brouillard.
+
+Lire une carte sans la confondre avec le reel demande une discipline plus rare que l'imagination: l'humilite.
+
+L'humilite consiste a dire: cette categorie m'aide a observer, mais elle ne prouve pas. Elle organise mon attention, mais elle ne remplace pas l'experience. Elle propose une hypothese, mais elle ne ferme pas l'enquete.
+
+Une branche proche peut etre seulement une envie.
+
+Une branche divergente peut etre seulement une peur de l'effort.
+
+Une realite instable peut cacher un signal important.
+
+Un reve peut etre symbolique, psychologique, corporel, multiversiel, ou tout cela a la fois.
+
+Une intuition temporelle peut etre une lecture inconsciente de signes ordinaires.
+
+Rien de cela ne detruit la theorie.
+
+Au contraire, cela la rend plus solide.
+
+Une cosmologie qui supporte la nuance devient plus habitable. Elle n'a pas besoin de capturer tous les phenomenes pour tenir. Elle peut laisser certaines experiences ouvertes. Elle peut dire: je ne sais pas encore. Elle peut accepter que la carte soit progressive, provisoire, corrigeable.
+
+Le cartographe doit donc travailler avec plusieurs niveaux de confiance.
+
+Le premier niveau est l'impression.
+
+Quelque chose est ressenti: une image, une intuition, un reve, une familiarite, une resistance. Ce niveau ne doit pas etre meprise. Beaucoup de cartes commencent par une impression. Mais il ne doit pas etre absolutise. Une impression est une donnee brute, pas une conclusion.
+
+Le deuxieme niveau est la repetition.
+
+Ce qui revient merite plus d'attention que ce qui surgit une seule fois avec violence. Un reve unique peut troubler. Un motif qui revient pendant des semaines commence a former une trace. Une intuition isolee peut etre un hasard. Une serie d'intuitions coherentes merite observation. La repetition ne prouve pas, mais elle donne une densite.
+
+Le troisieme niveau est la coherence.
+
+Les elements se relient-ils entre eux? L'image, l'emotion, la memoire, l'action possible et les consequences forment-elles une structure? Une realite qui gagne en coherence devient plus lisible. Une experience qui reste contradictoire peut rester interessante, mais elle doit etre classee autrement.
+
+Le quatrieme niveau est l'ancrage.
+
+L'experience rend-elle la branche locale plus lisible, ou seulement plus confuse? Produit-elle davantage de presence, de responsabilite, de clarte? Ou bien davantage de dispersion, de grandeur imaginaire, de fuite hors du concret? Une bonne carte ne detruit pas la maison. Elle permet de mieux comprendre les routes qui partent de son seuil.
+
+Le cinquieme niveau est l'action.
+
+Une branche pertinente appelle souvent un geste local. Pas toujours un grand geste. Parfois une note, une conversation, une page, une verification, un repos, une limite. L'action ne prouve pas la carte, mais elle l'eprouve. Sans action, la cartographie risque de rester une contemplation infinie.
+
+Ces cinq niveaux ne donnent pas la certitude.
+
+Ils donnent une hygiene de l'exploration.
+
+La cartographie multiversielle a besoin d'une ethique.
+
+Premiere regle: ne pas tout croire.
+
+Deuxieme regle: ne pas tout nier.
+
+Troisieme regle: noter avant d'interpreter.
+
+Quatrieme regle: chercher ce qui se repete.
+
+Cinquieme regle: revenir au corps, a l'action, a la branche locale.
+
+Sixieme regle: ne jamais utiliser la carte pour fuir une responsabilite concrete.
+
+Ces regles peuvent sembler sobres, presque trop terrestres pour une theorie du multivers. C'est precisement leur force. Plus une cosmologie est vaste, plus elle a besoin d'ancrage. Plus les possibles sont nombreux, plus la methode doit rester propre.
+
+Nous pouvons maintenant resumer les grandes familles abordees dans ce livre.
+
+Les branches proches sont les realites voisines. Elles ne prouvent rien par elles-memes, mais elles montrent que le possible peut parfois toucher la branche locale par un ecart faible, une action simple, une familiarite discrete.
+
+Les branches divergentes sont les realites plus eloignees. Elles ne sont pas impossibles pour cette seule raison, mais elles demandent temps, coherence, routines nouvelles et acceptation de certaines pertes.
+
+Les realites instables sont des configurations qui ne tiennent pas encore comme branches. Elles peuvent etre riches, creatrices, troublantes, mais elles exigent discernement.
+
+Les zones oniriques sont des etats d'acces assoupli. Le reve ordinaire y compose souvent plusieurs signaux. Le reve lucide peut y rendre l'observation plus claire, sans garantir la verite de ce qui est observe.
+
+Les zones temporelles sont des regions ou le rythme des branches devient pensable. Futurs deja presents, souvenirs du futur, passes inacheves: ces notions rappellent que le temps n'est peut-etre pas un fleuve unique, mais une pluralite de presents locaux.
+
+Ces categories ne sont pas des prisons.
+
+Elles sont des directions de lecture.
+
+Un meme phenomene peut appartenir a plusieurs familles. Un reve peut contenir une branche proche, une realite instable et une tonalite temporelle. Une intuition peut etre a la fois psychologique et multiversielle. Une creation artistique peut stabiliser localement un signal qui etait d'abord instable. La carte doit accepter ces zones mixtes.
+
+Dans une bonne cartographie, les frontieres sont utiles mais respirantes.
+
+Le danger inverse serait de refuser toute categorie sous pretexte que tout se melange. Ce serait une autre paresse. Si tout est melange, rien n'est lisible. Si tout est certain, rien n'est vivant. Le cartographe travaille entre ces deux erreurs.
+
+Il trace des lignes provisoires.
+
+Il les corrige.
+
+Il garde la memoire de ses erreurs.
+
+Il accepte que certaines zones restent blanches.
+
+Le journal devient ici un outil central. Non pas seulement un journal intime, mais un carnet de cartographie. On y note les reves, les intuitions, les repetitions, les decisions, les effets des actions, les moments de coherence ou de dispersion. Avec le temps, le journal revele des motifs que la memoire seule aurait deformes.
+
+Une conscience sans journal est souvent prisonniere de la derniere impression forte.
+
+Une conscience avec journal peut comparer les impressions dans la duree.
+
+La duree est l'alliee du cartographe.
+
+Elle montre ce qui tient.
+
+Elle montre ce qui passe.
+
+Elle montre ce qui revient sous des formes differentes.
+
+Elle montre aussi les illusions que l'on aimait trop pour les abandonner.
+
+Cette ethique de la carte prepare le livre suivant. Nous avons ouvert le multivers, puis appris a distinguer ses premieres regions. Mais il reste a comprendre ce qu'est une branche en profondeur: comment elle se forme, comment elle se separe, comment elle conserve sa coherence, comment elle porte ses habitants et ses consequences.
+
+Le Livre 3, Les Branches de l'Existence, entrera dans cette question.
+
+Avant cela, il faut retenir le geste principal de ce livre-ci.
+
+Quand une experience arrive, ne pas la jeter.
+
+Ne pas l'adorer.
+
+La situer.
+
+Chercher sa famille.
+
+Observer sa stabilite.
+
+Evaluer sa distance.
+
+Noter ce qu'elle produit dans la branche locale.
+
+Puis revenir a cette question simple:
+
+que reste-t-il lorsque l'emotion baisse?
+
+La reponse, souvent, indique la partie de la carte qui merite d'etre conservee.
+
+Le multivers est peut-etre infini. Nos cartes ne le seront jamais. Mais une carte imparfaite, tenue avec humilite, vaut mieux qu'un vertige sans boussole.
+
+Le reel deborde la carte.
+
+C'est precisement pour cela qu'il faut apprendre a cartographier.
+
+## Notes De Revision - Livre 2, Chapitre 6
+
+- Le chapitre conclut le Livre 2 par une ethique de la cartographie: ne pas tout croire, ne pas tout nier, noter, comparer et revenir a la branche locale.
+- Les cinq niveaux de confiance retenus sont: impression, repetition, coherence, ancrage et action.
+- Les familles de realites du Livre 2 sont resumees sans introduire de protocole avance.
+- La carte est presentee comme outil provisoire, corrigeable et respirant, jamais comme substitut du reel.
+- La transition vers le Livre 3 est preparee: passer de la cartographie des realites a la formation et a la coherence des branches.
