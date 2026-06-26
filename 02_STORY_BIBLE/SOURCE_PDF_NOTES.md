@@ -51,13 +51,13 @@ Extraction conservee dans:
 
 Documents de reference crees:
 
-- `02_STORY_BIBLE/CANON_OFFICIEL_40_PRINCIPES.md`
+- `02_STORY_BIBLE/CANON_OFFICIEL_45_PRINCIPES.md`
 - `02_STORY_BIBLE/GLOSSAIRE_OFFICIEL.md`
 
 Decision: le canon officiel issu du PDF compte 40 principes. Les anciennes notes restent utiles comme historique editorial, mais la table canonique devient la reference de coherence pour les articles publics, les prochaines fondations et la revision finale de Fondation 1.
 
 ## Mise A Jour - Principe Emergent XLI du 25/06/2026
-Ajout du Principe de Continuite Identitaire dans `02_STORY_BIBLE/CANON_OFFICIEL_40_PRINCIPES.md`.
+Ajout du Principe de Continuite Identitaire dans `02_STORY_BIBLE/CANON_OFFICIEL_45_PRINCIPES.md`.
 
 Decision: le canon de travail compte desormais 41 principes. Le principe XLI est classe comme principe emergent, derive de la Convergence, de la Divergence, de l'Attracteur Identitaire, de la Proximite Narrative et de la Persistance du Noyau.
 
@@ -67,3 +67,24 @@ Le glossaire officiel ajoute aussi:
 - Point de Rupture Identitaire
 
 Attention: l'extraction PDF a produit quelques accents deteriories par l'encodage du fichier source. Les documents Markdown crees reprennent uniquement les titres, notions et definitions suffisamment fiables.
+
+## Mise A Jour - Canon Officiel Version 1.1 du 26/06/2026
+Source ajoutee: prompt de mise a jour canonique transmis dans Codex le 26/06/2026.
+
+Decision: le canon de travail passe a 45 principes. La Version 1.1 ajoute:
+
+- XLII. Principe de Pre-Resonance
+- XLIII. Principe de Reconfiguration Nocturne
+- XLIV. Principe d'Actualisation
+- XLV. Principe de Fenetre de Sensibilite
+
+Ces principes sont integres comme hypotheses internes d'une cosmologie philosophique speculative. Ils ne doivent pas etre presentes comme preuves scientifiques, promesses de controle, systeme religieux ou mecanisme d'immortalite automatique.
+
+Elements explicitement exclus comme fondations canoniques:
+
+- double unique;
+- cycles universels de 5130 ans;
+- avatars historiques imposes;
+- calendrier maya comme preuve;
+- extraterrestres comme necessite explicative;
+- pyramides, Sumeriens ou OVNI comme piliers de la theorie.

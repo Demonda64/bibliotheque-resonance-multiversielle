@@ -1,5 +1,14 @@
 # Bibliotheque de la Resonance Multiversielle
 
+## Droits d'auteur
+© 2026 Oscar Jonathan DEMONDA. Tous droits reserves.
+
+La Theorie de la Resonance Multiversielle, la Bibliotheque de la Resonance Multiversielle, les Fondations, le Canon Officiel, les glossaires, les articles, les tweets et les documents associes sont des creations originales d'Oscar Jonathan DEMONDA.
+
+Aucune reproduction, adaptation, exploitation commerciale ou attribution a un autre auteur n'est autorisee sans accord ecrit prealable.
+
+Voir: `COPYRIGHT.md`.
+
 ## Genre
 Essai speculatif / metaphysique de fiction
 

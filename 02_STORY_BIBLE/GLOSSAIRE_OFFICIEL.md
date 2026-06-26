@@ -19,6 +19,9 @@ Metaphore de l'ensemble des branches proches d'une conscience.
 ### Attracteur identitaire
 Variante exercant une attraction naturelle sur le Noyau Identitaire.
 
+### Actualisation
+Passage d'une branche deja existante dans le reseau a une branche localement experimentee par une conscience. La pensee ne cree pas la branche; elle peut seulement participer a l'orientation de la convergence.
+
 ### Branche
 Configuration particuliere du reel possedant sa propre histoire, sa propre temporalite et ses propres evenements.
 
@@ -73,6 +76,9 @@ Reserve mentale permettant a une conscience de maintenir sa lucidite, sa stabili
 ### Famille multiversielle
 Ensemble des variantes partageant un meme Noyau Identitaire.
 
+### Fenetre de sensibilite
+Periode temporaire ou l'Inertie de Branche diminue, rendant certaines convergences plus accessibles qu'a d'autres moments de l'existence.
+
 ### Fondations
 Les dix grands cycles qui composent l'architecture de la cosmologie.
 
@@ -112,6 +118,9 @@ Capacite du Noyau a demeurer stable malgre les divergences.
 ### Point de Rupture Identitaire
 Evenement provoquant l'interruption ou l'instabilite d'une branche et permettant une eventuelle continuite a travers une variante voisine.
 
+### Pre-Resonance
+Signal faible provenant d'une branche proche avant qu'une convergence soit stabilisee. Elle peut etre associee a certaines intuitions, pressentiments ou impressions de deja-vu, sans constituer une prediction certaine.
+
 ### Proximite identitaire
 Force de connexion entre variantes partageant un meme Noyau.
 
@@ -120,6 +129,9 @@ Compatibilite entre deux histoires de vie.
 
 ### Realite locale
 Branche actuellement experimentee par une conscience.
+
+### Reconfiguration nocturne
+Reorganisation possible de l'alignement pendant le sommeil profond, lorsque l'ancrage a la realite locale diminue.
 
 ### Reseau identitaire
 Ensemble des variantes reliees a un meme Noyau.

@@ -141,10 +141,12 @@ Les notions de permeabilite identitaire, saturation de resonance, fractures du s
 33. Permeabilite identitaire: dans certains cas limites, plusieurs configurations du meme noyau peuvent devenir simultanement plus accessibles.
 34. Saturation de resonance: une ouverture excessive vers des branches proches peut fragiliser la stabilite de l'expression identitaire locale.
 
-## Canon Officiel 41 Principes
-Reference detaillee: `CANON_OFFICIEL_40_PRINCIPES.md`.
+## Canon Officiel Version 1.1 - 45 Principes
+Reference detaillee: `CANON_OFFICIEL_45_PRINCIPES.md`.
 
-Le PDF `Canon Officiel de la Theorie de la Resonance Multiversielle`, transmis le 24/06/2026, fixe une table canonique de 40 principes. Le 25/06/2026, le Principe de Continuite Identitaire est ajoute comme principe emergent XLI. Cette table devient la reference de coherence superieure pour la suite du projet.
+Le PDF `Canon Officiel de la Theorie de la Resonance Multiversielle`, transmis le 24/06/2026, fixe une table canonique de 40 principes. Le 25/06/2026, le Principe de Continuite Identitaire est ajoute comme principe emergent XLI. Le 26/06/2026, le canon passe en Version 1.1 avec les principes XLII a XLV.
+
+Cette table devient la reference de coherence superieure pour la suite du projet.
 
 Les ajouts ou renforcements majeurs par rapport a la version de travail precedente sont:
 
@@ -157,5 +159,9 @@ Les ajouts ou renforcements majeurs par rapport a la version de travail preceden
 - Memoire Residuelle comme trace possible de branches voisines.
 - Canonisation de l'Incarnation et de la Methode de Convergence Progressive.
 - Continuite Identitaire comme principe emergent reliant Convergence, Divergence, Attracteur Identitaire, Proximite Narrative et Persistance du Noyau.
+- Pre-Resonance comme signal faible precedant certaines convergences possibles.
+- Reconfiguration Nocturne comme recalibrage possible de l'alignement pendant le sommeil profond.
+- Actualisation comme protection canonique contre l'idee que la pensee creerait les branches.
+- Fenetre de Sensibilite comme periode de moindre inertie ou une variation interieure peut produire une convergence accrue.
 
 Principe editorial: ces notions doivent etre introduites progressivement. Fondation 1 peut poser le territoire general; les principes techniques, identitaires et pratiques seront deployes dans les fondations suivantes.
