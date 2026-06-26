@@ -49,6 +49,7 @@ Le Draft 02 n'est pas une reecriture totale. C'est une passe de clarification:
 | 2026-06-25 | Livre 1, chapitre 6 | Conclusion du Livre 1 par une discipline du vertige et une transition vers la cartographie. |
 | 2026-06-25 | Livre 1 complet | Mini-relecture de coherence; retrait de formulations trop orientees navigation, passage et mecanismes avances. |
 | 2026-06-26 | Livre 2, chapitre 1 | Ouverture de la cartographie des realites: distinguer les familles de branches sans transformer la carte en promesse d'acces. |
+| 2026-06-26 | Livre 2, chapitre 2 | Revision des branches proches comme variations discretes, accessibles a la pensee sans devenir des promesses de controle. |
 
 ---
 
@@ -902,3 +903,165 @@ La methode commence lorsque nous acceptons que l'immense aussi demande des disti
 - Les axes principaux introduits sont: proximite, stabilite, habitabilite et relation avec la branche locale.
 - La prudence speculative est renforcee: reve, intuition, deja-vu et experience forte restent des objets d'observation, pas des preuves.
 - Les notions avancees de Harmons, Agents, Navigation, Seuils techniques, protocoles de passage et Continuite Identitaire restent reservees.
+
+## Chapitre 2 - Les branches proches
+
+Les branches proches sont les moins spectaculaires.
+
+C'est peut-etre pour cela qu'elles sont les plus importantes a comprendre.
+
+Lorsque l'on entend le mot multivers, l'imagination se tourne souvent vers des mondes impossibles: des lois physiques differentes, des histoires radicalement autres, des versions de la Terre presque mythologiques, des existences qui ne ressemblent plus a la notre. Ces images ont leur puissance. Elles ouvrent le vertige.
+
+Mais la cartographie commence rarement par le vertige le plus lointain.
+
+Elle commence par ce qui est presque ici.
+
+Une branche proche est une realite qui differe faiblement de notre branche locale. Elle ne demande pas que tout soit autre. Elle ne renverse pas forcement le corps, la langue, la ville, l'histoire, les relations ou les lois du monde. Elle modifie parfois un detail: une phrase dite autrement, un message envoye plus tot, un silence garde quelques secondes de moins, une page ecrite au lieu d'etre repoussee, une porte franchie au lieu d'etre evitee.
+
+La branche proche est le territoire du presque.
+
+Presque la meme journee.
+
+Presque la meme vie.
+
+Presque le meme soi.
+
+Mais le presque n'est pas insignifiant.
+
+Dans une architecture de branches, les grandes differences peuvent commencer par des ecarts minuscules. Une decision qui semble petite dans l'instant peut devenir, avec le temps, le debut d'une autre trajectoire. Une habitude modifiee d'un degre peut changer la direction d'une annee. Une phrase honnete peut deplacer la forme d'une relation. Un premier geste peut ouvrir une suite qui n'etait jusque-la qu'une possibilite abstraite.
+
+Les branches proches n'impressionnent donc pas par leur distance.
+
+Elles impressionnent par leur disponibilite.
+
+Elles forment la premiere couronne autour de la branche locale. Elles sont les realites que l'on peut penser sans rompre toute continuite. Elles restent assez proches pour que le corps puisse les imaginer, que la memoire puisse les raccorder, que le monde partage puisse encore les contenir.
+
+Cette proximite ne doit pas etre confondue avec une facilite magique.
+
+Une branche proche n'est pas une realite offerte. Elle n'est pas une garantie. Elle n'est pas une preuve que le desir suffit. Elle signifie seulement que l'ecart entre la branche actuelle et la branche envisagee reste faible. Elle appartient au voisinage du possible habitable.
+
+C'est pourquoi elle est utile pour la cartographie.
+
+Elle permet d'apprendre a distinguer ce qui est lointain de ce qui est simplement adjacent. Une existence totalement transformee peut fasciner, mais elle reste souvent trop vaste pour etre pensee clairement. Une branche proche, elle, se laisse examiner. Elle demande: quel detail changerait? Quelle consequence suivrait? Quelle continuite serait preservee? Quelle partie de la vie locale resterait reconnaissable?
+
+Prenons un exemple simple.
+
+Une personne imagine devenir ecrivain reconnu. Cette image peut etre importante, mais elle est lointaine. Elle contient des annees, des lecteurs, des publications, des rencontres, des hasards, des competences, des refus, des reprises. Elle ne peut pas etre habitee d'un seul coup.
+
+Une branche proche serait plus modeste: une page ecrite aujourd'hui. Un paragraphe repris. Une note classee. Une heure protegee. Ce n'est pas encore la branche finale. Ce n'est pas une promesse. Mais c'est une variation locale qui possede une continuite avec la trajectoire souhaitee.
+
+La branche proche n'est pas petite.
+
+Elle est proche.
+
+Cette distinction compte. Ce qui commence discretement peut contenir une pente immense. Dire une phrase vraie n'est pas transformer une vie entiere, mais cela peut ouvrir une qualite nouvelle de relation. Marcher dix minutes n'est pas changer tout un corps, mais cela peut deplacer la relation a l'effort. Refuser une habitude n'est pas devenir libre, mais cela peut introduire une difference dans la structure quotidienne.
+
+La cartographie des branches proches apprend donc a respecter les variations modestes.
+
+Elle demande de regarder les bords de la vie actuelle.
+
+Qu'est-ce qui est presque possible?
+
+Qu'est-ce qui ne demanderait pas une autre existence, mais seulement un premier deplacement?
+
+Qu'est-ce qui pourrait commencer sans nier la branche locale?
+
+Ces questions restent simples. Elles ne sont pas des techniques de passage. Elles sont des questions de lecture. Elles aident a reconnaitre les realites voisines sans leur donner un statut absolu.
+
+Il existe plusieurs signes possibles d'une branche proche.
+
+Le premier est l'intuition simple.
+
+Non pas la revelation spectaculaire. Plutot une impression calme: je pourrais faire cela maintenant. Une branche proche se presente parfois comme une possibilite sans theatre. Elle se tient juste a cote de l'habitude. Elle ne demande pas que toute la vie change avant le premier geste. Elle ressemble a une porte basse, presque ordinaire.
+
+Appeler.
+
+Ecrire.
+
+Ranger.
+
+S'excuser.
+
+Commencer.
+
+Refuser.
+
+Ces verbes ne paraissent pas cosmiques. Pourtant, dans une theorie des branches, ils sont importants parce qu'ils modifient la trajectoire locale. Ils ne prouvent rien sur le multivers. Ils indiquent seulement que le possible peut parfois commencer par une action tres simple.
+
+Le deuxieme signe est la familiarite.
+
+Certaines possibilites ne se presentent pas comme des projets nouveaux, mais comme des routes deja pressenties. Une personne peut sentir qu'elle connait presque une conversation qu'elle n'a pas encore eue. Elle peut imaginer une decision avec une precision etrange. Elle peut ressentir la texture d'une vie alternative non comme un fantasme brillant, mais comme une proximite discrete.
+
+Cette familiarite ne prouve rien a elle seule.
+
+Elle peut venir de la memoire, du desir, de l'inconscient, de l'habitude ou de l'association. Mais elle merite parfois d'etre notee, surtout lorsqu'elle revient, lorsqu'elle gagne en coherence et lorsqu'elle ne detruit pas l'ancrage local.
+
+Le troisieme signe est la faible resistance.
+
+Une branche proche se reconnait parfois a sa praticabilite. Si une action peut etre faite sans effondrer toute la structure de la vie actuelle, si elle ne demande pas une identite impossible a soutenir, si elle ne contredit pas immediatement le corps, la memoire et les responsabilites locales, alors elle appartient peut-etre au champ proche.
+
+Cette idee protege d'une confusion frequente.
+
+Ce qui attire n'est pas toujours proche.
+
+Ce qui est proche n'est pas toujours spectaculaire.
+
+Un desir peut viser une branche tres lointaine. Une petite action peut appartenir a une branche beaucoup plus accessible. La cartographie ne juge pas la grandeur d'un desir. Elle regarde la distance, la continuite et l'habitabilite.
+
+Le quatrieme signe est la familiarite corporelle.
+
+Une branche proche peut souvent etre imaginee par le corps. La main sait presque ce qu'elle ferait. La voix peut presque prononcer la phrase. Les jambes peuvent presque prendre la route. Le souffle peut se representer la scene sans panique excessive. Le corps ne confirme pas la verite d'une branche, mais il indique parfois qu'une variation est soutenable.
+
+Le corps est un cartographe discret.
+
+Il ne pense pas en abstractions. Il pense en gestes, en rythmes, en tensions, en fatigue, en elans et en refus. C'est pourquoi une possibilite tres brillante peut rester lointaine si le corps ne peut pas l'habiter, tandis qu'une possibilite plus modeste peut devenir plus importante parce qu'elle trouve deja une forme praticable.
+
+Il faut pourtant garder la prudence au centre.
+
+Proximite ne signifie pas certitude.
+
+Une intuition simple peut etre mal interpretee. Une familiarite peut etre une recomposition interieure. Un deja-vu peut recevoir une explication ordinaire. Une action accessible peut ne pas ouvrir la suite imaginee. Le role de la cartographie n'est pas de transformer chaque signe en confirmation. Il est de mieux observer ce qui apparait, ce qui revient, ce qui tient et ce qui produit davantage de coherence.
+
+Une branche proche n'est donc pas une promesse.
+
+C'est une hypothese de voisinage.
+
+Elle dit: ceci pourrait appartenir au champ proche du possible.
+
+Elle ne dit pas: ceci doit arriver.
+
+Cette distinction empeche la pensee de devenir autoritaire. Elle permet de respecter les possibles sans leur obeir aveuglement. Elle permet aussi de revenir a la branche locale, qui reste le lieu ou toute variation doit etre eprouvee.
+
+Car une branche proche devient vraiment pertinente lorsqu'elle peut etre testee par un geste local.
+
+Si elle appelle l'ecriture, la question n'est pas encore la gloire: c'est la page.
+
+Si elle appelle une relation differente, la question n'est pas encore la transformation totale: c'est peut-etre une phrase plus juste.
+
+Si elle appelle une autre discipline, la question n'est pas encore la nouvelle identite: c'est le premier acte repetable.
+
+La branche proche ramene l'infini au seuil.
+
+Elle ne diminue pas le multivers. Elle le rend pensable depuis une vie concrete. Elle rappelle que le reel total, s'il est vaste, doit tout de meme entrer en relation avec une conscience situee, un corps situe, une journee situee.
+
+La plupart des grandes idees echouent parce qu'elles meprisent cette echelle.
+
+Elles veulent le monde transforme.
+
+Elles oublient la variation minuscule.
+
+Or la variation minuscule est peut-etre l'une des formes les plus profondes de la branche proche. Elle ne fait pas de bruit. Elle ne promet pas un miracle. Elle ne demande pas de se prendre pour un maitre du reel. Elle demande seulement de voir que l'architecture du possible commence parfois a un millimetre de l'habitude.
+
+Cartographier les branches proches, c'est donc apprendre a respecter les ecarts faibles.
+
+Non parce qu'ils garantissent tout.
+
+Mais parce qu'ils montrent ou le possible touche deja la branche locale.
+
+## Notes De Revision - Livre 2, Chapitre 2
+
+- Le chapitre definit les branches proches comme premiere couronne du possible autour de la branche locale.
+- La revision retire les formulations trop techniques autour des Harmons, des branches-ponts et de la navigation.
+- Les signes retenus restent prudents: intuition simple, familiarite, faible resistance et familiarite corporelle.
+- La branche proche est presentee comme hypothese de voisinage, non comme promesse ou preuve.
+- Le chapitre maintient l'ancrage local: une branche proche devient pertinente lorsqu'elle peut etre observee ou testee par un geste concret.
