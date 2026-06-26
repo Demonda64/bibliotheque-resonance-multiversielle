@@ -30,7 +30,7 @@ Publication: branche `gh-pages`, dossier `/ (root)`.
 | Element | Statut | Notes |
 | --- | --- | --- |
 | 01 Concept | Fait | Concept initial pose et bibliotheque definie |
-| 02 Story Bible | En cours | Canon theorique enrichi: 47 principes, metriques, convergence progressive, fractures du soi |
+| 02 Story Bible | En cours | Canon theorique enrichi: 49 principes, metriques, convergence progressive, fractures du soi |
 | 03 Outline | En cours | Architecture des 10 fondations creee; Fondation 1 planifiee |
 | 04 Draft 01 | Fait | Fondation 1 complete en premiere passe |
 | 05 Developmental Revision | En cours | Canon officiel, glossaires, plan publication et articles ranges |

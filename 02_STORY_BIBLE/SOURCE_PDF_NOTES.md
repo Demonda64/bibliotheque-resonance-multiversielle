@@ -51,13 +51,13 @@ Extraction conservee dans:
 
 Documents de reference crees:
 
-- `02_STORY_BIBLE/CANON_OFFICIEL_47_PRINCIPES.md`
+- `02_STORY_BIBLE/CANON_OFFICIEL_49_PRINCIPES.md`
 - `02_STORY_BIBLE/GLOSSAIRE_OFFICIEL.md`
 
 Decision: le canon officiel issu du PDF compte 40 principes. Les anciennes notes restent utiles comme historique editorial, mais la table canonique devient la reference de coherence pour les articles publics, les prochaines fondations et la revision finale de Fondation 1.
 
 ## Mise A Jour - Principe Emergent XLI du 25/06/2026
-Ajout du Principe de Continuite Identitaire dans `02_STORY_BIBLE/CANON_OFFICIEL_47_PRINCIPES.md`.
+Ajout du Principe de Continuite Identitaire dans `02_STORY_BIBLE/CANON_OFFICIEL_49_PRINCIPES.md`.
 
 Decision: le canon de travail compte desormais 41 principes. Le principe XLI est classe comme principe emergent, derive de la Convergence, de la Divergence, de l'Attracteur Identitaire, de la Proximite Narrative et de la Persistance du Noyau.
 
@@ -106,3 +106,41 @@ Garde-fous ajoutes:
 - les perceptions non ordinaires ne sont pas automatiquement fiables;
 - l'enfance, le reve, la contemplation, la creation, la crise ou l'emerveillement peuvent ouvrir des fenetres perceptives sans donner acces a une verite absolue;
 - les metaphores de lumiere, pierre, ombre et transmutation restent symboliques.
+
+## Mise A Jour - Canon Officiel Version 1.3 du 26/06/2026
+Source ajoutee: note de positionnement sur la relativite transmise dans Codex le 26/06/2026.
+
+Decision: le canon de travail passe a 48 principes. La Version 1.3 ajoute:
+
+- XLVIII. Principe de Localite Relativiste
+
+Document detaille actif:
+
+- `02_STORY_BIBLE/CANON_OFFICIEL_49_FICHES_COMPLETES.md`
+
+Position canonique:
+
+- la BRM ne remplace pas la relativite;
+- la relativite decrit correctement la geometrie interne d'une branche;
+- la BRM decrit un niveau d'organisation superieur entre branches;
+- la vitesse de la lumiere reste une limite locale;
+- la convergence est un changement d'alignement, pas un deplacement superluminal;
+- les trous noirs ne sont pas canonises comme passages entre branches.
+
+## Mise A Jour - Canon Officiel Version 1.4 du 26/06/2026
+Source ajoutee: note sur la memoire, la convergence imparfaite et la distinction entre memoire locale et memoire du Noyau, transmise dans Codex le 26/06/2026.
+
+Decision: le canon de travail passe a 49 principes. La Version 1.4 ajoute:
+
+- XLIX. Principe de Stratification de la Memoire
+
+Document detaille actif:
+
+- `02_STORY_BIBLE/CANON_OFFICIEL_49_FICHES_COMPLETES.md`
+
+Garde-fous ajoutes:
+
+- les souvenirs incoherents ne sont pas des preuves automatiques d'une autre branche;
+- l'effet Mandela n'est pas canonise comme demonstration;
+- la memoire du Noyau ne remplace pas la memoire locale, biologique ou psychologique;
+- la stratification de la memoire est une hypothese de coherence interne, pas une promesse de recuperation des souvenirs d'autres branches.

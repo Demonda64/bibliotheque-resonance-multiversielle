@@ -103,8 +103,17 @@ Processus consistant a vivre progressivement l'identite associee a une branche c
 ### Inertie de branche
 Resistance naturelle d'une branche au changement.
 
+### Localite relativiste
+Principe selon lequel les lois de la relativite s'appliquent integralement a l'interieur d'une branche, tandis que la BRM decrit les relations entre branches a un niveau d'organisation superieur.
+
 ### Memoire residuelle
 Trace mentale provenant potentiellement d'une branche voisine.
+
+### Memoire de branche
+Memoire locale coherente avec l'histoire, les evenements et les preuves disponibles dans une branche donnee.
+
+### Memoire du Noyau
+Couche profonde de memoire liee a la continuite identitaire, susceptible de conserver certaines traces residuelles sans remplacer la memoire locale.
 
 ### Navigateur
 Conscience ayant appris a explorer volontairement le reseau.
@@ -159,6 +168,9 @@ Moment ou une conscience cesse de subir les resonances et commence a les compren
 
 ### Symetrie
 Principe selon lequel toute connexion est potentiellement reciproque.
+
+### Stratification de la Memoire
+Organisation de la memoire en plusieurs couches: memoire locale de branche, traces residuelles et memoire profonde du Noyau.
 
 ### Temporalite locale
 Temps propre a une branche donnee.

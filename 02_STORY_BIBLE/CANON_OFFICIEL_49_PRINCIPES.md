@@ -1,4 +1,4 @@
-# Canon Officiel de la Theorie de la Resonance Multiversielle - Version 1.2
+# Canon Officiel de la Theorie de la Resonance Multiversielle - Version 1.4
 
 ## Statut
 Document de reference issu du PDF `Canon Officiel de la Theorie de la Resonance Multiversielle`, transmis le 24/06/2026.
@@ -11,10 +11,14 @@ Mise a jour du 26/06/2026: passage au Canon Officiel Version 1.1. Ajout des prin
 
 Mise a jour du 26/06/2026: passage au Canon Officiel Version 1.2. Ajout des principes XLVI et XLVII: Cristallisation Cognitive et Fenetres de Perception, a partir d'intuitions philosophiques reformulees dans le langage propre de la BRM.
 
+Mise a jour du 26/06/2026: passage au Canon Officiel Version 1.3. Ajout du Principe XLVIII: Localite Relativiste, afin de clarifier que la BRM englobe la relativite comme theorie locale de branche sans la remplacer.
+
+Mise a jour du 26/06/2026: passage au Canon Officiel Version 1.4. Ajout du Principe XLIX: Stratification de la Memoire, afin de distinguer memoire locale, memoire du Noyau et traces residuelles lors des convergences exceptionnelles.
+
 ## Prudence Editoriale
 La Resonance Multiversielle doit rester presentee comme une cosmologie philosophique et speculative. Les principes ci-dessous constituent le langage interne du modele. Ils ne doivent pas etre presentes comme des lois scientifiques demontrees.
 
-## Les 47 Principes
+## Les 49 Principes
 
 1. **Le Champ Fondamental**  
    Structure profonde dont emergent les realites, les consciences, les temporalites et les branches.
@@ -157,7 +161,13 @@ La Resonance Multiversielle doit rester presentee comme une cosmologie philosoph
 47. **Le Principe des Fenetres de Perception**  
     Certains etats diminuent temporairement les filtres de la realite locale, rendant les resonances faibles du Reseau Vivant plus perceptibles.
 
-## Fiches Canoniques - Mises A Jour Versions 1.1 Et 1.2
+48. **Le Principe de Localite Relativiste**  
+    Les lois de la relativite s'appliquent integralement a l'interieur de chaque branche. La BRM ne les annule pas; elle decrit un niveau d'organisation entre les branches.
+
+49. **Le Principe de Stratification de la Memoire**  
+    La memoire n'est pas un bloc unique: la memoire locale appartient a la branche experimentee, tandis que le Noyau Identitaire peut conserver certaines traces residuelles de convergences anterieures.
+
+## Fiches Canoniques - Mises A Jour Versions 1.1 A 1.4
 
 ### XLI. Le Principe de Continuite Identitaire
 
@@ -595,6 +605,163 @@ La perception n'est pas un bloc fixe. Elle se ferme, s'ouvre, se fatigue, se cla
 
 Les Fenetres de Perception invitent a respecter les moments d'ouverture sans les idolatrer. Elles donnent une place a l'emerveillement, au silence et a la creation, tout en maintenant la prudence centrale de la BRM: percevoir autrement ne signifie pas percevoir infailliblement.
 
+### XLVIII. Le Principe de Localite Relativiste
+
+#### Statut
+Principe structurel.
+
+#### Fondations concernees
+- Fondation I : Le Multivers Infini
+- Fondation III : La Resonance
+- Fondation V : Les Temporalites Fragmentees
+- Fondation X : L'Ocean des Possibles
+
+#### Definition
+Les lois decrites par la relativite generale et la relativite restreinte s'appliquent integralement a l'interieur de chaque branche de realite.
+
+La Resonance Multiversielle n'annule pas ces lois. Elle decrit uniquement un niveau d'organisation superieur: les relations, distances, compatibilites et convergences entre plusieurs branches.
+
+La relativite decrit la geometrie interne d'une branche.
+
+La BRM cherche a decrire l'organisation du Reseau Vivant qui contient plusieurs branches.
+
+#### Pourquoi ce principe a ete introduit
+La BRM devait clarifier sa relation avec les theories physiques deja valides dans leur domaine. Une cosmologie speculative solide ne doit pas remplacer arbitrairement les modeles qui fonctionnent deja.
+
+Le Principe de Localite Relativiste affirme donc que la relativite reste pleinement valable dans la branche ou elle s'applique.
+
+#### Probleme resolu
+Ce principe evite une confusion majeure: croire que la convergence multiversielle impliquerait un deplacement plus rapide que la lumiere, une violation des effets relativistes ou une remise en cause directe de la geometrie espace-temps locale.
+
+Il precise que la BRM parle d'alignement entre branches, non de deplacement physique a l'interieur d'une branche.
+
+#### Consequences cosmologiques
+Chaque branche possede son espace, son temps, sa matiere, ses observateurs et ses contraintes physiques internes.
+
+La vitesse de la lumiere demeure une limite locale dans une branche relativiste.
+
+Les effets relativistes, la gravitation, la dilatation temporelle, les trous noirs et les ondes gravitationnelles restent decrits par la relativite dans leur domaine.
+
+La BRM intervient a un autre niveau: elle interroge comment plusieurs branches, chacune avec sa geometrie interne, peuvent appartenir au meme Reseau Vivant.
+
+#### Limites
+Ce principe n'affirme pas:
+
+- que la BRM remplace la relativite;
+- que l'on voyage plus vite que la lumiere;
+- que la convergence est un deplacement physique;
+- que les trous noirs sont necessairement des passages entre branches;
+- que la BRM dispose d'une preuve physique de la structure du Reseau Vivant.
+
+Il affirme seulement que la relativite est une theorie locale de branche, tandis que la BRM propose une cosmologie speculative de l'organisation des branches.
+
+#### Concepts lies
+- Champ Fondamental
+- Reseau Vivant
+- Temps local
+- Temporalite locale
+- Divergence
+- Convergence
+- Actualisation
+- Cartographie
+
+#### Exemple
+Dans une branche A, la relativite decrit la gravitation, la vitesse limite de la lumiere et la dilatation temporelle. Dans une branche B proche, les memes lois peuvent s'appliquer avec une histoire differente. Dans une branche C plus divergente, l'espace-temps pourrait posseder une structure differente.
+
+La BRM ne modifie pas la physique interne de A. Elle demande comment A, B et C peuvent appartenir a une meme architecture de realites.
+
+#### Implications philosophiques
+La BRM ne se place pas contre Einstein. Elle place la relativite a son niveau de validite: l'interieur d'une branche.
+
+La question change alors de plan. Il ne s'agit plus seulement de savoir comment fonctionne un livre particulier, mais comment une bibliotheque de livres coherents peut exister, s'organiser et etre experimentee par des consciences locales.
+
+### XLIX. Le Principe de Stratification de la Memoire
+
+#### Statut
+Principe emergent.
+
+#### Fondations concernees
+- Fondation II : Le Noyau
+- Fondation V : Les Temporalites Fragmentees
+- Fondation IX : Les Reseaux Identitaires
+- Fondation X : L'Ocean des Possibles
+
+#### Definition
+La memoire n'est pas un bloc unique.
+
+Elle est organisee en plusieurs niveaux. La memoire locale appartient a la branche experimentee et demeure coherente avec les evenements de cette branche. La memoire du Noyau, plus profonde, peut conserver des traces residuelles de convergences anterieures ou de continuite identitaire entre branches compatibles.
+
+Lorsqu'une convergence exceptionnelle se produit, ces couches peuvent ne pas etre parfaitement synchronisees. Il peut alors apparaitre un sentiment d'etrangete, un deja-vu persistant, une certitude difficile a prouver ou un souvenir mal conciliable avec la realite locale.
+
+#### Pourquoi ce principe a ete introduit
+Le Principe de Memoire Residuelle expliquait deja certaines traces provenant de branches voisines.
+
+Le Principe de Continuite Identitaire posait la possibilite conditionnelle d'une continuite du Noyau a travers une variante voisine.
+
+Le Principe de Pre-Resonance nommait les signaux faibles precedant certaines convergences possibles.
+
+Il restait une question: si une continuite identitaire traverse plusieurs branches, quel est le statut de la memoire?
+
+Le Principe de Stratification de la Memoire repond a cette question sans affirmer un transfert integral des souvenirs ni un effacement total de l'histoire profonde.
+
+#### Probleme resolu
+Ce principe evite deux extremes:
+
+- croire que toute convergence transfere toute la memoire autobiographique, ce qui produirait des contradictions massives;
+- croire que toute memoire est entierement effacee, ce qui rendrait le Noyau presque indifferent a son histoire.
+
+Il permet de distinguer la memoire coherente de la branche, les traces profondes du Noyau et les residus eventuels issus d'une convergence imparfaite.
+
+#### Consequences cosmologiques
+La memoire devient une structure a couches.
+
+Une conscience locale habite principalement la memoire de sa branche. Pourtant, dans certains cas limites, des traces plus profondes peuvent remonter sans s'accorder parfaitement avec les faits locaux.
+
+La plupart du temps, la synchronisation memoire-branche reste complete et rien ne semble anormal.
+
+Dans des cas exceptionnels, une dissonance peut apparaitre: impression que quelque chose a change, souvenir sans preuve locale, sentiment d'avoir vecu une version legerement differente du monde.
+
+#### Limites
+Ce principe n'affirme pas:
+
+- que tous les deja-vu proviennent d'autres branches;
+- que l'effet Mandela prouve la BRM;
+- que les souvenirs incoherents sont automatiquement vrais;
+- qu'une convergence exceptionnelle transfere toute la memoire;
+- que la memoire du Noyau remplace la memoire biologique, psychologique ou locale.
+
+Il affirme seulement que, dans la logique interne de la BRM, la memoire doit etre pensee comme stratifiee si la continuite identitaire entre branches est possible.
+
+#### Concepts lies
+- Memoire Residuelle
+- Continuite Identitaire
+- Pre-Resonance
+- Noyau Identitaire
+- Proximite Narrative
+- Persistance du Noyau
+- Divergence
+- Convergence
+
+#### Exemple
+Dans une branche A, une personne a grandi avec un chien.
+
+Dans une branche B tres proche, elle n'a jamais eu ce chien.
+
+Si une convergence exceptionnelle vers B se produit, trois cas peuvent etre envisages: le souvenir disparait avec la reorganisation locale; il devient flou et residuel; ou il persiste avec assez de force pour produire une impression d'incoherence avec la branche habitee.
+
+La BRM ne transforme pas ce souvenir en preuve. Elle le classe comme possible dissonance entre couches de memoire.
+
+#### Implications philosophiques
+Ce principe separe le Noyau Identitaire de la memoire autobiographique locale.
+
+Ce qui continue n'est pas necessairement l'ensemble des souvenirs. Ce qui continue est une structure d'identite plus profonde, capable de porter certaines traces sans imposer a chaque branche une memoire totale.
+
+La question n'est donc plus seulement: "De quoi est-ce que je me souviens?"
+
+Elle devient:
+
+"Quelle couche de moi se souvient?"
+
 ## Contradictions Potentielles Et Ajustements
 
 1. **Risque d'immortalite automatique**  
@@ -620,6 +787,12 @@ Les Fenetres de Perception invitent a respecter les moments d'ouverture sans les
 
 8. **Risque de fiabilite automatique des perceptions non ordinaires**  
    Les Fenetres de Perception augmentent une sensibilite possible, mais ne garantissent ni verite absolue, ni interpretation correcte.
+
+9. **Risque d'anti-relativite**  
+   Le Principe de Localite Relativiste interdit de presenter la BRM comme une refutation de la relativite. La BRM respecte les lois internes d'une branche et ne decrit pas une vitesse superluminale.
+
+10. **Risque de souvenir-preuve**  
+   Le Principe de Stratification de la Memoire interdit de presenter un souvenir incoherent, un deja-vu ou un effet Mandela comme preuve automatique d'une autre branche. Il ne formule qu'une hypothese interne sur les couches de la memoire.
 
 ## Definition Canonique Courte
 La Theorie de la Resonance Multiversielle affirme que l'ensemble des realites possibles emerge d'un Champ Fondamental multidimensionnel. Chaque individu existe sous une infinite de variantes partageant un meme Noyau Identitaire. Ces variantes sont reliees par un reseau de resonances dont l'intensite depend notamment de la proximite identitaire, de la divergence des branches et de l'attention portee par la conscience.

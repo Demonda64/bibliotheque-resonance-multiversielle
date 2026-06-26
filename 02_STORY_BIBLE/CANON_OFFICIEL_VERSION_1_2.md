@@ -5,9 +5,9 @@ Document d'entree pour la Version 1.2 du Canon Officiel BRM.
 
 Le texte canonique complet est maintenu dans:
 
-`02_STORY_BIBLE/CANON_OFFICIEL_47_PRINCIPES.md`
+`02_STORY_BIBLE/CANON_OFFICIEL_49_PRINCIPES.md`
 
-Ce document contient les 47 principes officiels de la Version 1.2.
+La Version 1.2 est conservee comme jalon historique. Le canon actif est desormais la Version 1.4.
 
 ## Portee De La Version 1.2
 La Version 1.2 integre les principes I a XLVII.
