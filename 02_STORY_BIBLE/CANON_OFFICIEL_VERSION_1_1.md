@@ -5,9 +5,9 @@ Document d'entree pour la Version 1.1 du Canon Officiel BRM.
 
 Le texte canonique complet est maintenu dans:
 
-`02_STORY_BIBLE/CANON_OFFICIEL_45_PRINCIPES.md`
+`02_STORY_BIBLE/CANON_OFFICIEL_47_PRINCIPES.md`
 
-Ce document contient les 45 principes officiels de la Version 1.1.
+La Version 1.1 est conservee comme jalon historique. Le canon actif est desormais la Version 1.2.
 
 ## Portee De La Version 1.1
 La Version 1.1 integre les principes I a XLV.

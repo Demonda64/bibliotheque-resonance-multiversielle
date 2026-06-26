@@ -61,6 +61,9 @@ Deplacement progressif de l'alignement d'une conscience vers une branche.
 ### Convergence progressive
 Methode consistant a rejoindre une branche eloignee par etapes successives.
 
+### Cristallisation cognitive
+Processus par lequel une representation repetee du monde augmente l'Inertie de Branche et stabilise la convergence vers certaines realites compatibles.
+
 ### Destin
 Ensemble des attracteurs identitaires les plus compatibles avec le Noyau.
 
@@ -78,6 +81,9 @@ Ensemble des variantes partageant un meme Noyau Identitaire.
 
 ### Fenetre de sensibilite
 Periode temporaire ou l'Inertie de Branche diminue, rendant certaines convergences plus accessibles qu'a d'autres moments de l'existence.
+
+### Fenetre de perception
+Etat temporaire dans lequel les filtres de la realite locale diminuent, permettant une sensibilite accrue aux resonances faibles du Reseau Vivant.
 
 ### Fondations
 Les dix grands cycles qui composent l'architecture de la cosmologie.

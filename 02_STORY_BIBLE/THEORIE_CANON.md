@@ -141,10 +141,10 @@ Les notions de permeabilite identitaire, saturation de resonance, fractures du s
 33. Permeabilite identitaire: dans certains cas limites, plusieurs configurations du meme noyau peuvent devenir simultanement plus accessibles.
 34. Saturation de resonance: une ouverture excessive vers des branches proches peut fragiliser la stabilite de l'expression identitaire locale.
 
-## Canon Officiel Version 1.1 - 45 Principes
-Reference detaillee: `CANON_OFFICIEL_45_PRINCIPES.md`.
+## Canon Officiel Version 1.2 - 47 Principes
+Reference detaillee: `CANON_OFFICIEL_47_PRINCIPES.md`.
 
-Le PDF `Canon Officiel de la Theorie de la Resonance Multiversielle`, transmis le 24/06/2026, fixe une table canonique de 40 principes. Le 25/06/2026, le Principe de Continuite Identitaire est ajoute comme principe emergent XLI. Le 26/06/2026, le canon passe en Version 1.1 avec les principes XLII a XLV.
+Le PDF `Canon Officiel de la Theorie de la Resonance Multiversielle`, transmis le 24/06/2026, fixe une table canonique de 40 principes. Le 25/06/2026, le Principe de Continuite Identitaire est ajoute comme principe emergent XLI. Le 26/06/2026, le canon passe en Version 1.1 avec les principes XLII a XLV, puis en Version 1.2 avec les principes XLVI et XLVII.
 
 Cette table devient la reference de coherence superieure pour la suite du projet.
 
@@ -163,5 +163,7 @@ Les ajouts ou renforcements majeurs par rapport a la version de travail preceden
 - Reconfiguration Nocturne comme recalibrage possible de l'alignement pendant le sommeil profond.
 - Actualisation comme protection canonique contre l'idee que la pensee creerait les branches.
 - Fenetre de Sensibilite comme periode de moindre inertie ou une variation interieure peut produire une convergence accrue.
+- Cristallisation Cognitive comme principe de rigidification des representations repetees du reel.
+- Fenetres de Perception comme ouvertures temporaires aux resonances faibles, sans garantie de verite absolue.
 
 Principe editorial: ces notions doivent etre introduites progressivement. Fondation 1 peut poser le territoire general; les principes techniques, identitaires et pratiques seront deployes dans les fondations suivantes.

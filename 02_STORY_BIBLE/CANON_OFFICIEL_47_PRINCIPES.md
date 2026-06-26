@@ -1,4 +1,4 @@
-# Canon Officiel de la Theorie de la Resonance Multiversielle - Version 1.1
+# Canon Officiel de la Theorie de la Resonance Multiversielle - Version 1.2
 
 ## Statut
 Document de reference issu du PDF `Canon Officiel de la Theorie de la Resonance Multiversielle`, transmis le 24/06/2026.
@@ -9,10 +9,12 @@ Mise a jour du 25/06/2026: ajout du Principe XLI comme principe emergent derive 
 
 Mise a jour du 26/06/2026: passage au Canon Officiel Version 1.1. Ajout des principes XLII a XLV: Pre-Resonance, Reconfiguration Nocturne, Actualisation et Fenetre de Sensibilite.
 
+Mise a jour du 26/06/2026: passage au Canon Officiel Version 1.2. Ajout des principes XLVI et XLVII: Cristallisation Cognitive et Fenetres de Perception, a partir d'intuitions philosophiques reformulees dans le langage propre de la BRM.
+
 ## Prudence Editoriale
 La Resonance Multiversielle doit rester presentee comme une cosmologie philosophique et speculative. Les principes ci-dessous constituent le langage interne du modele. Ils ne doivent pas etre presentes comme des lois scientifiques demontrees.
 
-## Les 45 Principes
+## Les 47 Principes
 
 1. **Le Champ Fondamental**  
    Structure profonde dont emergent les realites, les consciences, les temporalites et les branches.
@@ -149,7 +151,13 @@ La Resonance Multiversielle doit rester presentee comme une cosmologie philosoph
 45. **Le Principe de Fenetre de Sensibilite**  
     Certaines periodes d'une existence reduisent temporairement l'Inertie de Branche, rendant une faible variation interieure plus influente sur la convergence.
 
-## Fiches Canoniques - Mise A Jour Version 1.1
+46. **Le Principe de Cristallisation Cognitive**  
+    Plus une representation du monde est repetee, plus elle augmente l'Inertie de Branche et oriente la convergence vers les branches compatibles avec cette representation.
+
+47. **Le Principe des Fenetres de Perception**  
+    Certains etats diminuent temporairement les filtres de la realite locale, rendant les resonances faibles du Reseau Vivant plus perceptibles.
+
+## Fiches Canoniques - Mises A Jour Versions 1.1 Et 1.2
 
 ### XLI. Le Principe de Continuite Identitaire
 
@@ -460,6 +468,133 @@ Le changement n'est pas seulement une question de volonte. Il depend aussi du mo
 
 La sagesse consiste alors a reconnaitre les periodes ou le reel devient plus sensible sans les confondre avec des garanties.
 
+### XLVI. Le Principe de Cristallisation Cognitive
+
+#### Statut
+Principe structurel.
+
+#### Fondations concernees
+- Fondation III : La Resonance
+- Fondation IV : La Perception Invisible
+- Fondation VII : Les Gardiens du Reel
+- Fondation IX : Les Reseaux Identitaires
+
+#### Definition
+Plus une representation du monde est repetee au cours de la vie, plus elle augmente l'Inertie de Branche.
+
+La conscience tend alors a converger automatiquement vers les variantes compatibles avec cette representation deja cristallisee.
+
+L'education, les habitudes, les croyances collectives, les traumatismes, les routines et les recits personnels peuvent participer a cette cristallisation.
+
+#### Pourquoi ce principe a ete introduit
+La BRM expliquait deja que l'attention, l'emotion, la repetition et l'incarnation orientent la convergence. Il manquait toutefois un principe de rigidification: pourquoi certaines representations du reel deviennent-elles si lourdes qu'elles semblent fermer la perception?
+
+Le Principe de Cristallisation Cognitive nomme cette stabilisation progressive des cadres mentaux et narratifs.
+
+#### Probleme resolu
+Il explique pourquoi certaines personnes semblent de plus en plus enfermees dans une perception rigide du monde, meme lorsque d'autres branches ou interpretations demeurent possibles.
+
+Il clarifie aussi pourquoi une croyance ancienne, une peur repetee ou un recit familial peut devenir un filtre puissant de convergence sans creer la realite elle-meme.
+
+#### Consequences cosmologiques
+La perception locale n'est pas seulement une reception neutre. Elle devient une structure d'orientation.
+
+Une representation repetee ne fabrique pas de branche. Elle augmente la probabilite que la conscience converge vers des branches deja existantes qui confirment cette representation.
+
+La cristallisation cognitive renforce donc l'Inertie de Branche et reduit la disponibilite perceptive aux realites voisines incompatibles avec le cadre dominant.
+
+#### Limites
+Ce principe n'affirme pas:
+
+- que les croyances creent la realite;
+- que toute situation vecue serait choisie par la conscience;
+- qu'un traumatisme serait une faute de perception;
+- que les cadres culturels sont faux par nature;
+- qu'il suffit de changer d'idee pour changer de branche.
+
+Il affirme seulement que des representations repetees peuvent stabiliser certains chemins de convergence vers des branches compatibles.
+
+#### Concepts lies
+- Resonance
+- Convergence
+- Inertie de Branche
+- Proximite Narrative
+- Actualisation
+- Fenetre de Sensibilite
+- Reseau Vivant
+
+#### Exemple
+Une personne grandit dans un environnement ou l'on repete que toute tentative ambitieuse echoue. Cette croyance ne cree pas les echecs. Mais elle peut orienter l'attention, les gestes, les anticipations et les relations vers des branches ou l'echec parait plus probable, plus familier et plus coherent avec le recit interieur.
+
+#### Implications philosophiques
+La liberte ne consiste pas seulement a vouloir autre chose. Elle consiste aussi a reconnaitre les formes du monde que l'on a apprises a repeter.
+
+La cristallisation cognitive montre que certaines prisons sont faites de perceptions stabilisees. Les desserrer demande du temps, de la coherence et une attention prudente aux branches voisines encore pensables.
+
+### XLVII. Le Principe des Fenetres de Perception
+
+#### Statut
+Principe emergent.
+
+#### Fondations concernees
+- Fondation IV : La Perception Invisible
+- Fondation V : Les Temporalites Fragmentees
+- Fondation VIII : Les Techniques de Synchronisation
+- Fondation X : L'Ocean des Possibles
+
+#### Definition
+Le Reseau Vivant est toujours present, mais la capacite d'une conscience a percevoir des branches voisines varie selon son etat.
+
+Certaines situations diminuent temporairement les filtres de la realite locale et rendent les resonances faibles plus perceptibles.
+
+Ces situations peuvent inclure l'enfance, le reve, le reve lucide, la meditation, la contemplation, la creation artistique, l'emerveillement, la crise existentielle, le choc emotionnel, l'experience esthetique profonde, la proximite de la mort, le silence interieur ou une presence intense au moment.
+
+#### Pourquoi ce principe a ete introduit
+La BRM possedait deja les Capacites de Connexion, les Reves, les Reves Lucides, la Pre-Resonance et la Reconfiguration Nocturne. Il manquait un principe transversal pour expliquer pourquoi certains moments ouvrent temporairement la perception sans constituer une capacite permanente.
+
+Le Principe des Fenetres de Perception nomme ces ouvertures ponctuelles.
+
+#### Probleme resolu
+Il explique pourquoi certaines personnes ou certains moments semblent plus sensibles a l'intuition, a l'imagination, aux synchronicites, a la creation ou a des perceptions non ordinaires.
+
+Il permet aussi de distinguer une ouverture perceptive temporaire d'une preuve, d'une revelation absolue ou d'un pouvoir stable.
+
+#### Consequences cosmologiques
+La perception locale devient variable. Elle peut se contracter sous l'effet de l'habitude, de la peur ou de la repetition, et s'ouvrir temporairement dans certains etats ou certaines circonstances.
+
+Une Fenetre de Perception ne cree pas de branche. Elle rend simplement certaines resonances faibles plus perceptibles pendant un temps limite.
+
+Elle complete ainsi la Cristallisation Cognitive: l'une explique la fermeture progressive des cadres, l'autre explique certaines ouvertures ponctuelles.
+
+#### Limites
+Ce principe n'affirme pas:
+
+- que ces fenetres donnent acces a une verite absolue;
+- que l'enfance voit necessairement le reel plus justement;
+- que toute perception non ordinaire est fiable;
+- que le choc, la crise ou la souffrance doivent etre recherches;
+- que l'alchimie, la magie ou la lumiere constituent des fondations de la BRM.
+
+Il affirme seulement que certains etats peuvent augmenter temporairement la sensibilite aux resonances faibles.
+
+#### Concepts lies
+- Nature reelle de l'Imagination
+- Capacites de Connexion
+- Reves
+- Reves Lucides
+- Pre-Resonance
+- Reconfiguration Nocturne
+- Reseau Vivant
+- Fenetre de Sensibilite
+
+#### Exemple
+Un artiste marche en silence apres une periode de fatigue et de doute. Sans chercher de revelation, il percoit soudain une structure de livre, une image ou une phrase qui semble venir avec une coherence inhabituelle. La Fenetre de Perception n'a pas cree cette forme. Elle a temporairement rendu plus audible une resonance faible.
+
+#### Implications philosophiques
+La perception n'est pas un bloc fixe. Elle se ferme, s'ouvre, se fatigue, se clarifie, se defend et se surprend.
+
+Les Fenetres de Perception invitent a respecter les moments d'ouverture sans les idolatrer. Elles donnent une place a l'emerveillement, au silence et a la creation, tout en maintenant la prudence centrale de la BRM: percevoir autrement ne signifie pas percevoir infailliblement.
+
 ## Contradictions Potentielles Et Ajustements
 
 1. **Risque d'immortalite automatique**  
@@ -476,6 +611,15 @@ La sagesse consiste alors a reconnaitre les periodes ou le reel devient plus sen
 
 5. **Risque de dogmatisation**  
    Ces principes appartiennent a une cosmologie philosophique speculative. Ils ne constituent ni un systeme religieux, ni une demonstration scientifique.
+
+6. **Risque de creation mentale directe**  
+   La Cristallisation Cognitive ne doit jamais etre lue comme une creation du reel par la croyance. Elle decrit une orientation de convergence vers des branches deja existantes.
+
+7. **Risque d'alchimie doctrinale**  
+   Les principes issus de l'analyse de Patrick Burensteinas sont reformules comme intuitions philosophiques compatibles. La lumiere, la pierre, la transmutation et les images alchimiques restent des metaphores ou objets d'analyse, jamais des fondations de la BRM.
+
+8. **Risque de fiabilite automatique des perceptions non ordinaires**  
+   Les Fenetres de Perception augmentent une sensibilite possible, mais ne garantissent ni verite absolue, ni interpretation correcte.
 
 ## Definition Canonique Courte
 La Theorie de la Resonance Multiversielle affirme que l'ensemble des realites possibles emerge d'un Champ Fondamental multidimensionnel. Chaque individu existe sous une infinite de variantes partageant un meme Noyau Identitaire. Ces variantes sont reliees par un reseau de resonances dont l'intensite depend notamment de la proximite identitaire, de la divergence des branches et de l'attention portee par la conscience.
