@@ -22,7 +22,7 @@ Le Draft 02 n'est pas une reecriture totale. C'est une passe de clarification:
 - `06_CHAPTERS/FONDATION_01_LIVRE_03_LES_BRANCHES_DE_L_EXISTENCE.md`
 - `06_CHAPTERS/FONDATION_01_LIVRE_04_POURQUOI_TOUT_EXISTE_QUELQUE_PART.md`
 - `06_CHAPTERS/FONDATION_01_LIVRE_05_LES_LIMITES_DU_POSSIBLE.md`
-- `02_STORY_BIBLE/CANON_OFFICIEL_40_PRINCIPES.md`
+- `02_STORY_BIBLE/CANON_OFFICIEL_45_PRINCIPES.md`
 - `02_STORY_BIBLE/GLOSSAIRE_FONDATION_01.md`
 - `02_STORY_BIBLE/GLOSSAIRE_OFFICIEL.md`
 
@@ -48,6 +48,7 @@ Le Draft 02 n'est pas une reecriture totale. C'est une passe de clarification:
 | 2026-06-25 | Livre 1, chapitre 5 | Revision de l'unicite apparente par l'ancrage local, la perception, la memoire et le monde partage. |
 | 2026-06-25 | Livre 1, chapitre 6 | Conclusion du Livre 1 par une discipline du vertige et une transition vers la cartographie. |
 | 2026-06-25 | Livre 1 complet | Mini-relecture de coherence; retrait de formulations trop orientees navigation, passage et mecanismes avances. |
+| 2026-06-26 | Livre 2, chapitre 1 | Ouverture de la cartographie des realites: distinguer les familles de branches sans transformer la carte en promesse d'acces. |
 
 ---
 
@@ -769,3 +770,135 @@ Il demande une cartographie.
 - La conclusion rappelle que Fondation 1 pose l'architecture du multivers, pas les protocoles de passage.
 - La transition vers le Livre 2 est clarifiee: passer du vertige a la cartographie des realites.
 - Les notions avancees de Harmons, Agents, Continuite Identitaire, navigation avancee, seuils techniques et methodes pratiques detaillees restent reservees.
+
+---
+
+# Livre 2 - La Cartographie Des Realites
+
+## Chapitre 1 - Pourquoi cartographier l'infini
+
+Apres le vertige vient la carte.
+
+Le premier livre a ouvert une hypothese: notre monde ne serait peut-etre pas la totalite du reel, mais une branche locale dans une architecture plus vaste. Cette idee agrandit l'esprit. Elle deplace le centre. Elle oblige a distinguer ce que nous habitons de ce qui pourrait exister ailleurs dans le reel total.
+
+Mais une idee trop grande peut devenir une brume.
+
+Dire que le multivers est infini ne suffit pas. Dire que notre branche n'est peut-etre pas seule ne suffit pas. Dire que d'autres versions de nous pourraient exister ailleurs ne suffit pas. Si tout est simplement declare possible, alors plus rien n'est vraiment pensable. L'infini devient une surface sans relief, ou l'on confond une intuition, un reve, un fantasme, une branche coherente et une contradiction sterile.
+
+Il faut donc apprendre a distinguer.
+
+C'est le role de la cartographie.
+
+Cartographier, ici, ne signifie pas enfermer le multivers dans un schema definitif. Une carte n'est jamais le territoire. Elle n'est pas la totalite de ce qu'elle represente. Elle oublie, simplifie, deforme parfois. Mais elle permet une chose essentielle: ne pas confondre toutes les directions.
+
+La cartographie des realites n'est donc pas une prise de pouvoir sur l'infini.
+
+C'est une discipline de lecture.
+
+Elle demande: de quel type de realite parlons-nous? Est-ce une branche proche de notre vie actuelle? Une branche plus divergente? Une possibilite logique qui n'a pas encore de stabilite narrative? Une simple image mentale? Une zone de reve? Une structure collective? Une hypothese trop contradictoire pour devenir habitable?
+
+Ces questions ne donnent pas des preuves.
+
+Elles donnent une methode d'observation.
+
+Le danger, dans une theorie du multivers, est de mettre trop vite toutes les experiences dans le meme sac. Une impression forte devient une "autre realite". Un reve devient une preuve. Un regret devient une branche accessible. Une intuition devient une certitude. Une coincidence devient un message. L'esprit humain aime les formes, surtout lorsqu'elles donnent du sens a ce qui le trouble.
+
+La carte sert d'abord a ralentir cette certitude.
+
+Elle ne dit pas: ceci est vrai.
+
+Elle demande: ou cela se situe-t-il?
+
+Cette difference est decisive.
+
+Une branche proche n'a pas le meme statut qu'une branche lointaine. Une variante possible de soi n'a pas le meme statut qu'une invention romanesque. Une image qui traverse l'esprit n'a pas le meme poids qu'une realite qui possede une continuite, une causalite, une coherence et des consequences. Une experience interieure intense peut etre importante sans etre litteralement cosmologique.
+
+La cartographie commence donc par une humilite: le reel total, s'il existe ainsi, depasse nos categories. Mais sans categories provisoires, nous ne pouvons pas l'approcher sans nous perdre.
+
+Le premier axe de la carte est la proximite.
+
+Certaines branches, dans ce modele, seraient presque voisines de notre branche locale. Elles ne changeraient qu'un detail: une phrase dite autrement, un retard evite, une decision prise plus tot, une rencontre acceptee plutot que refusee. Elles appartiennent au champ des variations proches. Elles ne bouleversent pas toute l'histoire; elles modifient un point de trajectoire.
+
+D'autres branches seraient plus eloignees. Elles impliqueraient une autre biographie, d'autres relations, un autre pays, une autre histoire collective, peut-etre une autre structure de vie. Elles restent pensables, mais elles ne se laissent plus ramener a un simple detail.
+
+D'autres encore seraient si divergentes que notre langage devient fragile. Elles pourraient contenir d'autres lois, d'autres formes de conscience, d'autres temporalites. A ce niveau, la prudence devient plus importante que l'imagination. Plus une branche est lointaine, plus il devient facile de projeter sur elle nos mythes, nos peurs ou nos desirs.
+
+Le deuxieme axe est la stabilite.
+
+Tout ce qui apparait a l'esprit n'est pas une branche stable. Certaines images ne sont que des fragments. Certaines intuitions ne sont que des signaux faibles. Certains reves melangent des souvenirs, des emotions, des symboles et peut-etre des traces plus vastes. Certaines possibilites semblent puissantes une heure, puis se dissolvent sans laisser de coherence.
+
+Une realite, pour etre plus qu'une impression, doit tenir.
+
+Elle doit pouvoir etre pensee avec une certaine continuite. Elle doit resister un peu a l'examen. Elle doit produire une suite possible. Elle doit ne pas s'annuler elle-meme.
+
+Cela ne veut pas dire qu'une experience instable ne vaut rien. Au contraire, certaines experiences fragiles peuvent ouvrir des questions profondes. Mais les nommer comme instables evite de les transformer trop vite en monde complet.
+
+Le troisieme axe est l'habitabilite.
+
+Une possibilite peut etre imaginable sans etre habitable. Nous pouvons concevoir une branche spectaculaire, une existence radicalement differente, une transformation totale. Mais une conscience locale ne peut pas vivre n'importe quelle configuration sans perdre sa coherence. Une branche habitable doit pouvoir accueillir un corps, une memoire, une continuite d'action, un monde partage ou au moins une structure d'experience.
+
+L'habitabilite protege la pensee contre le fantasme de toute-puissance.
+
+Elle rappelle que le possible n'est pas le n'importe quoi.
+
+Le quatrieme axe est la relation avec notre branche locale.
+
+Une realite peut etre proche de nous par l'histoire, mais lointaine par l'identite. Elle peut etre proche par l'identite, mais lointaine par le monde. Elle peut etre proche par l'emotion, mais instable dans sa structure. Elle peut etre collective, personnelle, onirique, narrative, logique ou symbolique.
+
+La carte doit donc accepter plusieurs dimensions.
+
+Elle ne ressemble pas a un atlas plat ou les mondes seraient ranges les uns a cote des autres. Elle ressemble plutot a un reseau de distances, de compatibilites et de tensions. Certaines realites sont voisines par un aspect et lointaines par un autre. Certaines semblent proches parce qu'elles nous touchent, alors qu'elles sont structurellement difficiles a rejoindre. D'autres semblent modestes, presque ordinaires, mais elles sont tres importantes parce qu'elles ouvrent une suite coherente.
+
+Cartographier l'infini, c'est apprendre a lire ces differences.
+
+Cette discipline a aussi une fonction ethique.
+
+Elle empeche la theorie de devenir une promesse. La Fondation 1 ne dit pas: tout est accessible. Elle ne dit pas: tout desir indique une branche proche. Elle ne dit pas: toute intuition doit etre suivie. Elle ne dit pas: la pensee cree la realite.
+
+Elle dit plutot: si le reel est plus vaste que notre branche locale, alors il faut une methode pour ne pas confondre ouverture et croyance immediate.
+
+La carte ne remplace pas la prudence.
+
+Elle l'organise.
+
+Un reve peut etre note sans etre sacralise. Une intuition peut etre respectee sans devenir une certitude. Une impression de deja-vu peut etre observee sans etre convertie en preuve. Une idee creative peut etre accueillie sans que l'on sache encore si elle vient d'une recomposition mentale, d'une memoire profonde, d'une resonance faible ou d'une simple association.
+
+La cartographie ne ferme pas ces possibilites.
+
+Elle les classe provisoirement.
+
+C'est pourquoi elle demande du temps. Une experience isolee peut etre intense et trompeuse. Une experience repetee peut commencer a dessiner un motif. Un motif coherent peut devenir une piste. Une piste qui augmente l'ancrage, la clarte et la responsabilite devient plus digne d'attention qu'une piste qui disperse, exalte ou detache de la branche locale.
+
+Le cartographe n'est pas celui qui sait.
+
+C'est celui qui apprend a ne pas conclure trop vite.
+
+Dans ce deuxieme livre, nous ne chercherons donc pas encore a traverser les realites. Nous chercherons a les nommer. Nous distinguerons les branches proches, les branches plus divergentes, les realites instables, les zones oniriques et temporelles, les formes qui tiennent et celles qui se dissolvent.
+
+Nous garderons une idee simple: une carte n'est pas faite pour remplacer le reel.
+
+Elle est faite pour mieux revenir a lui.
+
+Car la branche locale reste notre lieu d'experience. C'est ici que nous lisons, pensons, doutons, travaillons, aimons, choisissons. C'est ici que les consequences deviennent sensibles. Le multivers, meme pense comme infini, ne doit pas nous faire mepriser ce point d'ancrage. Une carte qui nous coupe du sol n'est plus une carte. C'est une fuite.
+
+La bonne carte fait l'inverse.
+
+Elle donne de l'air sans retirer la gravite.
+
+Elle agrandit le monde sans abolir le lieu.
+
+Elle permet de dire: je ne sais pas encore ce que cette experience signifie, mais je peux apprendre a la situer.
+
+C'est deja beaucoup.
+
+Le vertige du multivers nait de l'idee que le reel pourrait etre immense.
+
+La methode commence lorsque nous acceptons que l'immense aussi demande des distinctions.
+
+## Notes De Revision - Livre 2, Chapitre 1
+
+- Le chapitre ouvre le Livre 2 en prolongeant directement la conclusion du Livre 1: passer du vertige a la carte.
+- La cartographie est definie comme discipline de lecture, non comme outil de controle ou promesse d'acces.
+- Les axes principaux introduits sont: proximite, stabilite, habitabilite et relation avec la branche locale.
+- La prudence speculative est renforcee: reve, intuition, deja-vu et experience forte restent des objets d'observation, pas des preuves.
+- Les notions avancees de Harmons, Agents, Navigation, Seuils techniques, protocoles de passage et Continuite Identitaire restent reservees.

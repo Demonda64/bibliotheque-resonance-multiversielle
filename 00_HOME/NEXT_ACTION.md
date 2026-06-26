@@ -7,7 +7,7 @@ Continuer le Draft 02 de la Fondation 1.
 `08_DRAFTS/DRAFT_02.md`
 
 ## Objectif En 30 Minutes
-Reviser le Livre 2, chapitre 1: "Pourquoi cartographier l'infini".
+Reviser le Livre 2, chapitre 2: "Les branches proches".
 
 ## Ne Pas Oublier
 - La Fondation 1 est complete en premiere passe.
@@ -21,6 +21,7 @@ Reviser le Livre 2, chapitre 1: "Pourquoi cartographier l'infini".
 - Le glossaire officiel du 24/06/2026 est range dans `02_STORY_BIBLE/GLOSSAIRE_OFFICIEL.md`.
 - Le pipeline editorial de 50 idees est range dans `13_ARTICLES_PUBLICS/ARTICLE_PIPELINE_50_IDEES.md`.
 - Le Draft 02 a commence dans `08_DRAFTS/DRAFT_02.md`; le Livre 1 est complet et mini-relu en Draft 02.
+- Le Livre 2, chapitre 1 est ajoute au Draft 02.
 
 ## A Noter Apres La Session
 - Chapitre revise ajoute au Draft 02.
