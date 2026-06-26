@@ -51,6 +51,7 @@ Le Draft 02 n'est pas une reecriture totale. C'est une passe de clarification:
 | 2026-06-26 | Livre 2, chapitre 1 | Ouverture de la cartographie des realites: distinguer les familles de branches sans transformer la carte en promesse d'acces. |
 | 2026-06-26 | Livre 2, chapitre 2 | Revision des branches proches comme variations discretes, accessibles a la pensee sans devenir des promesses de controle. |
 | 2026-06-26 | Livre 2, chapitre 3 | Revision des branches divergentes comme realites plus eloignees demandant temps, coherence et reorganisation de continuite. |
+| 2026-06-26 | Livre 2, chapitre 4 | Clarification des realites instables: fragments, brouillards et configurations composites sans statut de branche stable. |
 
 ---
 
@@ -1244,3 +1245,169 @@ Elle nous aide seulement a voir si nous regardons une variation voisine, une tra
 - Les notions techniques de Harmons, branches-ponts, navigation et mesure avancee restent reservees.
 - La divergence est presentee comme mesure du chemin, non comme mur ni promesse d'acces.
 - Le chapitre distingue branche divergente praticable et fantasme inaccessible sans transformer cette distinction en protocole.
+
+## Chapitre 4 - Les realites instables
+
+Toutes les realites percues ne sont pas des branches stables.
+
+Cette distinction est difficile, mais elle est essentielle. Sans elle, la cartographie se degrade. Chaque reve devient un univers. Chaque image devient une preuve. Chaque peur devient une prediction. Chaque desir devient une branche certaine. L'esprit ne distingue plus. Il absorbe tout dans une meme categorie.
+
+Or tout ce qui trouble n'est pas un monde.
+
+Tout ce qui insiste n'est pas une direction.
+
+Tout ce qui apparait n'a pas forcement la coherence d'une realite habitable.
+
+Une realite instable est une configuration qui possede assez de force pour etre percue, imaginee, revee ou pressentie, mais pas assez de continuite pour etre traitee comme une branche stable.
+
+Elle peut exister comme fragment.
+
+Comme melange.
+
+Comme brouillon.
+
+Comme interference.
+
+Comme tentative de forme.
+
+Mais elle ne possede pas encore la tenue d'un monde.
+
+Dans le premier livre, nous avons distingue le possible coherent du simple fantasme. Cette distinction revient ici sous une autre forme. Une branche doit pouvoir tenir. Elle doit maintenir des relations internes. Elle doit produire une suite possible. Elle doit ne pas s'annuler immediatement. Elle peut etre etrangere, surprenante, eloignee de notre monde local; mais elle doit avoir une coherence propre.
+
+La realite instable, elle, ne tient pas encore.
+
+Elle peut apparaitre avec intensite, puis se contredire. Elle peut rassembler plusieurs images sans les unifier. Elle peut donner l'impression d'un appel, puis se dissoudre. Elle peut avoir la force d'un symbole sans posseder la structure d'une branche.
+
+Les reves ordinaires donnent une premiere approche de cette instabilite.
+
+Dans un reve, une maison peut etre a la fois celle de l'enfance et un lieu inconnu. Une personne peut etre plusieurs personnes. Une rue peut mener a une mer qui n'existait pas quelques secondes plus tot. Le reveur accepte cette plasticite parce que les filtres ordinaires sont relaches. Au reveil, pourtant, il devient clair que l'espace reve ne se comportait pas toujours comme une branche stable.
+
+Cela ne signifie pas que le reve est sans valeur.
+
+Cela signifie qu'il est souvent composite.
+
+Un reve peut contenir des traces de memoire, des emotions, des images symboliques, des signaux corporels, des intuitions, peut-etre meme des resonances faibles avec des branches proches. Sa force vient parfois de ce melange. Mais ce melange interdit de le traiter trop vite comme un monde complet.
+
+Une realite instable peut donc etre riche sans etre habitable.
+
+Le premier signe d'instabilite est la contradiction interne.
+
+Une branche divergente peut avoir des lois differentes des notres, mais elle reste coherente avec elle-meme. Une realite instable, elle, change de loi sans transition. Elle affirme une chose et son contraire. Elle fait apparaitre des consequences sans cause, puis les efface. Elle ne semble pas posseder de squelette.
+
+La contradiction pure ne forme pas un monde.
+
+Elle forme un bruit.
+
+Le deuxieme signe est le melange de signaux.
+
+Une image peut venir d'un souvenir. Une emotion peut venir d'une peur. Un lieu peut venir d'un reve ancien. Une silhouette peut etre composee de plusieurs visages. Une scene peut reunir des elements qui n'appartiennent pas a la meme structure. L'ensemble peut etre charge, intense, presque fascinant, sans correspondre pour autant a une seule branche.
+
+La question du cartographe devient alors simple:
+
+suis-je devant une realite coherente, ou devant un assemblage?
+
+Cette question evite beaucoup d'erreurs.
+
+Le troisieme signe est le manque d'ancrage.
+
+Une realite stable donne le sentiment qu'on pourrait y rester. Elle a un sol, meme si ce sol n'est pas physique. Elle possede une continuite, des directions, une resistance, une maniere de repondre. Une realite instable, au contraire, glisse. Elle attire, puis s'effondre. Elle montre, puis remplace. Elle commence a repondre, puis change de question.
+
+Ce manque d'ancrage se reconnait souvent a une fatigue particuliere: l'esprit tente de suivre, mais rien ne se stabilise assez pour devenir carte.
+
+Le quatrieme signe est l'intensite sans suite.
+
+Certaines images frappent tres fort. Elles semblent importantes parce qu'elles produisent une emotion immediate. Mais apres l'intensite, rien ne demeure. Pas de coherence. Pas de repetition. Pas de relation claire avec la branche locale. Pas de forme que l'on pourrait observer dans la duree.
+
+L'intensite seule ne suffit pas.
+
+Elle peut signaler quelque chose.
+
+Elle ne suffit pas a le definir.
+
+Il ne faut donc pas confondre realite instable et branche divergente.
+
+La branche divergente est loin, mais elle tient.
+
+La realite instable peut etre proche, brillante, troublante, mais elle ne tient pas encore.
+
+La branche divergente demande a etre lue comme distance.
+
+La realite instable demande a etre lue comme composition.
+
+Une autre confusion doit etre evitee: realite instable et zone onirique. Une zone onirique peut contenir des realites instables, mais elle ne s'y reduit pas. Certains reves sont chaotiques. D'autres ont une logique forte. Certaines images mentales sont instables. Certaines branches lointaines peuvent etre tres coherentes. L'onirique est un mode d'apparition. L'instabilite est une qualite de structure.
+
+La carte doit garder cette nuance.
+
+Pourquoi garder les realites instables dans la cartographie, si elles ne sont pas des branches stables?
+
+Parce qu'elles sont souvent les premieres a apparaitre.
+
+La conscience locale ne recoit pas toujours des formes completes. Elle recoit des fragments. Elle traduit. Elle reconstruit. Elle melange ce qui vient du corps, de la memoire, du desir, de la peur, de l'imagination et peut-etre d'autres zones du possible. Avant qu'une carte soit nette, il y a des brumes.
+
+Les realites instables sont ces brumes.
+
+Elles ne sont pas inutiles.
+
+Elles peuvent signaler qu'une zone travaille. Elles peuvent contenir un fragment de branche proche, une peur non reconnue, une memoire deforme, une image creative, une tension symbolique, un debut de forme. Mais elles demandent le bon statut.
+
+Une realite instable doit etre notee.
+
+Pas adoree.
+
+Observee.
+
+Pas immediatement crue.
+
+Interrogee.
+
+Pas transformee en loi.
+
+Le cartographe peut demander:
+
+Qu'est-ce qui se repete?
+
+Qu'est-ce qui demeure lorsque l'emotion baisse?
+
+Y a-t-il un noyau coherent sous le melange?
+
+Cette image produit-elle plus d'ancrage ou plus de dispersion?
+
+Appelle-t-elle une observation patiente, une action simple, ou seulement une fascination?
+
+Ces questions ne meprisent pas l'instable. Elles lui donnent une chance de se clarifier. Parfois, le bruit contient une information. Mais il faut le travailler.
+
+L'artiste le sait deja.
+
+Une idee brute arrive souvent sous forme instable: une phrase, une atmosphere, un personnage sans histoire, une ville sans carte, une couleur, une scene. Si l'artiste la prend pour une oeuvre achevee, il se trompe. S'il la rejette parce qu'elle est incomplete, il se trompe aussi. Il doit chercher ce qui tient.
+
+La cartographie fonctionne de la meme maniere.
+
+Elle ne rejette pas l'instable.
+
+Elle lui demande: que peux-tu devenir si je t'observe avec patience?
+
+Certaines realites instables resteront des brouillons. D'autres reveleront une branche proche. D'autres deviendront des creations humaines: textes, images, theories, musiques, mythes. Peut-etre qu'une partie de l'art nait ainsi, dans la stabilisation locale d'une perception qui n'avait pas encore de forme habitable.
+
+Creer, dans ce sens, ce n'est pas inventer a partir de rien.
+
+C'est donner une forme a un signal qui ne tenait pas encore.
+
+Le danger serait de vouloir habiter trop vite l'instable. Une conscience qui confond tous les signaux avec des branches stables risque de perdre sa priorite locale. Elle poursuit des fragments, change de direction sans cesse, prend chaque image pour un appel absolu. Elle devient sensible, mais pas lucide.
+
+La lucidite ne consiste pas a croire moins.
+
+Elle consiste a classer mieux.
+
+Les realites instables enseignent donc l'humilite du cartographe. Dans l'ocean des possibles, il y a peut-etre des continents, des iles, des courants et des brumes. Les brumes ne sont pas inutiles. Elles cachent parfois une terre. Elles cachent parfois seulement de l'eau. Elles peuvent aussi cacher un mirage.
+
+La carte ne les efface pas.
+
+Elle apprend a attendre ce qui demeure lorsque la lumiere change.
+
+## Notes De Revision - Livre 2, Chapitre 4
+
+- Le chapitre definit les realites instables comme configurations percues, imaginees ou revees sans continuite suffisante pour etre traitees comme branches stables.
+- La revision distingue instabilite, branche divergente et zone onirique sans ouvrir encore les protocoles de reve ou de navigation.
+- Les signes retenus sont: contradiction interne, melange de signaux, manque d'ancrage et intensite sans suite.
+- La prudence est renforcee: l'instable doit etre note, observe et interroge, pas transforme en preuve.
+- Les notions techniques de cout energetique, Navigateurs, passages et mecanismes de stabilisation restent reservees.

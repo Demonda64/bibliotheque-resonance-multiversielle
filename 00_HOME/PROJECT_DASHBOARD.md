@@ -17,7 +17,7 @@ Donner au lecteur une carte claire, progressive et vertigineuse du reel possible
 Reviser la Fondation 1 en Draft 02 avant gel du manuscrit et mise en page TheBookEdition.
 
 ## Prochaine Action
-Reviser le Livre 2, chapitre 4: "Les realites instables" dans `08_DRAFTS/DRAFT_02.md`.
+Reviser le Livre 2, chapitre 5: "Les zones oniriques et temporelles" dans `08_DRAFTS/DRAFT_02.md`.
 
 ## Site Public
 URL prevue:
@@ -34,7 +34,7 @@ Publication: branche `gh-pages`, dossier `/ (root)`.
 | 03 Outline | En cours | Architecture des 10 fondations creee; Fondation 1 planifiee |
 | 04 Draft 01 | Fait | Fondation 1 complete en premiere passe |
 | 05 Developmental Revision | En cours | Canon officiel, glossaires, plan publication et articles ranges |
-| 06 Draft 02 | En cours | Livre 1 complet et mini-relu en Draft 02; Livre 2 chapitres 1 a 3 ajoutes dans `08_DRAFTS/DRAFT_02.md` |
+| 06 Draft 02 | En cours | Livre 1 complet et mini-relu en Draft 02; Livre 2 chapitres 1 a 4 ajoutes dans `08_DRAFTS/DRAFT_02.md` |
 | 07 Line Edit and Continuity | A faire |  |
 | 08 Export | En cours | Lecteur web cree et pousse sur GitHub; activation Pages manuelle requise |
 
@@ -43,7 +43,7 @@ Publication: branche `gh-pages`, dossier `/ (root)`.
 | --- | --- | ---: | --- |
 | Fondation 1 - Ouverture | Preface, resume et table des matieres | 1110 | Redige |
 | Fondation 1 - Livre 1 | Le Multivers Infini | 7515 | Livre 1 complet et mini-relu en Draft 02 |
-| Fondation 1 - Livre 2 | La Cartographie des Realites | 7829 | Chapitres 1 a 3 ajoutes en Draft 02 |
+| Fondation 1 - Livre 2 | La Cartographie des Realites | 7829 | Chapitres 1 a 4 ajoutes en Draft 02 |
 | Fondation 1 - Livre 3 | Les Branches de l'Existence | 9931 | Premiere passe complete |
 | Fondation 1 - Livre 4 | Pourquoi Tout Existe Quelque Part | 9878 | Premiere passe complete |
 | Fondation 1 - Livre 5 | Les Limites du Possible | 10077 | Premiere passe complete |
