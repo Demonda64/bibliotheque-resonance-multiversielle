@@ -28,10 +28,18 @@ Questions :
 
 Décision :
 
-✓ Principe fondamental
-□ Corollaire
+□ Principe fondamental
+✓ Corollaire
 □ Théorème
 □ Fusion
+
+Justification :
+
+Agents = conséquence opérationnelle de la gouvernance.
+
+Justification :
+
+Agents = conséquence opérationnelle de la gouvernance.
 
 Justification :
 Les Agents sont des entités fonctionnelles (naturelles ou artificielles) qui maintiennent la cohérence du réseau; leur définition est essentielle pour l'architecture et la sécurité.

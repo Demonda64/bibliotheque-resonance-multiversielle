@@ -28,10 +28,18 @@ Questions :
 
 Décision :
 
-✓ Principe fondamental
+□ Principe fondamental
 □ Corollaire
-□ Théorème
+✓ Théorème
 □ Fusion
+
+Justification :
+
+Application expliquant pénalité énergétique des actions.
+
+Justification :
+
+Application expliquant pénalité énergétique des actions.
 
 Justification :
 Ce principe formalise la pénalité énergétique des actions non-cohérentes, nécessaire pour concevoir limites, risques et coûts lors de la navigation inter-branches.

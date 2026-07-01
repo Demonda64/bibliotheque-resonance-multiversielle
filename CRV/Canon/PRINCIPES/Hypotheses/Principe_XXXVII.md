@@ -30,12 +30,14 @@ Questions :
 
 Décision :
 
-Décision :
-
-□ Principe fondamental
-✓ Corollaire
+✓ Principe fondamental
+□ Corollaire
 □ Théorème
 □ Fusion
+
+Justification :
+
+Proximité narrative = principe structurant narratif.
 
 Justification :
 

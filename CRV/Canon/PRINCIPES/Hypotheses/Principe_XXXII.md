@@ -30,12 +30,14 @@ Questions :
 
 Décision :
 
-Décision :
-
 □ Principe fondamental
 ✓ Corollaire
 □ Théorème
 □ Fusion
+
+Justification :
+
+Attracteur identitaire découle du Noyau et résonance.
 
 Justification :
 

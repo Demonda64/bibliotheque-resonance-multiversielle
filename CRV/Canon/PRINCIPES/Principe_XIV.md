@@ -28,10 +28,18 @@ Questions :
 
 Décision :
 
-✓ Principe fondamental
-□ Corollaire
+□ Principe fondamental
+✓ Corollaire
 □ Théorème
 □ Fusion
+
+Justification :
+
+Découle de l'inertie et des mécanismes de maintien.
+
+Justification :
+
+Découle de l'inertie et des mécanismes de maintien.
 
 Justification :
 Ce principe définit un coût d'existence et de maintien qui structure les stratégies de navigation et les limites des interventions prolongées.

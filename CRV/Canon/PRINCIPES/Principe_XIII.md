@@ -28,10 +28,18 @@ Questions :
 
 Décision :
 
-✓ Principe fondamental
+□ Principe fondamental
 □ Corollaire
-□ Théorème
+✓ Théorème
 □ Fusion
+
+Justification :
+
+Rêve lucide = technique empirique, application.
+
+Justification :
+
+Rêve lucide = technique empirique, application.
 
 Justification :
 Le rêve lucide est la première technique empirique documentée de navigation intentionnelle et doit être traité comme compétence à enseigner et modéliser.

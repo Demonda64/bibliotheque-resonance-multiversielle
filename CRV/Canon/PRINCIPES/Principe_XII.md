@@ -28,10 +28,18 @@ Questions :
 
 Décision :
 
-✓ Principe fondamental
+□ Principe fondamental
 □ Corollaire
-□ Théorème
+✓ Théorème
 □ Fusion
+
+Justification :
+
+Accès spontané au réseau = application/phenomene particulier.
+
+Justification :
+
+Accès spontané au réseau = application/phenomene particulier.
 
 Justification :
 Les rêves agissent comme canaux naturels de navigation et d'intégration d'information inter-branches; leur étude éclaire mécanismes et limites de l'accès non volontaire.

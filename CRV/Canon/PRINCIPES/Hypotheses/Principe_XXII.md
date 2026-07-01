@@ -30,12 +30,14 @@ Questions :
 
 Décision :
 
-Décision :
-
 □ Principe fondamental
 ✓ Corollaire
 □ Théorème
 □ Fusion
+
+Justification :
+
+Priorité personnelle découle du Noyau.
 
 Justification :
 

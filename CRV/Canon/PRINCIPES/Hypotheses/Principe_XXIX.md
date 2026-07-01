@@ -30,12 +30,14 @@ Questions :
 
 Décision :
 
-Décision :
-
 □ Principe fondamental
 ✓ Corollaire
 □ Théorème
 □ Fusion
+
+Justification :
+
+Mémoire résiduelle découle de continuité et stratification.
 
 Justification :
 

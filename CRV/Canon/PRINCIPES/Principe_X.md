@@ -28,10 +28,18 @@ Questions :
 
 Décision :
 
-✓ Principe fondamental
-□ Corollaire
+□ Principe fondamental
+✓ Corollaire
 □ Théorème
 □ Fusion
+
+Justification :
+
+Découle de l'inertie et de la convergence; effet d'exclusion compétitive.
+
+Justification :
+
+Découle de l'inertie et de la convergence; effet d'exclusion compétitive.
 
 Justification :
 Ce principe formalise l'effet d'exclusion compétitive entre branches : les actions qui stabilisent une branche diminuent l'accessibilité de ses alternatives, ce qui a des implications éthiques et pratiques pour la navigation.

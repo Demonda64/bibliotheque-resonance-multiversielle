@@ -30,12 +30,14 @@ Questions :
 
 Décision :
 
-Décision :
-
 □ Principe fondamental
 ✓ Corollaire
 □ Théorème
 □ Fusion
+
+Justification :
+
+Fenêtre de sensibilité = conséquence.
 
 Justification :
 

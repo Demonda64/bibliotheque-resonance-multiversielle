@@ -30,12 +30,14 @@ Questions :
 
 Décision :
 
-Décision :
-
 □ Principe fondamental
-✓ Corollaire
+□ Corollaire
 □ Théorème
-□ Fusion
+✓ Fusion
+
+Justification :
+
+Fusion proposée: intégré dans `Principe_XL.md` (Réseau Vivant).
 
 Justification :
 

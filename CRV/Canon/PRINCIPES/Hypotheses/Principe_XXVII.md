@@ -30,12 +30,14 @@ Questions :
 
 Décision :
 
-Décision :
-
 □ Principe fondamental
-✓ Corollaire
-□ Théorème
+□ Corollaire
+✓ Théorème
 □ Fusion
+
+Justification :
+
+Incarnation = phénomène particulier, application.
 
 Justification :
 

@@ -28,10 +28,18 @@ Questions :
 
 Décision :
 
-✓ Principe fondamental
-□ Corollaire
+□ Principe fondamental
+✓ Corollaire
 □ Théorème
 □ Fusion
+
+Justification :
+
+Bidirectionnalité des connexions découle du Réseau Vivant.
+
+Justification :
+
+Bidirectionnalité des connexions découle du Réseau Vivant.
 
 Justification :
 La bidirectionnalité des connexions a des implications pour la sécurité et la gouvernance des passages; formaliser la symétrie aide à définir flux et permissions.

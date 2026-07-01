@@ -30,12 +30,14 @@ Questions :
 
 Décision :
 
-Décision :
-
 □ Principe fondamental
-✓ Corollaire
-□ Théorème
+□ Corollaire
+✓ Théorème
 □ Fusion
+
+Justification :
+
+Reconfiguration nocturne = phénomène particulier.
 
 Justification :
 

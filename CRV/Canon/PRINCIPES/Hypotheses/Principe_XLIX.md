@@ -30,12 +30,14 @@ Questions :
 
 Décision :
 
-Décision :
-
 □ Principe fondamental
 ✓ Corollaire
 □ Théorème
 □ Fusion
+
+Justification :
+
+Stratification de la mémoire découle du Noyau et continuité.
 
 Justification :
 

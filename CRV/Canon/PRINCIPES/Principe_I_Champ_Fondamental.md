@@ -26,7 +26,18 @@ Questions :
 
 Décision :
 
-☑️ Principe fondamental
+✓ Principe fondamental
+□ Corollaire
+□ Théorème
+□ Fusion
+
+Justification :
+
+Impossible de le retirer; ontologiquement premier.
+
+Justification :
+
+Impossible de le retirer; ontologiquement premier.
 
 Justification :
 Le Champ Fondamental est ontologiquement premier et sert de substrat à toutes les autres notions du CRV. Les autres principes (Réseau Vivant, Branches, Résonance, Convergence) supposent son existence : les définir sans lui rendrait la cosmologie incomplète.

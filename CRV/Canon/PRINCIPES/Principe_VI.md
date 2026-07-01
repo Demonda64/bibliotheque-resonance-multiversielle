@@ -34,9 +34,16 @@ Décision :
 □ Fusion
 
 Justification :
+
+Ontologie du multivers; pilier du Canon.
+
+Justification :
+
+Ontologie du multivers; pilier du Canon.
+
+Justification :
 Ce principe formalise l'ontologie du multivers : la pluralité des branches est le lieu d'existence des possibles compatibles. Il sert de socle métaphysique aux politiques de navigation et aux hypothèses de complétude du Canon.
 
 Conséquences sur le Canon :
 - Référencer ce principe dans les fiches sur création/validation d'artefacts et sur probabilités de branche.
 - Vérifier cohérence avec `Principe X` (conservation de réalité) et `Principe II` (Noyau Identitaire).
-

@@ -28,10 +28,18 @@ Questions :
 
 Décision :
 
-✓ Principe fondamental
+□ Principe fondamental
 □ Corollaire
-□ Théorème
+✓ Théorème
 □ Fusion
+
+Justification :
+
+Application psychologique de la résonance (désirs/peurs).
+
+Justification :
+
+Application psychologique de la résonance (désirs/peurs).
 
 Justification :
 Ce principe clarifie que la moralité ou l'intention n'altèrent pas intrinsèquement la résonance — seule la dynamique attentionnelle compte — ce qui influe sur les protocoles d'intervention et d'éthique.

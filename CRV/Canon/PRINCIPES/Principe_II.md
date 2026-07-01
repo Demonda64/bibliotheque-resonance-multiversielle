@@ -35,10 +35,17 @@ Décision :
 □ Fusion
 
 Justification :
+
+Cœur ontologique de l'identité, irréductible.
+
+Justification :
+
+Cœur ontologique de l'identité, irréductible.
+
+Justification :
 Le concept de Noyau Identitaire définit l'unité profonde qui relie les variantes d'un même individu. Il pose une hypothèse ontologique centrale (identité structurale au‑delà de la biographie locale) indispensable pour expliquer la persistance, la reconnaissance mutuelle et la proximité identitaire. Il n'est pas réductible à d'autres principes (il sert de fondement à des mécanismes d'accès et de relation entre variantes).
 
 Conséquences sur le Canon :
 - Conserver `Le Noyau Identitaire` comme principe fondamental et référence pour les sections identitaires.
 - Relier explicitement les principes `Proximite Identitaire`, `Resonance Mutuelle`, `Persistance du Noyau` à ce principe comme corollaires opérationnels.
 - Vérifier que les fiches pratiques (navigation, agents, cartographie) mentionnent le rôle du Noyau dans les protocoles d'accès.
-

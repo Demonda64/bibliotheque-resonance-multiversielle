@@ -28,10 +28,18 @@ Questions :
 
 Décision :
 
-✓ Principe fondamental
+□ Principe fondamental
 □ Corollaire
-□ Théorème
+✓ Théorème
 □ Fusion
+
+Justification :
+
+Méditation = pratique modifiant paramètres de navigation.
+
+Justification :
+
+Méditation = pratique modifiant paramètres de navigation.
 
 Justification :
 La méditation est une pratique qui modifie directement les paramètres de navigation et doit être intégrée aux protocoles d'entraînement et de stabilisation.

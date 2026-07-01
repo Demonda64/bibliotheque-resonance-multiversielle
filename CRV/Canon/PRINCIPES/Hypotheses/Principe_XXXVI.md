@@ -30,12 +30,14 @@ Questions :
 
 Décision :
 
-Décision :
-
-□ Principe fondamental
-✓ Corollaire
+✓ Principe fondamental
+□ Corollaire
 □ Théorème
 □ Fusion
+
+Justification :
+
+Compensation = mécanisme fondamental de régulation.
 
 Justification :
 

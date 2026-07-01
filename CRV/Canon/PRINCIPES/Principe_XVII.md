@@ -28,10 +28,18 @@ Questions :
 
 Décision :
 
-✓ Principe fondamental
+□ Principe fondamental
 □ Corollaire
-□ Théorème
+✓ Théorème
 □ Fusion
+
+Justification :
+
+Passages = application/structure facilitant transitions.
+
+Justification :
+
+Passages = application/structure facilitant transitions.
 
 Justification :
 Les `Passages` sont des formes récurrentes dans la fiction et la pratique; les formaliser permet d'indexer les mécanismes de transition et de cartographier les points d'accès.

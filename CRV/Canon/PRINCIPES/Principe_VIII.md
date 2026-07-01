@@ -34,6 +34,14 @@ Décision :
 □ Fusion
 
 Justification :
+
+Mécanisme central par lequel l'attention module les branches.
+
+Justification :
+
+Mécanisme central par lequel l'attention module les branches.
+
+Justification :
 La résonance est le mécanisme par lequel l'intention et l'attention modulent la structure locale des branches; c'est un concept opératoire pour expliquer effets narratifs et phénomènes de préfiguration.
 
 Conséquences sur le Canon :

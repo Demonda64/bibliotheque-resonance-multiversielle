@@ -29,10 +29,18 @@ Questions :
 
 Décision :
 
-✓ Principe fondamental
-□ Corollaire
+□ Principe fondamental
+✓ Corollaire
 □ Théorème
 □ Fusion
+
+Justification :
+
+Proposition de reformulation en "Principe d'Émergence Temporelle"; l'énoncé actuel est conséquence de phénomènes temporels locaux.
+
+Justification :
+
+Proposition de reformulation en "Principe d'Émergence Temporelle"; l'énoncé actuel est conséquence de phénomènes temporels locaux.
 
 Justification :
 La non-universalite du temps établit une caractéristique ontologique et méthodologique essentielle de la BRM: elle modifie la façon dont sont évalués les rapports passé/présent/futur entre branches. Ce principe n'est pas une conséquence évidente d'autres principes; il structure l'interprétation des `Futurs deja presents`, de la `Pre-Resonance` et des `Fenetres de Perception`. En conséquence, il doit rester un principe fondateur du Canon.
@@ -41,4 +49,3 @@ Conséquences sur le Canon :
 - Lier explicitement `Futurs deja presents`, `Pre-Resonance` et `Localite Relativiste` au Principe III comme extensions temporelles.
 - Vérifier la cohérence des exemples de `06_CHAPTERS/` qui utilisent des notions de décalage temporel et annoter les fiches correspondantes.
 - Adapter les fiches pratiques sur cartographie et navigation pour mentionner la nécessité d'indexer les branches par leur temporalite locale.
-

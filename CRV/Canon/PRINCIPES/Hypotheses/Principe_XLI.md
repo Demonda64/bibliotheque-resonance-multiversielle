@@ -30,12 +30,14 @@ Questions :
 
 Décision :
 
-Décision :
-
-□ Principe fondamental
-✓ Corollaire
+✓ Principe fondamental
+□ Corollaire
 □ Théorème
 □ Fusion
+
+Justification :
+
+Continuité identitaire = loi essentielle à préserver.
 
 Justification :
 

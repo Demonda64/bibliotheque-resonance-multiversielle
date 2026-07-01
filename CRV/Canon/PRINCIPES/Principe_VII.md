@@ -28,10 +28,18 @@ Questions :
 
 Décision :
 
-✓ Principe fondamental
-□ Corollaire
+□ Principe fondamental
+✓ Corollaire
 □ Théorème
 □ Fusion
+
+Justification :
+
+Variation des capacités = conséquence des fenetres de perception.
+
+Justification :
+
+Variation des capacités = conséquence des fenetres de perception.
 
 Justification :
 Ce principe introduit la variation des capacités perceptives entre agents et explique la diversité des navigations; il est essentiel pour modéliser compétences, outils et inégalités d'accès aux branches.
@@ -39,4 +47,3 @@ Ce principe introduit la variation des capacités perceptives entre agents et ex
 Conséquences sur le Canon :
 - Lier aux fiches sur `Agents`, `Reves Lucides` et pratiques de formation.
 - Cataloguer niveaux de sensibilité dans la base d'artefacts.
-

@@ -34,6 +34,14 @@ Décision :
 □ Fusion
 
 Justification :
+
+Explique la dynamique d'alignement des consciences.
+
+Justification :
+
+Explique la dynamique d'alignement des consciences.
+
+Justification :
 La convergence explique comment et pourquoi une conscience change d'alignement vers une branche donnée; c'est central pour comprendre trajectoires narratives et décisions d'agent.
 
 Conséquences sur le Canon :
