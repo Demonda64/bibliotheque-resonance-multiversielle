@@ -30,10 +30,7 @@ Questions :
 
 Décision :
 
-□ Principe fondamental
-□ Corollaire
-□ Théorème
-□ Fusion
+✓ Hypothèse
 
 Justification :
 
