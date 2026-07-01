@@ -30,8 +30,15 @@ Questions :
 
 Décision :
 
-✓ Hypothèse
+Décision :
+
+□ Principe fondamental
+✓ Corollaire
+□ Théorème
+□ Fusion
 
 Justification :
+
+Classification automatique préliminaire : `Corollaire` (règle de parcimonie — absence d'éléments irréductibles dans la fiche). Cette justification est un placeholder généré automatiquement; merci de vérifier et compléter la justification en s'appuyant exclusivement sur le Canon existant.
 
 Conséquences sur le Canon :
